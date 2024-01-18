@@ -1,0 +1,5110 @@
+[
+  {
+    "text": "Patients with allergic rhinitis @ For symptoms of nasal blockage type, use a combination of leukotriene receptor antagonists or prostaglandin D2/thromboxane A2 receptor antagonist and nasal topical steroids. For symptoms of combined type, add second-generation antihistamine.  ",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with allergic rhinitis ",
+            "clinical manifestation",
+            "For symptoms of nasal blockage type"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with allergic rhinitis ",
+            "drug therapy",
+            "leukotriene receptor antagonists"
+          ],
+          [
+            "Patients with allergic rhinitis ",
+            "drug therapy",
+            "prostaglandin D2"
+          ],
+          [
+            "Patients with allergic rhinitis ",
+            "drug therapy",
+            "nasal topical steroids"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with allergic rhinitis ",
+            "clinical manifestation",
+            "combined type"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with allergic rhinitis ",
+            "drug therapy",
+            "second-generation antihistamine"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with liver hemangioma @ For hepatic hemangiomas accompanied by dysfunction in other vital organs and deemed unsuitable for surgical resection, treatment options include percutaneous RFA for hepatic hemangiomas, as well as open surgical RFA for hepatic hemangiomas.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with liver hemangioma ",
+            "clinical manifestation",
+            "dysfunction in other vital organs"
+          ],
+          [
+            "Patients with liver hemangioma ",
+            "clinical manifestation",
+            "deemed unsuitable for surgical resection"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with liver hemangioma ",
+            "therapeutic schedule",
+            "RFA for hepatic hemangiomas"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with recurrent respiratory tract infections @ In cases of viral infection with persistent high fever, consideration may be given to the combined use of Xiyenping or Heduning for treatment.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with recurrent respiratory tract infections ",
+            "clinical manifestation",
+            "viral infection"
+          ],
+          [
+            "Patients with recurrent respiratory tract infections ",
+            "clinical manifestation",
+            "persistent high fever"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with recurrent respiratory tract infections ",
+            "drug therapy",
+            "Xiyenping"
+          ],
+          [
+            "Patients with recurrent respiratory tract infections ",
+            "drug therapy",
+            "Heduning"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with liver cancer @ For patients with poor liver reserve function, unstable hemodynamics, and no surgical conditions, Transarterial Embolization can be considered.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with liver cancer ",
+            "clinical manifestation",
+            "poor liver reserve function"
+          ],
+          [
+            "Patients with liver cancer ",
+            "clinical manifestation",
+            "unstable hemodynamics"
+          ],
+          [
+            "Patients with liver cancer ",
+            "clinical manifestation",
+            "no surgical conditions"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with liver cancer ",
+            "therapeutic schedule",
+            "Transarterial Embolization"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with HCV @ Patients with HIV/HCV co-infection should undergo HCV treatment, and antiretroviral therapy for HIV is also recommended.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with HCV ",
+            "clinical manifestation",
+            "HIV/HCV co-infection"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with HCV ",
+            "therapeutic schedule",
+            "antiretroviral therapy"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with sclerosing cholangitis @ Transjugular intrahepatic portosystemic shunt (TIPS) can be performed as rescue TIPS in patients with refractory/uncontrollable variceal bleeding.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with sclerosing cholangitis ",
+            "clinical manifestation",
+            "refractory variceal bleeding"
+          ],
+          [
+            "Patients with sclerosing cholangitis ",
+            "clinical manifestation",
+            "uncontrollable variceal bleeding"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with sclerosing cholangitis ",
+            "therapeutic schedule",
+            "Transjugular intrahepatic portosystemic shunt (TIPS)"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with CKD @ For CKD patients with HCV infection who have been treated with interferon, it is recommended to use sofosbuvir/velpatasvir.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with CKD ",
+            "clinical manifestation",
+            "HCV infection"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with CKD ",
+            "drug therapy",
+            "sofosbuvir"
+          ],
+          [
+            "Patients with CKD ",
+            "drug therapy",
+            "velpatasvir"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with DVT @ Upon symptom relief, maintain the original dose or half dose of PPI once daily. In case of recurrent symptoms, consider escalating to the full dose of PPI for maintenance.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with DVT ",
+            "clinical manifestation",
+            "Upon symptom relief"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "PPI",
+            "dosage and administration",
+            "half dose"
+          ],
+          [
+            "Patients with DVT ",
+            "drug therapy",
+            "PPI"
+          ],
+          [
+            "PPI",
+            "dosage and administration",
+            "maintain the original dose"
+          ],
+          [
+            "PPI",
+            "dosage and administration",
+            "once daily"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with DVT ",
+            "clinical manifestation",
+            "recurrent symptoms"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with DVT ",
+            "drug therapy",
+            "PPI"
+          ],
+          [
+            "PPI",
+            "dosage and administration",
+            "escalating to the full dose"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "or"
+      }
+    ]
+  },
+  {
+    "text": "Patients with breast cancer @ For patients at high risk of recurrence (such as lymph node positive), dual targeted therapy (trastuzumab and pertuzumab) combined with adjuvant chemotherapy is recommended. Pertuzumab is administered once every 3 weeks at a dose of 420 mg for 1 year. ",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with breast cancer ",
+            "clinical manifestation",
+            "high risk of recurrence"
+          ],
+          [
+            "Patients with breast cancer ",
+            "clinical manifestation",
+            "lymph node positive"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with breast cancer ",
+            "therapeutic schedule",
+            "dual targeted therapy"
+          ],
+          [
+            "Patients with breast cancer ",
+            "drug therapy",
+            "trastuzumab"
+          ],
+          [
+            "Patients with breast cancer ",
+            "drug therapy",
+            "Pertuzumab"
+          ],
+          [
+            "Pertuzumab",
+            "dosage and administration",
+            "administered once every 3 weeks"
+          ],
+          [
+            "pertuzumab",
+            "dosage and administration",
+            "420 mg"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with WD @ For patients with Wilson's disease who have failed to respond or are intolerant to medical treatment and have progressed to advanced chronic liver disease, liver transplantation should be considered as soon as possible.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with WD ",
+            "clinical manifestation",
+            "failed to respond to medical treatment"
+          ],
+          [
+            "Patients with WD ",
+            "clinical manifestation",
+            "intolerant"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with WD ",
+            "therapeutic schedule",
+            "liver transplantation"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with liver cancer @ For patients with hepatic vein or vena cava tumor thrombus, complete hepatic vascular occlusion can be performed to remove the tumor thrombus as a whole whenever possible.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with liver cancer ",
+            "clinical manifestation",
+            "hepatic vein tumor thrombus"
+          ],
+          [
+            "Patients with liver cancer ",
+            "clinical manifestation",
+            "vena cava tumor thrombus"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with liver cancer ",
+            "therapeutic schedule",
+            "complete hepatic vascular occlusion"
+          ],
+          [
+            "Patients with liver cancer ",
+            "therapeutic schedule",
+            "remove the tumor thrombus as a whole"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Hypertrophic cardiomyopathy patients @ Treatment of acute hypotension with inotropes may be harmful in obstructive patients. Digoxin should be avoided in patients with left ventricular outflow tract obstruction.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Hypertrophic cardiomyopathy patients",
+            "clinical manifestation",
+            "obstructive"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Hypertrophic cardiomyopathy patients",
+            "prohibited drugs",
+            "inotropes"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Hypertrophic cardiomyopathy patients",
+            "clinical manifestation",
+            "left ventricular outflow tract obstruction"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Hypertrophic cardiomyopathy patients",
+            "prohibited drugs",
+            "Digoxin"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with NSCLC @ SBRT is recommended for patients with severe comorbidities, advanced age, and those who refuse surgery.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with NSCLC ",
+            "clinical manifestation",
+            "severe comorbidities"
+          ],
+          [
+            "Patients with NSCLC ",
+            "basic condition",
+            "advanced age"
+          ],
+          [
+            "Patients with NSCLC ",
+            "clinical manifestation",
+            "refuse surgery"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with NSCLC ",
+            "drug therapy",
+            "SBRT"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with candidiasis @ An echinocandin is preferred for patients who have had recent azole exposure, whose illness is moderately severe or severe.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with candidiasis ",
+            "clinical manifestation",
+            "recent azole exposure"
+          ],
+          [
+            "Patients with candidiasis ",
+            "clinical manifestation",
+            "moderately severe"
+          ],
+          [
+            "Patients with candidiasis ",
+            "clinical manifestation",
+            "severe"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with candidiasis ",
+            "drug therapy",
+            "echinocandin"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with acute-on-chronic liver failure @ Parenteral feeding should be considered in patients who cannot meet their nutritional needs using the gastrointestinal tract or in those with an unprotected airway, such as in patients with grade 3-4 HE.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with acute-on-chronic liver failure ",
+            "clinical manifestation",
+            "cannot meet their nutritional needs using the gastrointestinal tract"
+          ],
+          [
+            "Patients with acute-on-chronic liver failure ",
+            "clinical manifestation",
+            "unprotected airway"
+          ],
+          [
+            "Patients with acute-on-chronic liver failure ",
+            "clinical manifestation",
+            "grade 3-4 HE"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with acute-on-chronic liver failure ",
+            "therapeutic schedule",
+            "Parenteral feeding"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "CBP and CP/CPPS patients @ If you have adverse side effects to a-adrenergic antagonists, consider offering uroselective a-adrenergic antagonists (e.g. tamsulosin, alfuzosin and silodosin) as first-line treatment in patients with CBP and CP/CPPS who present with voiding LUTS (Level 5).",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "CBP and CP/CPPS patients ",
+            "clinical manifestation",
+            "adverse side effects to a-adrenergic antagonists"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "CBP and CP/CPPS patients ",
+            "drug therapy",
+            "uroselective a-adrenergic antagonists"
+          ],
+          [
+            "CBP and CP/CPPS patients ",
+            "drug therapy",
+            "tamsulosin"
+          ],
+          [
+            "CBP and CP/CPPS patients ",
+            "drug therapy",
+            "alfuzosin"
+          ],
+          [
+            "CBP and CP/CPPS patients ",
+            "drug therapy",
+            "silodosin"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "or"
+      }
+    ]
+  },
+  {
+    "text": "Patients with liver cancer @ For patients with portal vein tumor thrombus, temporarily blocking the blood flow in the healthy portal vein should be considered during the portal vein thrombectomy to prevent the spread of the tumor thrombus.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with liver cancer ",
+            "clinical manifestation",
+            "portal vein tumor thrombus"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with liver cancer ",
+            "therapeutic schedule",
+            "portal vein thrombectomy"
+          ],
+          [
+            "Patients with liver cancer ",
+            "therapeutic schedule",
+            "temporarily blocking the blood flow in the healthy portal vein"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with pheochromocytomas @ All pheochromocytomas have a potential for malignant transformation. If surgery is feasible, it is mandatory for all cases. In patients with inoperable pheochromocytomas, treatment options may include 131I-MIBG, 177Lu-Dotatate, and other therapeutic approaches.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with pheochromocytomas ",
+            "clinical manifestation",
+            "surgery is feasible"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with pheochromocytomas ",
+            "therapeutic schedule",
+            "surgery"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with pheochromocytomas ",
+            "drug therapy",
+            "131I-MIBG"
+          ],
+          [
+            "Patients with pheochromocytomas ",
+            "drug therapy",
+            "177Lu-Dotatate"
+          ]
+        ],
+        "logical_rel": "or"
+      }
+    ]
+  },
+  {
+    "text": "Patients with autoimmune hepatitis @ For patients with poor adherence to treatment or severe clinical symptoms, a liver biopsy should be considered prior to treatment withdrawal.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with autoimmune hepatitis ",
+            "clinical manifestation",
+            "poor adherence to treatment"
+          ],
+          [
+            "Patients with autoimmune hepatitis ",
+            "clinical manifestation",
+            "severe clinical symptoms"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with autoimmune hepatitis ",
+            "therapeutic schedule",
+            "liver biopsy"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with sclerosing cholangitis @ For mild attacks, a common first-line agent is an ampicillin/beta-lactamase inhibitors since these agents can be administered orally. More severe cases are treated with intravenous antibiotics with piperacillin/ tazobactam.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with sclerosing cholangitis ",
+            "clinical manifestation",
+            "mild attacks"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with sclerosing cholangitis ",
+            "drug therapy",
+            "ampicillin"
+          ],
+          [
+            "Patients with sclerosing cholangitis ",
+            "drug therapy",
+            "beta-lactamase inhibitors"
+          ],
+          [
+            "ampicillin",
+            "dosage and administration",
+            "orally"
+          ],
+          [
+            "beta-lactamase inhibitors",
+            "dosage and administration",
+            "orally"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with sclerosing cholangitis ",
+            "clinical manifestation",
+            "More severe"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with sclerosing cholangitis ",
+            "drug therapy",
+            "intravenous antibiotics"
+          ],
+          [
+            "Patients with sclerosing cholangitis ",
+            "drug therapy",
+            "piperacillin"
+          ],
+          [
+            "Patients with sclerosing cholangitis ",
+            "drug therapy",
+            "tazobactam"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with NSCLC @ Those with local symptoms or brain metastases are recommended to combine radiotherapy or other treatments based on chemotherapy.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with NSCLC ",
+            "clinical manifestation",
+            "local symptoms"
+          ],
+          [
+            "Patients with NSCLC ",
+            "clinical manifestation",
+            "brain metastases"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with NSCLC ",
+            "therapeutic schedule",
+            "chemotherapy"
+          ],
+          [
+            "Patients with NSCLC ",
+            "therapeutic schedule",
+            "radiotherapy"
+          ],
+          [
+            "Patients with NSCLC ",
+            "therapeutic schedule",
+            "other treatments"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with gastrolithiasis @ Patients with mild symptoms may use medications such as cola and fibrinolytic enzymes for chemical dissolution. Fibrinolytic enzyme 3-5g, for a total of 2-5 days. For patients with moderate to severe symptoms, endoscopic removal is required.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with gastrolithiasis ",
+            "clinical manifestation",
+            "mild symptoms"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with gastrolithiasis ",
+            "drug therapy",
+            "cola"
+          ],
+          [
+            "Patients with gastrolithiasis ",
+            "drug therapy",
+            "fibrinolytic enzymes"
+          ],
+          [
+            "fibrinolytic enzymes",
+            "dosage and administration",
+            "3-5g"
+          ],
+          [
+            "fibrinolytic enzymes",
+            "dosage and administration",
+            "a total of 2-5 days"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with gastrolithiasis ",
+            "clinical manifestation",
+            "moderate to severe symptoms"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with gastrolithiasis ",
+            "therapeutic schedule",
+            "endoscopic removal"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Mitral valve prolapse patients @ Most patients with mitral valve prolapse do not require treatment. If there is tachycardia, β-blockers can be used to slow down the heart rate, thereby relieving symptoms such as palpitations.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Mitral valve prolapse patients ",
+            "clinical manifestation",
+            "tachycardia"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Mitral valve prolapse patients ",
+            "drug therapy",
+            "β-blockers"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Mitral valve prolapse patients ",
+            "therapeutic schedule",
+            "do not require treatment"
+          ]
+        ],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Adults with hypothyroidism @ For young or elderly patients, as well as those with a history of coronary artery disease or arrhythmias, a lower dose of L-T3 is recommended.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Adults with hypothyroidism ",
+            "basic condition",
+            "young or elderly"
+          ],
+          [
+            "Adults with hypothyroidism ",
+            "clinical manifestation",
+            "coronary artery disease"
+          ],
+          [
+            "Adults with hypothyroidism ",
+            "clinical manifestation",
+            "history of arrhythmias"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Adults with hypothyroidism ",
+            "drug therapy",
+            "L-T3"
+          ],
+          [
+            "L-T3",
+            "dosage and administration",
+            "lower dose"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "and"
+      }
+    ]
+  },
+  {
+    "text": "Patients with gastroesophageal reflux disease @ We suggest consideration of transoral incisionless fundoplication (TIF) for patients with troublesome regurgitation or heartburn who do not wish to undergo antireflux surgery and who do not have severe reflux esophagitis or hiatal hernias >2 cm. (Conditional recommendation, low level of evidence)",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with gastroesophageal reflux disease ",
+            "clinical manifestation",
+            "troublesome regurgitation"
+          ],
+          [
+            "Patients with gastroesophageal reflux disease ",
+            "clinical manifestation",
+            "heartburn"
+          ],
+          [
+            "Patients with gastroesophageal reflux disease ",
+            "clinical manifestation",
+            "do not wish to undergo antireflux surgery"
+          ],
+          [
+            "Patients with gastroesophageal reflux disease ",
+            "clinical manifestation",
+            "do not have severe reflux esophagitis"
+          ],
+          [
+            "Patients with gastroesophageal reflux disease ",
+            "clinical manifestation",
+            "hiatal hernias >2 cm"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with gastroesophageal reflux disease ",
+            "therapeutic schedule",
+            "transoral incisionless fundoplication"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with viral hepatitis @ In those with renal dysfunction, ETV or TAF are  preferred.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with viral hepatitis ",
+            "clinical manifestation",
+            "renal dysfunction"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with viral hepatitis ",
+            "drug therapy",
+            "ETV"
+          ],
+          [
+            "Patients with viral hepatitis ",
+            "drug therapy",
+            "TAF"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with vaginal laxity syndrome @ If a patient lacks columnar folds and does not have specific defects in a particular area, for those with a widened mid-vagina, G-spot amplification may be considered to reduce the width of the mid-vagina.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with vaginal laxity syndrome ",
+            "clinical manifestation",
+            "lacks columnar folds"
+          ],
+          [
+            "Patients with vaginal laxity syndrome ",
+            "clinical manifestation",
+            "does not have specific defects"
+          ],
+          [
+            "Patients with vaginal laxity syndrome ",
+            "clinical manifestation",
+            "widened mid-vagina"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with vaginal laxity syndrome ",
+            "therapeutic schedule",
+            "G-spot amplification"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with cirrhosis @ For patients without esophageal varices detected during initial screening, repeat endoscopy every 2-3 years is recommended. For compensated cirrhotic patients with mild esophageal varices identified during initial screening, repeat endoscopy every 1-2 years is advised. For decompensated cirrhotic patients in whom esophageal varices have essentially disappeared after treatment, repeat endoscopy every 6-12 months is recommended.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with cirrhosis ",
+            "clinical manifestation",
+            "without esophageal varices detected during initial screening"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with cirrhosis ",
+            "therapeutic schedule",
+            "repeat endoscopy every 2-3 years"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with cirrhosis ",
+            "clinical manifestation",
+            "mild esophageal varices"
+          ],
+          [
+            "Patients with cirrhosis ",
+            "clinical manifestation",
+            "compensated"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with cirrhosis ",
+            "therapeutic schedule",
+            "repeat endoscopy every 1-2 years"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with cirrhosis ",
+            "clinical manifestation",
+            "decompensated"
+          ],
+          [
+            "Patients with cirrhosis ",
+            "clinical manifestation",
+            "esophageal varices have essentially disappeared"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with cirrhosis ",
+            "therapeutic schedule",
+            "repeat endoscopy every 6-12 months"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with cirrhosis @ For patients undergoing invasive treatment for hepatocellular carcinoma or esophagogastric varices, dietary/nutritional therapy is strongly recommended to improve protein-energy malnutrition. ",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with cirrhosis ",
+            "clinical manifestation",
+            "undergoing invasive treatment for hepatocellular carcinoma"
+          ],
+          [
+            "Patients with cirrhosis ",
+            "clinical manifestation",
+            "undergoing invasive treatment for esophagogastric varices"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with cirrhosis ",
+            "therapeutic schedule",
+            "dietary/nutritional therapy"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with primary biliary cholangitis @ For those with portal hypertension, upper gastrointestinal endoscopy can be performed in the second trimester.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with primary biliary cholangitis",
+            "clinical manifestation",
+            "portal hypertension"
+          ],
+          [
+            "Patients with primary biliary cholangitis",
+            "basic condition",
+            "second trimester"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with primary biliary cholangitis ",
+            "therapeutic schedule",
+            "upper gastrointestinal endoscopy"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with NSCLC @ Sequential durvalumab treatment for 1 year can be considered for patients with unresectable stage III NSCLC if there is no disease progression after concurrent chemoradiation.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with NSCLC ",
+            "clinical manifestation",
+            "unresectable"
+          ],
+          [
+            "Patients with NSCLC ",
+            "clinical manifestation",
+            "stage III NSCLC"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with NSCLC ",
+            "clinical manifestation",
+            "there is no disease progression after concurrent chemoradiation."
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with NSCLC ",
+            "therapeutic schedule",
+            "Sequential durvalumab treatment for 1 year"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patient with gastric cancer @ For patients with metastatic/recurrent disease, comprehensive treatment based on drug therapy is recommended.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patient with gastric cancer ",
+            "clinical manifestation",
+            "metastatic/recurrent disease"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patient with gastric cancer ",
+            "therapeutic schedule",
+            "drug therapy"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with keloid @ For patients with extremely large keloids, if the patient is elderly or not suitable for extensive surgery, a staged excision approach may be a preferable surgical method.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with keloid ",
+            "clinical manifestation",
+            "extremely large keloids"
+          ],
+          [
+            "Patients with keloid ",
+            "basic condition",
+            "elderly"
+          ],
+          [
+            "Patients with keloid ",
+            "basic condition",
+            "not suitable for extensive surgery"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with keloid ",
+            "therapeutic schedule",
+            "staged excision"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Sleep apnea patients @ Continuous positive airway pressure therapy is beneficial for improving sleep quality and daytime sleepiness in patients with obstructive sleep apnea accompanied by cardiovascular disease.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Sleep apnea patients ",
+            "clinical manifestation",
+            "cardiovascular disease"
+          ],
+          [
+            "Sleep apnea patients ",
+            "clinical manifestation",
+            "obstructive sleep apnea"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Sleep apnea patients ",
+            "therapeutic schedule",
+            "Continuous positive airway pressure therapy"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with hepatitis C @ The recommended dosage for children aged 3 and above, with a body weight less than 17kg, is 150mg/37.5mg of sofosbuvir/velpatasvir per day. For children with a body weight between 17-30kg, the recommended dosage is 200mg/50mg per day. For children with a body weight of 30kg or more, the recommended dosage is 400mg/100mg per day.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with hepatitis C ",
+            "basic condition",
+            "children aged 3 and above"
+          ],
+          [
+            "Patients with hepatitis C ",
+            "basic condition",
+            "with a body weight less than 17kg"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with hepatitis C ",
+            "drug therapy",
+            "sofosbuvir"
+          ],
+          [
+            "Patients with hepatitis C ",
+            "drug therapy",
+            "velpatasvir"
+          ],
+          [
+            "velpatasvir",
+            "dosage and administration",
+            "150mg/37.5mg"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with hepatitis C ",
+            "basic condition",
+            "body weight between 17-30kg"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with hepatitis C ",
+            "drug therapy",
+            "sofosbuvir"
+          ],
+          [
+            "Patients with hepatitis C ",
+            "drug therapy",
+            "velpatasvir"
+          ],
+          [
+            "velpatasvir",
+            "dosage and administration",
+            "200mg/50mg per day"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with hepatitis C ",
+            "basic condition",
+            "body weight of 30kg or more"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with hepatitis C ",
+            "drug therapy",
+            "sofosbuvir"
+          ],
+          [
+            "Patients with hepatitis C ",
+            "drug therapy",
+            "velpatasvir"
+          ],
+          [
+            "velpatasvir",
+            "dosage and administration",
+            "400mg/100mg per day"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with PHP @ For pregnant and lactating patients with PHP, it is recommended to use active vitamin D and its analogs in combination with calcium supplements to maintain blood calcium levels.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with PHP ",
+            "basic condition",
+            "pregnant"
+          ],
+          [
+            "Patients with PHP ",
+            "basic condition",
+            "lactating patients"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with PHP ",
+            "drug therapy",
+            "active vitamin D and its analogs"
+          ],
+          [
+            "Patients with PHP ",
+            "drug therapy",
+            "calcium supplements"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with familial adenomatous polyps @ If the new polyps appear too quickly or grow excessively, rectal resection and the creation of a permanent colostomy may be necessary.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with familial adenomatous polyps ",
+            "clinical manifestation",
+            "the new polyps appear too quickly"
+          ],
+          [
+            "Patients with familial adenomatous polyps ",
+            "clinical manifestation",
+            "grow excessively"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with familial adenomatous polyps ",
+            "therapeutic schedule",
+            "rectal resection and the creation of a permanent colostomy"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with keloid @ For scars on the ear, the primary treatment approach remains surgical excision in principle.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with keloid ",
+            "clinical manifestation",
+            "scars on the ear"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with keloid ",
+            "therapeutic schedule",
+            "surgical excision"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with OSA @ Upper airway surgery is suitable for OSA patients with upper airway obstruction.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with OSA ",
+            "clinical manifestation",
+            "upper airway obstruction"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with OSA ",
+            "therapeutic schedule",
+            "Upper airway surgery"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Infantile cholestasis @ In cases of chronic intrahepatic cholestasis in children with poor response to internal medicine treatment, clinical symptom relief may be achieved through biliary diversion procedures.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Infantile cholestasis ",
+            "clinical manifestation",
+            "poor response to internal medicine treatment"
+          ],
+          [
+            "Infantile cholestasis ",
+            "clinical manifestation",
+            "chronic intrahepatic cholestasis"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Infantile cholestasis ",
+            "therapeutic schedule",
+            "biliary diversion procedures"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with AP @ For patients with fecal elastase 1 <100 mcg/gm or patients with typical manifestations of steatorrhea, pancreatic enzyme supplementation and replacement therapy should be given.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with AP ",
+            "clinical manifestation",
+            "fecal elastase 1 <100 mcg/gm"
+          ],
+          [
+            "Patients with AP ",
+            "clinical manifestation",
+            "typical manifestations of steatorrhea"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with AP ",
+            "therapeutic schedule",
+            "pancreatic enzyme supplementation and replacement therapy"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with keloid @ For scar types characterized by pronounced congestion, rapid infiltration into the surrounding area, anti-inflammatory drug injection therapy (such as corticosteroids) is often effective. However, for types of scars with less obvious congestion, dark color, prominent surface, and rapid growth resembling a \"tumor,\" a treatment strategy primarily focused on surgical intervention is preferable.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with keloid ",
+            "clinical manifestation",
+            "pronounced congestion"
+          ],
+          [
+            "Patients with keloid ",
+            "clinical manifestation",
+            "rapid infiltration into the surrounding area"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with keloid ",
+            "therapeutic schedule",
+            "anti-inflammatory drug injection therapy"
+          ],
+          [
+            "Patients with keloid ",
+            "drug therapy",
+            "corticosteroids"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with keloid ",
+            "clinical manifestation",
+            "less obvious congestion"
+          ],
+          [
+            "Patients with keloid ",
+            "clinical manifestation",
+            "dark color"
+          ],
+          [
+            "Patients with keloid ",
+            "clinical manifestation",
+            "prominent surface"
+          ],
+          [
+            "Patients with keloid ",
+            "clinical manifestation",
+            "rapid growth"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with keloid ",
+            "therapeutic schedule",
+            "surgical intervention"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Elderly patients with osteoporosis @ Parathyroid hormone analogues may be used in patients at high risk for vertebral fractures or at high risk for nonvertebral fractures who do not respond well to bone resorption inhibitors.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Elderly patients with osteoporosis",
+            "clinical manifestation",
+            "at high risk for vertebral fractures"
+          ],
+          [
+            "Elderly patients with osteoporosis",
+            "clinical manifestation",
+            "at high risk for nonvertebral fractures"
+          ],
+          [
+            "Elderly patients with osteoporosis",
+            "clinical manifestation",
+            "not respond well to bone resorption inhibitors."
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Elderly patients with osteoporosis",
+            "drug therapy",
+            "Parathyroid hormone analogues"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with Hereditary hemochromatosis @ We therefore recommend the use of iron chelation for the treatment of HH for the patient who is intolerant or refractory to phlebotomy or when phlebotomy has the potential for harm.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with Hereditary hemochromatosis ",
+            "clinical manifestation",
+            "intolerant to phlebotomy"
+          ],
+          [
+            "Patients with Hereditary hemochromatosis ",
+            "clinical manifestation",
+            "refractory to phlebotomy"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with Hereditary hemochromatosis ",
+            "drug therapy",
+            "iron chelation"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with rheumatoid arthritis @ For patients with poor response or poor tolerance to methotrexate, if patients have adverse prognostic factors, add-on biologic therapy may be considered (TNFa antagonist, abatacept, tocilizumab or, in specific situations, rituximab). If patients do not have adverse prognostic factors, the recommended treatment is either combined synthetic DMARD therapy (e.g., methotrexate + sulfasalazine + hydroxychloroquine).",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with rheumatoid arthritis ",
+            "clinical manifestation",
+            "poor response to methotrexate"
+          ],
+          [
+            "Patients with rheumatoid arthritis ",
+            "clinical manifestation",
+            "poor tolerance to methotrexate"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with rheumatoid arthritis ",
+            "clinical manifestation",
+            "adverse prognostic factors"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with rheumatoid arthritis ",
+            "drug therapy",
+            "biologic therapy"
+          ],
+          [
+            "Patients with rheumatoid arthritis ",
+            "drug therapy",
+            "TNFa antagonist"
+          ],
+          [
+            "Patients with rheumatoid arthritis ",
+            "drug therapy",
+            "abatacept"
+          ],
+          [
+            "Patients with rheumatoid arthritis ",
+            "drug therapy",
+            "tocilizumab"
+          ],
+          [
+            "Patients with rheumatoid arthritis ",
+            "drug therapy",
+            "rituximab"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with rheumatoid arthritis ",
+            "drug therapy",
+            "methotrexate"
+          ],
+          [
+            "Patients with rheumatoid arthritis ",
+            "drug therapy",
+            "sulfasalazine"
+          ],
+          [
+            "Patients with rheumatoid arthritis ",
+            "drug therapy",
+            "hydroxychloroquine"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with MMA and PA @ For patients with functional amenorrhea hormone replacement therapy or hormonal contraceptives should be offered.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with MMA and PA ",
+            "clinical manifestation",
+            "functional amenorrhea"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with MMA and PA ",
+            "therapeutic schedule",
+            "hormone replacement therapy"
+          ],
+          [
+            "Patients with MMA and PA ",
+            "drug therapy",
+            "hormonal contraceptives"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with simple hallux valgus @ For middle-aged to elderly patients with severe hallux valgus angle (HVA) enlargement, especially those with metatarsus adductus, correcting the deformity may involve first metatarsophalangeal joint fusion.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with simple hallux valgus ",
+            "clinical manifestation",
+            "severe"
+          ],
+          [
+            "Patients with simple hallux valgus ",
+            "clinical manifestation",
+            "hallux valgus angle (HVA) enlargement"
+          ],
+          [
+            "Patients with simple hallux valgus ",
+            "basic condition",
+            "middle-aged to elderly"
+          ],
+          [
+            "Patients with simple hallux valgus ",
+            "clinical manifestation",
+            "metatarsus adductus"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with simple hallux valgus ",
+            "therapeutic schedule",
+            "first metatarsophalangeal joint fusion"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with HCV-GN @ For HCV-associated glomerulonephritis patients with severe cryoglobulinemia or rapidly progressing renal failure, it is recommended to use DAA treatment along with immunosuppressive agents and/or plasma exchange therapy.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with HCV-GN ",
+            "clinical manifestation",
+            "severe cryoglobulinemia"
+          ],
+          [
+            "Patients with HCV-GN ",
+            "clinical manifestation",
+            "rapidly progressing renal failure"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with HCV-GN ",
+            "therapeutic schedule",
+            "DAA treatment"
+          ],
+          [
+            "Patients with HCV-GN ",
+            "therapeutic schedule",
+            "DAA treatment"
+          ],
+          [
+            "Patients with HCV-GN ",
+            "drug therapy",
+            "immunosuppressive agents"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with Sjögren's Disease @ Sjögren's Disease @ Chlorhexidine administered by varnish, gel, or rinse may be considered in SD patients with dry mouth and a high root caries rate.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with Sjögren's Disease ",
+            "clinical manifestation",
+            "dry mouth"
+          ],
+          [
+            "Patients with Sjögren's Disease ",
+            "clinical manifestation",
+            "high root caries rate"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with Sjögren's Disease ",
+            "drug therapy",
+            "Chlorhexidine administered by varnish"
+          ],
+          [
+            "Patients with Sjögren's Disease ",
+            "drug therapy",
+            "gel"
+          ],
+          [
+            "Patients with Sjögren's Disease ",
+            "drug therapy",
+            "rinse"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Hypoparathyroidism patients @ Patients with symptoms and signs of hypocalcemia, such as hand and foot cramps, should receive active intravenous calcium supplementation. Administer 10-20 mL of 10% calcium gluconate slowly by intravenous infusion.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Hypoparathyroidism patients ",
+            "clinical manifestation",
+            "hand and foot cramps"
+          ],
+          [
+            "Hypoparathyroidism patients ",
+            "clinical manifestation",
+            "hypocalcemia"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Hypoparathyroidism patients ",
+            "therapeutic schedule",
+            "intravenous calcium supplementation"
+          ],
+          [
+            "Hypoparathyroidism patients ",
+            "drug therapy",
+            "10% calcium gluconate"
+          ],
+          [
+            "10% calcium gluconate",
+            "dosage and administration",
+            "10-20 mL"
+          ],
+          [
+            "10% calcium gluconate",
+            "dosage and administration",
+            "intravenous infusion"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with allergic rhinitis @ For mild symptoms, administer second-generation antihistamine or a mast cell stabilizer. If symptoms are exacerbated, concomitantly use nasal topical steroids early.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with allergic rhinitis ",
+            "clinical manifestation",
+            "mild"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with allergic rhinitis ",
+            "drug therapy",
+            "second-generation antihistamine"
+          ],
+          [
+            "Patients with allergic rhinitis ",
+            "drug therapy",
+            "mast cell stabilizer"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with allergic rhinitis ",
+            "clinical manifestation",
+            "symptoms are exacerbated"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with allergic rhinitis ",
+            "drug therapy",
+            "nasal topical steroids"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with NSCLC @ For patients with resistance to EGFR-TKI or ALK inhibitor in the first line, platinum-doublet or monotherapy regimen can be selected.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with NSCLC ",
+            "clinical manifestation",
+            "EGFR-TKI"
+          ],
+          [
+            "Patients with NSCLC ",
+            "clinical manifestation",
+            "resistance to ALK inhibitor"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with NSCLC ",
+            "drug therapy",
+            "platinum-doublet or monotherapy regimen"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with SAP @ For SAP patients with concomitant acute kidney injury, the choice between continuous slow and low-efficiency hemodialysis or continuous renal replacement therapy may be made based on hemodynamic status.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with SAP ",
+            "clinical manifestation",
+            "acute kidney injury"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with SAP ",
+            "therapeutic schedule",
+            "slow and low-efficiency hemodialysis"
+          ],
+          [
+            "Patients with SAP ",
+            "therapeutic schedule",
+            "renal replacement therapy"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with oral lichen planus @ Hydroxychloroquine sulfate is effective in the treatment of persistent erosive lesions. The recommended oral dose is 200 to 400mg per day.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with oral lichen planus ",
+            "clinical manifestation",
+            "persistent"
+          ],
+          [
+            "Patients with oral lichen planus ",
+            "clinical manifestation",
+            "erosive lesions"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with oral lichen planus ",
+            "drug therapy",
+            "Hydroxychloroquine sulfate"
+          ],
+          [
+            "Hydroxychloroquine sulfate",
+            "dosage and administration",
+            "200 to 400mg per day."
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with hepatitis B @ For patients who have not undergone Highly Active Antiretroviral Therapy and do not require HAART treatment in the near future, non-HIV-active drugs should be chosen for antiviral treatment against HBV.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with hepatitis B ",
+            "clinical manifestation",
+            "do not require HAART treatment in the near future"
+          ],
+          [
+            "Patients with hepatitis B ",
+            "clinical manifestation",
+            "have not undergone Highly Active Antiretroviral Therapy"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with hepatitis B ",
+            "drug therapy",
+            "non-HIV-active drugs"
+          ],
+          [
+            "Patients with hepatitis B ",
+            "therapeutic schedule",
+            "antiviral treatment against HBV"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with oral lichen planus @ For patients with severe local damage, topical application of corticosteroid cream is an option, and for those with extensive erosion, a corticosteroid solution can be used as a mouthwash.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with oral lichen planus ",
+            "clinical manifestation",
+            "severe local damage"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "corticosteroid cream",
+            "dosage and administration",
+            "topical application"
+          ],
+          [
+            "Patients with oral lichen planus ",
+            "drug therapy",
+            "corticosteroid cream"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with oral lichen planus ",
+            "clinical manifestation",
+            "extensive erosion"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with oral lichen planus ",
+            "drug therapy",
+            "corticosteroid solution"
+          ],
+          [
+            "corticosteroid solution",
+            "dosage and administration",
+            "mouthwash"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "CBP and CP/CPPS patients @ For patients who are refractory to treatment, if there is any trauma (including physical, emotional, or sexual abuse;), an MDT approach is recommended that integrates medication, physical therapy, and psychotherapy into the patient-specific of individualized holistic treatment plans.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "CBP and CP/CPPS patients ",
+            "clinical manifestation",
+            "refractory to treatment"
+          ],
+          [
+            "CBP and CP/CPPS patients ",
+            "clinical manifestation",
+            "if there is any trauma"
+          ],
+          [
+            "CBP and CP/CPPS patients ",
+            "clinical manifestation",
+            "physical abuse"
+          ],
+          [
+            "CBP and CP/CPPS patients ",
+            "clinical manifestation",
+            "emotional abuse"
+          ],
+          [
+            "CBP and CP/CPPS patients ",
+            "clinical manifestation",
+            "sexual abuse"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "CBP and CP/CPPS patients ",
+            "therapeutic schedule",
+            "MDT"
+          ],
+          [
+            "CBP and CP/CPPS patients ",
+            "therapeutic schedule",
+            "medication therapy"
+          ],
+          [
+            "CBP and CP/CPPS patients ",
+            "therapeutic schedule",
+            "physical therapy"
+          ],
+          [
+            "CBP and CP/CPPS patients ",
+            "therapeutic schedule",
+            "psychotherapy"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with liver cancer @ For single tumors with a diameter of 3 to 7 cm or multiple tumors that are not suitable for surgical resection, combination therapy with transarterial TACE can be considered.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with liver cancer ",
+            "clinical manifestation",
+            "not suitable for surgical resection"
+          ],
+          [
+            "Patients with liver cancer ",
+            "clinical manifestation",
+            "single tumors with a diameter of 3 to 7 cm"
+          ],
+          [
+            "Patients with liver cancer ",
+            "clinical manifestation",
+            "multiple tumors"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with liver cancer ",
+            "therapeutic schedule",
+            "therapy with transarterial TACE"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patient with gastric cancer @ For tumors located in the lower part of the stomach, distal gastrectomy or total gastrectomy may be considered, while total gastrectomy may be performed for carcinoma located in the corpus. For adenocarcinoma located on the proximal side of EGJ, proximal gastrectomy or total gastrectomy should be taken into consideration.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patient with gastric cancer ",
+            "clinical manifestation",
+            "tumors located in the lower part of the stomach"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patient with gastric cancer ",
+            "therapeutic schedule",
+            "distal gastrectomy"
+          ],
+          [
+            "Patient with gastric cancer ",
+            "therapeutic schedule",
+            "total gastrectomy"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patient with gastric cancer ",
+            "clinical manifestation",
+            "carcinoma located in the corpus"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patient with gastric cancer ",
+            "therapeutic schedule",
+            "total gastrectomy"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patient with gastric cancer ",
+            "clinical manifestation",
+            "adenocarcinoma located on the proximal side of EGJ"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patient with gastric cancer ",
+            "therapeutic schedule",
+            "proximal gastrectomy"
+          ],
+          [
+            "Patient with gastric cancer ",
+            "therapeutic schedule",
+            "total gastrectomy"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with NSCLC @ Topotecan, irinotecan, gemcitabine, vinorelbine, temozolomide, or paclitaxel is recommended for patients with recurrence within 6 months after first-line chemotherapy. ",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with NSCLC ",
+            "clinical manifestation",
+            "recurrence within 6 months after first-line chemotherapy"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with NSCLC ",
+            "drug therapy",
+            "Topotecan"
+          ],
+          [
+            "Patients with NSCLC ",
+            "drug therapy",
+            "irinotecan"
+          ],
+          [
+            "Patients with NSCLC ",
+            "drug therapy",
+            "gemcitabine"
+          ],
+          [
+            "Patients with NSCLC ",
+            "drug therapy",
+            "vinorelbine"
+          ],
+          [
+            "Patients with NSCLC ",
+            "drug therapy",
+            "temozolomide"
+          ],
+          [
+            "Patients with NSCLC ",
+            "drug therapy",
+            "paclitaxel"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with liver cancer @ For symptomatic bone metastasis patients, bisphosphonates can be used.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with liver cancer ",
+            "clinical manifestation",
+            "bone metastasis"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with liver cancer ",
+            "drug therapy",
+            "bisphosphonates"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with candidiasis @ For patients with normal renal function, oral fluorocytosine therapy is usually administered at a dose of 25mg/kg, four times a day.. Dose adjustment is necessary for patients with renal dysfunction.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with candidiasis ",
+            "clinical manifestation",
+            "normal renal function"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "fluorocytosine",
+            "dosage and administration",
+            "oral"
+          ],
+          [
+            "Patients with candidiasis ",
+            "drug therapy",
+            "fluorocytosine"
+          ],
+          [
+            "fluorocytosine",
+            "dosage and administration",
+            "dose of 25mg/kg"
+          ],
+          [
+            "fluorocytosine",
+            "dosage and administration",
+            "four times a day"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with candidiasis ",
+            "clinical manifestation",
+            "renal dysfunction"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "fluorocytosine",
+            "dosage and administration",
+            "Dose adjustment"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with pancreatic cancer @ Patients with moderate to severe pain should receive an adequate dose of oral opioid medications to alleviate pain. For chronic pain, long-acting formulations such as transdermal fentanyl, hydrocodone, and hydromorphone are often preferred.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with pancreatic cancer ",
+            "clinical manifestation",
+            "moderate to severe pain"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "opioid medications",
+            "dosage and administration",
+            "oral"
+          ],
+          [
+            "Patients with pancreatic cancer ",
+            "drug therapy",
+            "opioid medications"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with pancreatic cancer ",
+            "clinical manifestation",
+            "chronic pain"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with pancreatic cancer ",
+            "drug therapy",
+            "long-acting formulations"
+          ],
+          [
+            "Patients with pancreatic cancer ",
+            "drug therapy",
+            "transdermal fentanyl"
+          ],
+          [
+            "Patients with pancreatic cancer ",
+            "drug therapy",
+            "hydrocodone"
+          ],
+          [
+            "Patients with pancreatic cancer ",
+            "drug therapy",
+            "hydromorphone"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with WD @ For asymptomatic infants, zinc supplementation may commence at the age of 2 to 3 years. In the case of asymptomatic Wilson's disease (WD) identified in young individuals, zinc supplementation or D-penicillamine copper-chelating therapy may be initiated early on a low-copper diet.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with WD ",
+            "clinical manifestation",
+            "asymptomatic"
+          ],
+          [
+            "Patients with WD ",
+            "basic condition",
+            "infants"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with WD ",
+            "drug therapy",
+            "zinc"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with WD ",
+            "clinical manifestation",
+            "asymptomatic"
+          ],
+          [
+            "Patients with WD ",
+            "basic condition",
+            "young individuals"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with WD ",
+            "therapeutic schedule",
+            "low-copper diet"
+          ],
+          [
+            "Patients with WD ",
+            "drug therapy",
+            "zinc"
+          ],
+          [
+            "Patients with WD ",
+            "drug therapy",
+            "D-penicillamine"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with main pancreatic duct obstruction @ For small-sized main pancreatic duct stones, successful drainage can be achieved through endoscopic retrograde cholangiopancreatography (ERCP). For main pancreatic duct stones larger than 5 mm, extracorporeal shock wave lithotripsy (ESWL) is the preferred treatment.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with main pancreatic duct obstruction ",
+            "clinical manifestation",
+            "small-sized"
+          ],
+          [
+            "Patients with main pancreatic duct obstruction ",
+            "clinical manifestation",
+            "main pancreatic duct stones"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with main pancreatic duct obstruction ",
+            "therapeutic schedule",
+            "ERCP"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with main pancreatic duct obstruction ",
+            "clinical manifestation",
+            "main pancreatic duct stones larger than 5 mm"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with main pancreatic duct obstruction ",
+            "therapeutic schedule",
+            "extracorporeal shock wave lithotripsy"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with COPD @ For low-risk patients experiencing AECOPD, inhalation bronchodilators are recommended as the initial treatment. For high-risk AECOPD patients, a combination therapy including Inhaled Corticosteroids is recommended.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with COPD ",
+            "clinical manifestation",
+            "low-risk "
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "bronchodilators",
+            "dosage and administration",
+            "inhalation"
+          ],
+          [
+            "Patients with COPD ",
+            "drug therapy",
+            "bronchodilators"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with COPD ",
+            "clinical manifestation",
+            "high-risk AECOPD"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with COPD ",
+            "drug therapy",
+            "bronchodilators"
+          ],
+          [
+            "Patients with COPD ",
+            "therapeutic schedule",
+            "Inhaled Corticosteroids"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with AI @ For patients with initial assessments indicating benign characteristics and a maximum diameter of less than 3 cm in adrenal incidentalomas (AI), frequent imaging examinations (such as CT scans) are not recommended. Instead, follow-up every 1 to 2 years is sufficient. In patients with an initial negative hormone assessment for AI, repeated hormone testing is not advisable.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with AI ",
+            "clinical manifestation",
+            "initial assessments indicating benign characteristics"
+          ],
+          [
+            "Patients with AI ",
+            "clinical manifestation",
+            "maximum diameter of less than 3 cm"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with AI ",
+            "therapeutic schedule",
+            "frequent imaging examinations are not recommended"
+          ],
+          [
+            "Patients with AI ",
+            "therapeutic schedule",
+            "follow-up every 1 to 2 years"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with AI ",
+            "clinical manifestation",
+            "initial negative hormone assessment"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with AI ",
+            "therapeutic schedule",
+            "repeated hormone testing is not advisable"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with inflammatory bowel disease @ In patients where nutritional requirements cannot be met, enteral nutrition or parenteral nutrition is indicated.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with inflammatory bowel disease ",
+            "clinical manifestation",
+            "nutritional requirements cannot be met"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with inflammatory bowel disease ",
+            "therapeutic schedule",
+            "enteral nutrition"
+          ],
+          [
+            "Patients with inflammatory bowel disease ",
+            "therapeutic schedule",
+            "parenteral nutrition"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with DILI @ Cases with good treatment responsiveness to corticosteroids in the initial treatment respond well to an increased dose or resuming steroid therapy when a relapse occurs. For recurrent relapses, adding or switching to AZA 1-2 mg/kg/day should be considered.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with DILI ",
+            "clinical manifestation",
+            "Cases with good treatment responsiveness to corticosteroids"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with DILI ",
+            "clinical manifestation",
+            "relapse occurs"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with DILI ",
+            "therapeutic schedule",
+            "increased dose"
+          ],
+          [
+            "Patients with DILI ",
+            "therapeutic schedule",
+            "resuming steroid therapy"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with DILI ",
+            "clinical manifestation",
+            "recurrent relapses"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with DILI ",
+            "drug therapy",
+            "AZA"
+          ],
+          [
+            "AZA",
+            "dosage and administration",
+            "1-2 mg/kg/day"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with pancreatic cancer @ For patients with resectable localized pancreatic cancer who cannot tolerate or refuse surgery, radical precision radiotherapy is recommended.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with pancreatic cancer ",
+            "clinical manifestation",
+            "resectable localized pancreatic cancer"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with pancreatic cancer ",
+            "clinical manifestation",
+            "cannot tolerate"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with pancreatic cancer ",
+            "therapeutic schedule",
+            "radical precision radiotherapy"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with MMA and PA @ L-Dopa/Carbidopa, trihexylphenidyl, clonazepam, baclofen (oral, continuous intrathecal, ventriculoperitoneal shunt) treatments can be effective in patients with acute/chronic dyskinesia and movement disorder.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with MMA and PA ",
+            "clinical manifestation",
+            "acute/chronic dyskinesia and movement disorder"
+          ],
+          [
+            "Patients with MMA and PA ",
+            "clinical manifestation",
+            "movement disorder"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with MMA and PA ",
+            "drug therapy",
+            "L-Dopa"
+          ],
+          [
+            "Patients with MMA and PA ",
+            "drug therapy",
+            "Carbidopa"
+          ],
+          [
+            "Patients with MMA and PA ",
+            "drug therapy",
+            "trihexylphenidyl"
+          ],
+          [
+            "Patients with MMA and PA ",
+            "drug therapy",
+            "clonazepam"
+          ],
+          [
+            "Patients with MMA and PA ",
+            "drug therapy",
+            "baclofen"
+          ],
+          [
+            "baclofen",
+            "dosage and administration",
+            "oral"
+          ],
+          [
+            "Patients with MMA and PA ",
+            "therapeutic schedule",
+            "continuous intrathecal, ventriculoperitoneal shunt"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with liver damage @ For choreiform movements and bradykinesia, medications such as clonazepam and flupenthixol may be considered. In cases of agitation or mania, options include quetiapine, olanzapine, risperidone, and chlorpromazine. For individuals with apathy or depression, antidepressant medications may be appropriate.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with liver damage ",
+            "clinical manifestation",
+            "choreiform movements"
+          ],
+          [
+            "Patients with liver damage ",
+            "clinical manifestation",
+            "bradykinesia"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with liver damage ",
+            "drug therapy",
+            "clonazepam"
+          ],
+          [
+            "Patients with liver damage ",
+            "drug therapy",
+            "flupenthixol"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with liver damage ",
+            "clinical manifestation",
+            "agitation or mania"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with liver damage ",
+            "drug therapy",
+            "quetiapine"
+          ],
+          [
+            "Patients with liver damage ",
+            "drug therapy",
+            "olanzapine"
+          ],
+          [
+            "Patients with liver damage ",
+            "drug therapy",
+            "risperidone"
+          ],
+          [
+            "Patients with liver damage ",
+            "drug therapy",
+            "chlorpromazine"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with liver damage ",
+            "clinical manifestation",
+            "For individuals with apathy"
+          ],
+          [
+            "Patients with liver damage ",
+            "clinical manifestation",
+            "depression"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with liver damage ",
+            "drug therapy",
+            "antidepressant medications"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with liver cancer @ For patients with resectable liver tumors, good liver reserve function, and stable hemodynamics, surgical resection is the preferred option.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with liver cancer ",
+            "clinical manifestation",
+            "resectable liver tumors"
+          ],
+          [
+            "Patients with liver cancer ",
+            "clinical manifestation",
+            "good liver reserve function"
+          ],
+          [
+            "Patients with liver cancer ",
+            "clinical manifestation",
+            "stable hemodynamics"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with liver cancer ",
+            "therapeutic schedule",
+            "surgical resection"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with AI @ For patients with unilateral AI diagnosed with ACS, if metabolic abnormalities such as hypertension, diabetes, or osteoporosis related to cortisol excess are present, laparoscopic resection of the tumor on the affected side is recommended. In the case of bilateral AI with diagnosed ACS, it is advisable to perform adrenal vein sampling (AVS) to determine the dominant side of cortisol secretion before considering unilateral adrenalectomy or bilateral adrenalectomy.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with AI ",
+            "clinical manifestation",
+            "unilateral AI diagnosed with ACS"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with AI ",
+            "clinical manifestation",
+            "cortisol excess"
+          ],
+          [
+            "Patients with AI ",
+            "clinical manifestation",
+            "hypertension"
+          ],
+          [
+            "Patients with AI ",
+            "clinical manifestation",
+            "diabetes"
+          ],
+          [
+            "Patients with AI ",
+            "clinical manifestation",
+            "osteoporosis"
+          ],
+          [
+            "Patients with AI ",
+            "clinical manifestation",
+            "metabolic abnormalities"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with AI ",
+            "therapeutic schedule",
+            "laparoscopic resection of the tumor on the affected side"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with AI ",
+            "clinical manifestation",
+            "bilateral AI with diagnosed ACS"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with AI ",
+            "therapeutic schedule",
+            "bilateral adrenalectomy"
+          ],
+          [
+            "Patients with AI ",
+            "therapeutic schedule",
+            "bilateral adrenalectomy"
+          ],
+          [
+            "Patients with AI ",
+            "therapeutic schedule",
+            "AVS"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with OMM @ Early cryotherapy or surgical excision is recommended for suspected mucosal nevi or pigmented lesions.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with OMM ",
+            "clinical manifestation",
+            "mucosal nevi"
+          ],
+          [
+            "Patients with OMM ",
+            "clinical manifestation",
+            "pigmented lesions"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with OMM ",
+            "therapeutic schedule",
+            "cryotherapy"
+          ],
+          [
+            "Patients with OMM ",
+            "therapeutic schedule",
+            "surgical excision"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with hallux valgus @ For elderly patients with severe thumb arthritis and significant deformity, the preferred treatment may be first metatarsophalangeal joint fusion.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with hallux valgus ",
+            "clinical manifestation",
+            "arthritis"
+          ],
+          [
+            "Patients with hallux valgus ",
+            "clinical manifestation",
+            "significant"
+          ],
+          [
+            "Patients with hallux valgus ",
+            "basic condition",
+            "elderly"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with hallux valgus ",
+            "therapeutic schedule",
+            "first metatarsophalangeal joint fusion"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with allergic rhinitis @ For cases with severe nasal blockage, treatment may be started with oral corticosteroid administration for 4-7 days.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with allergic rhinitis",
+            "clinical manifestation",
+            "severe nasal blockage"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with allergic rhinitis",
+            "drug therapy",
+            "corticosteroid"
+          ],
+          [
+            "corticosteroid",
+            "dosage and administration",
+            "oral"
+          ],
+          [
+            "corticosteroid",
+            "dosage and administration",
+            "for 4-7 days"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with primary liver cancer @ For patients with CNLC stage IIIa liver cancer, surgery is generally not the preferred initial option. However, if there is involvement of the hepatic vein but the lesions are confined within the liver, surgical resection can be considered.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with primary liver cancer ",
+            "clinical manifestation",
+            "CNLC stage IIIa liver cancer"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with primary liver cancer ",
+            "clinical manifestation",
+            "involvement of the hepatic vein but the lesions are confined within the liver"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with primary liver cancer ",
+            "therapeutic schedule",
+            "surgical resection"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with primary liver cancer ",
+            "therapeutic schedule",
+            "surgery is generally not the preferred initial option"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with hyperglycemia @ For critically ill patients with DKA or hyperosmolar hyperglycemic state, as well as those with altered mental status, continuous intravenous infusion of insulin is recommended.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with hyperglycemia ",
+            "clinical manifestation",
+            "DKA"
+          ],
+          [
+            "Patients with hyperglycemia ",
+            "clinical manifestation",
+            "hyperosmolar hyperglycemic state"
+          ],
+          [
+            "Patients with hyperglycemia ",
+            "clinical manifestation",
+            "critically ill"
+          ],
+          [
+            "Patients with hyperglycemia ",
+            "clinical manifestation",
+            "altered mental status"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "insulin",
+            "dosage and administration",
+            "continuous intravenous infusion"
+          ],
+          [
+            "Patients with hyperglycemia ",
+            "drug therapy",
+            "insulin"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with acute cholecystitis @ Patients who are not suitable for surgery, but who are septic due to gallbladder empyema, are effectively treated by PTGBD.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with acute cholecystitis ",
+            "clinical manifestation",
+            "septic due to gallbladder empyema"
+          ],
+          [
+            "Patients with acute cholecystitis ",
+            "clinical manifestation",
+            "not suitable for surgery"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with acute cholecystitis ",
+            "drug therapy",
+            "PTGBD"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Elderly patients with chronic bronchitis @ For patients with glaucoma, Kebiqing should not be used; for patients with gastric ulcer, potassium iodide and ammonium chloride should not be used.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Elderly patients with chronic bronchitis ",
+            "clinical manifestation",
+            "glaucoma"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Elderly patients with chronic bronchitis ",
+            "prohibited drugs",
+            "Kebiqing"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Elderly patients with chronic bronchitis ",
+            "clinical manifestation",
+            "gastric ulcer"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Elderly patients with chronic bronchitis ",
+            "prohibited drugs",
+            "potassium iodide"
+          ],
+          [
+            "Elderly patients with chronic bronchitis ",
+            "prohibited drugs",
+            "ammonium chloride"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with adrenal accidental tumor @ In cases of adrenal incidentaloma with radiological features indicative of malignancy or hormonal secretion abnormalities, surgical intervention is often warranted.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with adrenal accidental tumor ",
+            "clinical manifestation",
+            "indicative of malignancy"
+          ],
+          [
+            "Patients with adrenal accidental tumor ",
+            "clinical manifestation",
+            "hormonal secretion abnormalities"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with adrenal accidental tumor ",
+            "therapeutic schedule",
+            "surgical intervention"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with achalasia @ We suggest that peroral endoscopic myotomy is a safe option in patients with achalasia who have previously undergone pneumatic dilation or laparoscopic Heller myotomy.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with achalasia ",
+            "clinical manifestation",
+            "pneumatic dilation"
+          ],
+          [
+            "Patients with achalasia ",
+            "clinical manifestation",
+            "laparoscopic Heller myotomy"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with achalasia ",
+            "therapeutic schedule",
+            "peroral endoscopic myotomy"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with mitral regurgitation @ For mild mitral valve regurgitation, no specific treatment is necessary. If more severe regurgitation leads to heart failure but the patient cannot undergo surgery, certain heart failure medications such as sacubitril, spironolactone, and carvedilol may be administered.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with mitral regurgitation ",
+            "clinical manifestation",
+            "mild"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with mitral regurgitation ",
+            "therapeutic schedule",
+            "no specific treatment is necessary"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with mitral regurgitation ",
+            "clinical manifestation",
+            "heart failure"
+          ],
+          [
+            "Patients with mitral regurgitation ",
+            "clinical manifestation",
+            "cannot undergo surgery"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with mitral regurgitation ",
+            "drug therapy",
+            "heart failure medications"
+          ],
+          [
+            "Patients with mitral regurgitation ",
+            "drug therapy",
+            "sacubitril"
+          ],
+          [
+            "Patients with mitral regurgitation ",
+            "drug therapy",
+            "spironolactone"
+          ],
+          [
+            "Patients with mitral regurgitation ",
+            "drug therapy",
+            "carvedilol"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with iron deficiency anemia @ When oral iron therapy is ineffective, consider using intravenous iron supplementation to treat iron deficiency anemia.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with iron deficiency anemia ",
+            "clinical manifestation",
+            "oral iron therapy is ineffective"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with iron deficiency anemia ",
+            "therapeutic schedule",
+            "intravenous iron supplementation"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with gastroesophageal reflux disease @ For patients with nocturnal GERD symptoms, we recommend elevating the head of the bed.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with gastroesophageal reflux disease ",
+            "clinical manifestation",
+            "nocturnal GERD symptoms"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with gastroesophageal reflux disease ",
+            "therapeutic schedule",
+            "elevating the head of the bed"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with NSCLC @ For patients with negative driver genes, platinum-doublet regimens are the standard first-line chemotherapy regimen.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with NSCLC ",
+            "clinical manifestation",
+            "negative driver genes"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with NSCLC ",
+            "therapeutic schedule",
+            "platinum-doublet regimens"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with PSC @ People with PSC and intense and frequent bacterial cholangitis may in severe cases be considered for permanent rotating antibiotics up to time of transplantation.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with PSC ",
+            "clinical manifestation",
+            "intense and frequent bacterial cholangitis"
+          ],
+          [
+            "Patients with PSC ",
+            "clinical manifestation",
+            "severe"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with PSC ",
+            "drug therapy",
+            "antibiotics"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "rheumatic fever patients @ For patients with chorea, valproic acid is the first choice. Patients with ineffective valproic acid or severe chorea such as paralysis should be treated with carbamazepine.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "rheumatic fever patients ",
+            "clinical manifestation",
+            "chorea"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "rheumatic fever patients ",
+            "clinical manifestation",
+            "ineffective valproic acid"
+          ],
+          [
+            "rheumatic fever patients ",
+            "clinical manifestation",
+            "severe chorea"
+          ],
+          [
+            "rheumatic fever patients ",
+            "clinical manifestation",
+            "paralysis"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "rheumatic fever patients ",
+            "drug therapy",
+            "carbamazepine"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "rheumatic fever patients ",
+            "drug therapy",
+            "valproic acid"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with stress ulcer @ For severe patients, it is recommended to use standard dose intravenous infusion of PPI, once every 12 hours, for at least 3 consecutive days. When the patient is stable and tolerates enteral nutrition or has eaten, the patient can be switched to oral medications or gradually discontinued.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with stress ulcer ",
+            "clinical manifestation",
+            "severe"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with stress ulcer ",
+            "drug therapy",
+            "PPI"
+          ],
+          [
+            "PPI",
+            "dosage and administration",
+            "intravenous infusion"
+          ],
+          [
+            "PPI",
+            "dosage and administration",
+            "once every 12 hours"
+          ],
+          [
+            "PPI",
+            "dosage and administration",
+            "at least 3 consecutive days"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with stress ulcer ",
+            "clinical manifestation",
+            "patient is stable"
+          ],
+          [
+            "Patients with stress ulcer ",
+            "clinical manifestation",
+            "tolerates enteral nutrition"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with stress ulcer ",
+            "drug therapy",
+            "oral medications"
+          ],
+          [
+            "Patients with stress ulcer ",
+            "therapeutic schedule",
+            "gradually discontinued"
+          ],
+          [
+            "Patients with stress ulcer ",
+            "drug therapy",
+            "PPI"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with DME @ For patients with central macular edema (DME) and impaired vision, anti VEGF injection therapy should be considered, and immediate or delayed focused laser therapy can be chosen.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with DME ",
+            "clinical manifestation",
+            "central macular edema"
+          ],
+          [
+            "Patients with DME ",
+            "clinical manifestation",
+            "impaired vision"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with DME ",
+            "drug therapy",
+            "anti VEGF"
+          ],
+          [
+            "anti VEGF",
+            "dosage and administration",
+            "injections"
+          ],
+          [
+            "Patients with DME ",
+            "therapeutic schedule",
+            "focused laser therapy"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with iron deficiency anemia @ For patients with mild anemia, oral iron supplements can be used to supplement.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with iron deficiency anemia ",
+            "clinical manifestation",
+            "mild anemia"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "iron supplements",
+            "dosage and administration",
+            "oral"
+          ],
+          [
+            "Patients with iron deficiency anemia ",
+            "drug therapy",
+            "iron supplements"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patient with gastric cancer @ For patients who cannot be resected due to poor physical condition or basic diseases, conversion therapy is not applicable, palliative chemotherapy and radiotherapy can be considered.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patient with gastric cancer ",
+            "clinical manifestation",
+            "poor physical condition"
+          ],
+          [
+            "Patient with gastric cancer ",
+            "clinical manifestation",
+            "basic diseases"
+          ],
+          [
+            "Patient with gastric cancer ",
+            "clinical manifestation",
+            "cannot be resected"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patient with gastric cancer ",
+            "therapeutic schedule",
+            "conversion therapy is not applicable"
+          ],
+          [
+            "Patient with gastric cancer ",
+            "therapeutic schedule",
+            "palliative chemotherapy"
+          ],
+          [
+            "Patient with gastric cancer ",
+            "therapeutic schedule",
+            "radiotherapy"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with primary biliary cholangitis @ Timely liver biopsies are recommended for cholestatic patients with unknown causes and negative PBC antibodies to confirm the diagnosis and avoid delayed treatment.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with primary biliary cholangitis",
+            "clinical manifestation",
+            "unknown causes"
+          ],
+          [
+            "Patients with primary biliary cholangitis",
+            "clinical manifestation",
+            "negative PBC antibodies"
+          ],
+          [
+            "Patients with primary biliary cholangitis",
+            "clinical manifestation",
+            "cholestatic"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with primary biliary cholangitis",
+            "therapeutic schedule",
+            "liver biopsies"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with keloid @ For children aged 12 and below with keloids, if non-surgical treatment results in relief of symptoms and improvement of the condition, continued treatment to maintain long-term prevention of scarring is appropriate. If treatment proves ineffective, consideration may be given to adjunctive therapies such as laser treatment, cryotherapy, along with silicone preparations and compression therapy.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with keloid ",
+            "basic condition",
+            "aged 12 and below"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with keloid ",
+            "clinical manifestation",
+            "relief of symptoms"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with keloid ",
+            "therapeutic schedule",
+            "continued treatment"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with keloid ",
+            "clinical manifestation",
+            "treatment proves ineffective"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with keloid ",
+            "therapeutic schedule",
+            "laser treatment"
+          ],
+          [
+            "Patients with keloid ",
+            "therapeutic schedule",
+            "cryotherapy"
+          ],
+          [
+            "Patients with keloid ",
+            "drug therapy",
+            "silicone preparations"
+          ],
+          [
+            "Patients with keloid ",
+            "therapeutic schedule",
+            "compression therapy"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with cirrhosis @ In cases of moderate or greater severity, the stan dard is ≥ 0.8 mg/kg/day. Otherwise, PSL is initiated at doses of ≥0.6 mg/kg/day.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with cirrhosis ",
+            "clinical manifestation",
+            "moderate"
+          ],
+          [
+            "Patients with cirrhosis ",
+            "clinical manifestation",
+            "greater severity"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with cirrhosis ",
+            "drug therapy",
+            "PSL"
+          ],
+          [
+            "PSL",
+            "dosage and administration",
+            "≥ 0.8 mg/kg/day"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with cirrhosis ",
+            "drug therapy",
+            "PSL"
+          ],
+          [
+            "PSL",
+            "dosage and administration",
+            "≥0.6 mg/kg/day"
+          ]
+        ],
+        "logical_rel": "and"
+      }
+    ]
+  },
+  {
+    "text": "Patients with malignant pleural effusion @ For patients with frail constitution and in the terminal stage, repeated therapeutic thoracentesis may provide temporary relief from respiratory distress.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with malignant pleural effusion ",
+            "clinical manifestation",
+            "frail constitution"
+          ],
+          [
+            "Patients with malignant pleural effusion ",
+            "clinical manifestation",
+            "in the terminal stage"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with malignant pleural effusion ",
+            "therapeutic schedule",
+            "repeated therapeutic thoracentesis"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with keloid @ For patients with medium to large keloids, if there is no history of prior treatment, a comprehensive approach primarily involving surgical treatment is recommended. For those with a history of prior treatment and recurrence, a combined therapeutic strategy involving radiation and chemotherapy may be considered.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with keloid ",
+            "clinical manifestation",
+            "medium to large keloids"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with keloid ",
+            "clinical manifestation",
+            "no history of prior treatment"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with keloid ",
+            "therapeutic schedule",
+            "surgical treatment"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with keloid ",
+            "clinical manifestation",
+            "a history of prior treatment and recurrence"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with keloid ",
+            "therapeutic schedule",
+            "radiation and chemotherapy"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with hypocalcemia @ For patients with hypocalcemia due to calcium-sensing receptor inactivity mutations, magnesium supplements are often necessary due to excessive urinary magnesium loss.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with hypocalcemia ",
+            "clinical manifestation",
+            "calcium-sensing receptor inactivity mutations"
+          ],
+          [
+            "Patients with hypocalcemia ",
+            "clinical manifestation",
+            "excessive urinary magnesium loss"
+          ]
+        ],
+        "logical_rel": "and"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with hypocalcemia ",
+            "therapeutic schedule",
+            "magnesium supplements"
+          ]
+        ],
+        "logical_rel": "null"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  },
+  {
+    "text": "Patients with NSCLC @ For partial stage IA NSCLC patients with advanced age or low lung function, anatomical segmental or wedge resection plus systemic hilar or mediastinal lymph node dissection or sampling should be considered.",
+    "tree": [
+      {
+        "role": "C",
+        "triples": [
+          [
+            "Patients with NSCLC ",
+            "basic condition",
+            "advanced age"
+          ],
+          [
+            "Patients with NSCLC ",
+            "clinical manifestation",
+            "low lung function"
+          ],
+          [
+            "Patients with NSCLC ",
+            "clinical manifestation",
+            "IA NSCLC patients"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [
+          [
+            "Patients with NSCLC ",
+            "therapeutic schedule",
+            "anatomical segmental"
+          ],
+          [
+            "Patients with NSCLC ",
+            "therapeutic schedule",
+            "wedge resection"
+          ],
+          [
+            "Patients with NSCLC ",
+            "therapeutic schedule",
+            "systemic hilar"
+          ],
+          [
+            "Patients with NSCLC ",
+            "therapeutic schedule",
+            "mediastinal lymph node dissection"
+          ]
+        ],
+        "logical_rel": "or"
+      },
+      {
+        "role": "D",
+        "triples": [],
+        "logical_rel": "null"
+      }
+    ]
+  }
+]
