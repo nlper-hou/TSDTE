@@ -1,5 +1,5 @@
 import re
-from LLM import LLM_logic_prediction,LLM_extract_pseudocode_without_triplet,LLM_extract_pseudocode,LLM_drug_type,LLM_find_triples,LLM_whether_merge_node,LLM_find_triples_xiaorong,select_triplet_xiaorong,LLM_find_triples_xiaorong2,LLM_find_nodes
+from LLM import LLM_logic_prediction,LLM_extract_pseudocode_without_triplet,LLM_extract_pseudocode,LLM_drug_type,LLM_find_triples,LLM_whether_merge_node,LLM_find_triples_xiaorong,select_triplet_xiaorong,LLM_find_triples_xiaorong2
 import copy
 import json
 
@@ -10,8 +10,7 @@ def logic_prediction(language,triples,text):
         or_words = ['or','such as']
         dict={"clinical manifestation":0,"drug therapy":0,"therapeutic schedule":0,"dosage and administration":0,"basic condition":0,"prohibited drugs":0}
         for triple in triples:
-            if triple[1] in dict:
-                dict[triple[1]] +=1
+            dict[triple[1]] +=1
         if len(triples) < 2:
             return 'null'
         else:
@@ -38,8 +37,7 @@ def logic_prediction(language,triples,text):
         or_words = ['或','如']
         dict={"临床表现":0,"治疗药物":0,"治疗方案":0,"用法用量":0,"基本情况":0,"禁用药物":0}
         for triple in triples:
-            if triple[1] in dict:
-                dict[triple[1]] +=1
+            dict[triple[1]] +=1
         if len(triples) < 2:
             return 'null'
         else:
@@ -73,9 +71,7 @@ def same_statement(text1, text2):
     else:
         return False
 
-def extract_pseudocode(language,text, K) -> list:
-    # 原始方案
-    # pseudocode = LLM_extract_pseudocode(language,text, triplets,K)
+def extract_pseudocode(language,text, triplets,K) -> list:
     # 抽取为伪代码没有使用三元组，主要目的是为了实现并行
     pseudocode = LLM_extract_pseudocode_without_triplet(language,text,K)
     return pseudocode
@@ -89,11 +85,6 @@ def find_triples(language,text : str, triplets, role, patient,k_num,error_triple
     if patient not in text:
         text = f"{patient}{text}"
     if role == "C":
-
-        # standard prompt分析实验
-        # index = LLM_find_triples_xiaorong(language,text, triplets['condition triples'])
-        # cot分析实验
-        # index = LLM_find_triples_xiaorong2(language,text, triplets['condition triples'])
         # planselect实验
         index = LLM_find_triples(language,text, triplets['condition triples'],k_num,error_triplet)
         
@@ -109,21 +100,11 @@ def find_triples(language,text : str, triplets, role, patient,k_num,error_triple
                     print("IndexError-------")
                     print(triplets)
     else:
-
-        # index = LLM_find_triples_xiaorong(language,text, triplets['decision triples'])
-        # index = LLM_find_triples_xiaorong2(language,text, triplets['decision triples'])
         index = LLM_find_triples(language,text, triplets['decision triples'],k_num,error_triplet)
         
         for ID, triple in enumerate(triplets['decision triples']):
             if (ID + 1) in index:
                 node.append(triple)
-    return node
-
-def find_nodes(language,text : str, role, patient) -> list:
-    node = []
-    if patient not in text:
-        text = f"{patient}{text}"
-    node = LLM_find_nodes(language,text)
     return node
 
 def deduplicate_list_of_lists(list) -> list:
@@ -378,71 +359,6 @@ def convert_pseudocode2DT(language,pseudocode, triplets, text,k_num) -> list:
     preorder_visit(language,DT_temp, DT, text)
     return DT
 
-def convert_pseudocode2DT_without_triplet(language,pseudocode, text,k_num) -> list:
-    patient = text.split("@")[0]
-    # 提供伪代码，然后遍历每一行，然后直接让大模型生成决策树
-    del_indent = -1
-    tree_list = []
-    for line in pseudocode:
-        indent = len(re.findall(r'\t', line))
-
-        if "if" in line or "elif" in line:
-            role = "C"
-            # node返回的是三元组
-            node = find_nodes(language,line, role, patient)   
-        # 注意，这里不确定是不是有一条cdcdd没有抽取出来的原因，后续待验证
-        elif "else" in line:
-            continue
-        else:
-            role = "D"
-            node = find_nodes(language,line, role, patient)
-
-        if len(node) == 0 and "pass" not in line:
-            if role == "C":
-                del_indent = indent
-            continue
-
-        if del_indent != -1:
-            if indent == del_indent:
-                del_indent = -1
-            elif indent > del_indent:
-                indent -= 1
-        if len(node) != 0:
-            logical_rel = logic_prediction(language,node, line)
-        else:
-            logical_rel = "null"
-        tree_list.append({
-            "indent" : indent,
-            "role" : role,
-            "triples" : node,
-            "logical_rel" : logical_rel,
-            "text" : line
-        })
-    node_c = {"role": "C","triples": [],"logical_rel": "null"}
-    node_d = {"role": "D","triples": [],"logical_rel": "null"}
-    if len(tree_list) == 0:
-        tree_list.append(node_c)
-        tree_list.append(node_d)
-        tree_list.append(node_d)
-        return tree_list
-    DT_temp = {
-        "indent" : tree_list[0]['indent'],
-        "role" : tree_list[0]['role'],
-        "triples" : tree_list[0]['triples'],
-        "logical_rel" : tree_list[0]['logical_rel'],
-        "LD" : {},
-        "RD" : {},
-        "text" : tree_list[0]['text'],
-    }
-    # 调整插入节点
-    last_condition_node = [""]
-    for node in tree_list[1:]:
-        insert_node(node, DT_temp, last_condition_node, node_path=last_condition_node[0])
-    DT = []
-    preorder_visit(language,DT_temp, DT, text)
-    return DT
-
-
 def find_list_difference(list1, list2):
     """找到两个list的相差的元素，并返回该元素"""
     set1 = set(map(tuple, list1))
@@ -451,7 +367,6 @@ def find_list_difference(list1, list2):
     return list(map(list, difference))
 
 def convert_pseudocode2DT2(language,pseudocode, triplets, text,k_num) -> list:
-
     """此方法目前为测试代码"""
     triplets = classify_triplet(language,triplets)
     patient = triplets['condition triples'][0][0]

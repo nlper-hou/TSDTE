@@ -1,10 +1,10 @@
 import os
-os.chdir("/root/nas/llm-prompt/text2DT/Pseudocode_language")
+os.chdir("TSDTE")
 import json
 import argparse
 from tqdm import tqdm
 from Triplet import extract_triplet
-from Pseudocode import extract_pseudocode,convert_pseudocode2DT,find_triplet_xiaorong,convert_pseudocode2DT2,convert_pseudocode2DT_without_triplet
+from Pseudocode import extract_pseudocode,convert_pseudocode2DT,find_triplet_xiaorong,convert_pseudocode2DT2
 
 if __name__ == "__main__":
 
@@ -16,10 +16,6 @@ if __name__ == "__main__":
     k_num = args.K
     language = args.language
     index = args.index
-    
-    # k_num = 4
-    # language = "zh"
-    # index = 2
 
     # 加载数据集
     if language=="en":
@@ -30,7 +26,7 @@ if __name__ == "__main__":
         input_dataset = json.load(f)
     print(f"{len(input_dataset)} texts loaded!")
     try:
-        with open(f"分析实验/消融实验/{input_dataset_path.split('.')[0].split('/')[1]}_DT_en并行实验第"+str(index+1)+"次_knn="+str(k_num)+".json", 'r') as f:
+        with open(f"Result/并行chatgpt/test/{input_dataset_path.split('.')[0].split('/')[1]}_DT并行实验第"+str(index+1)+"次_knn="+str(k_num)+".json", 'r') as f:
             data_list = json.load(f)
     except FileNotFoundError:
         data_list = []
@@ -43,10 +39,9 @@ if __name__ == "__main__":
         if ID in []: continue
         
         # 抽取三元组
-        # triplets = extract_triplet(language,text,'test')
-        triplets = []
+        triplets = extract_triplet(language,text,'test')
         # 抽取决策伪代码结构
-        pseudocode_path = f"分析实验/消融实验/{input_dataset_path.split('.')[0].split('/')[1]}_pseudocode_en并行实验第"+str(index+1)+"次_knn="+str(k_num)+".json"
+        pseudocode_path = f"Result/并行chatgpt/test/{input_dataset_path.split('.')[0].split('/')[1]}_pseudocode并行实验第"+str(index+1)+"次_knn="+str(k_num)+".json"
         try:
             with open(pseudocode_path, 'r') as f:
                 pseudocode_history = json.load(f)
@@ -60,20 +55,18 @@ if __name__ == "__main__":
                 break
         
         if len(pseudocode) == 0:
-            pseudocode = extract_pseudocode(language,text,k_num)
+            pseudocode = extract_pseudocode(language,text,triplets,k_num)
             pseudocode_history.append({
                 "text" : text,
                 "pseudocode" : pseudocode
             })
             with open(pseudocode_path, 'w') as f:
                 json.dump(pseudocode_history, f, ensure_ascii=False, indent=2)
-        # 消融实验专用
-        # DT = find_triplet_xiaorong(language,pseudocode, triplets, text)
         
         # 将决策路径转化为决策树
-        DT = convert_pseudocode2DT_without_triplet(language,pseudocode,text,k_num)
+        DT = convert_pseudocode2DT(language,pseudocode, triplets, text,k_num)
 
-        DT_path = f"分析实验/消融实验/{input_dataset_path.split('.')[0].split('/')[1]}_DT_en并行实验第"+str(index+1)+"次_knn="+str(k_num)+".json"
+        DT_path = f"Result/并行chatgpt/test/{input_dataset_path.split('.')[0].split('/')[1]}_DT并行实验第"+str(index+1)+"次_knn="+str(k_num)+".json"
         try:
             with open(DT_path, 'r') as f:
                 DT_history = json.load(f)

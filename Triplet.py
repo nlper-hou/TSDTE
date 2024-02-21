@@ -4,15 +4,10 @@ def extract_triplet(language,text, mode = "main"):
 
     return_triplet = []
     if mode == "test":
-        # path = "Res/triplet_dev_result.json",
-        # path = "Res/dev_64.json"
-        # path = "Res/dev_64_new.json"
         if language=="en":
             path = "Dataset/en/Text2DT_triple_test.json"
-            # path = "Res/luyuming.json"
         else:
             path = "Res/test_627.json"  # 中文使用的
-        # path = "Res/gold_triples_dev.json"
         with open(path, 'r') as f:
             triplets = json.load(f)
         
