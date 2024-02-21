@@ -18,7 +18,7 @@
         "triples": [
           [
             "vitamin D",
-            "dosage and administration",
+            "usage or dosage",
             "400-800 IU"
           ],
           [
@@ -33,7 +33,7 @@
           ],
           [
             "calcium",
-            "dosage and administration",
+            "usage or dosage",
             "500-1,200 mg"
           ]
         ],
@@ -65,7 +65,7 @@
         "triples": [
           [
             "Patients with allergic rhinitis ",
-            "therapeutic schedule",
+            "treatment plan",
             "surgery"
           ]
         ],
@@ -242,7 +242,7 @@
         "triples": [
           [
             "Patients with deep vein thrombosis",
-            "therapeutic schedule",
+            "treatment plan",
             "CDT"
           ]
         ],
@@ -284,7 +284,7 @@
         "triples": [
           [
             "Patients with hallux valgus ",
-            "therapeutic schedule",
+            "treatment plan",
             "Keller arthroplasty"
           ]
         ],
@@ -321,7 +321,7 @@
         "triples": [
           [
             "Patients with allergic rhinitis ",
-            "therapeutic schedule",
+            "treatment plan",
             "pharmacotherapy"
           ]
         ],
@@ -348,7 +348,7 @@
         "triples": [
           [
             "Patients with allergic rhinitis ",
-            "therapeutic schedule",
+            "treatment plan",
             "pharmacotherapy"
           ],
           [
@@ -380,7 +380,7 @@
         "triples": [
           [
             "Patients with allergic rhinitis ",
-            "therapeutic schedule",
+            "treatment plan",
             "pharmacotherapy"
           ],
           [
@@ -437,12 +437,12 @@
           ],
           [
             "corticosteroids",
-            "dosage and administration",
+            "usage or dosage",
             "oral"
           ],
           [
             "corticosteroids",
-            "dosage and administration",
+            "usage or dosage",
             "up to 4-7 days."
           ]
         ],
@@ -474,7 +474,7 @@
         "triples": [
           [
             "patients with CKD ",
-            "therapeutic schedule",
+            "treatment plan",
             "limit sodium intake to 2.3 g/day"
           ]
         ],
@@ -496,7 +496,7 @@
         "triples": [
           [
             "patients with CKD ",
-            "therapeutic schedule",
+            "treatment plan",
             "limit dietary sodium intake to less than 2.3 g/day"
           ]
         ],
@@ -528,7 +528,7 @@
         "triples": [
           [
             "Patients with gastrinoma ",
-            "therapeutic schedule",
+            "treatment plan",
             "tumor resection"
           ]
         ],
@@ -602,12 +602,12 @@
           ],
           [
             "glecaprevir",
-            "dosage and administration",
+            "usage or dosage",
             "12 weeks"
           ],
           [
             "pibrentasvir",
-            "dosage and administration",
+            "usage or dosage",
             "12 weeks"
           ]
         ],
@@ -644,7 +644,7 @@
         "triples": [
           [
             "fibrinolytic agents",
-            "dosage and administration",
+            "usage or dosage",
             "intrapleural injection"
           ],
           [
@@ -696,7 +696,7 @@
         "triples": [
           [
             "antibiotics",
-            "dosage and administration",
+            "usage or dosage",
             "inhaled"
           ],
           [
@@ -748,7 +748,7 @@
           ],
           [
             "hepatitis B vaccine",
-            "dosage and administration",
+            "usage or dosage",
             "40 μg"
           ]
         ],
@@ -785,7 +785,7 @@
         "triples": [
           [
             "Patients with atrial fibrillation ",
-            "therapeutic schedule",
+            "treatment plan",
             "direct current cardioversion"
           ]
         ],
@@ -918,7 +918,7 @@
         "triples": [
           [
             "Patients with early cervical cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "fertility-sparing surgery"
           ]
         ],
@@ -950,7 +950,7 @@
         "triples": [
           [
             "CBP and CP/CPPS patients ",
-            "therapeutic schedule",
+            "treatment plan",
             "referral to specialist care"
           ]
         ],
@@ -982,17 +982,17 @@
         "triples": [
           [
             "Patients with levator ani syndrome ",
-            "therapeutic schedule",
+            "treatment plan",
             "anal gas"
           ],
           [
             "Patients with levator ani syndrome ",
-            "therapeutic schedule",
+            "treatment plan",
             "bowel movements"
           ],
           [
             "Patients with levator ani syndrome ",
-            "therapeutic schedule",
+            "treatment plan",
             "sitz baths"
           ],
           [
@@ -1019,7 +1019,7 @@
         "triples": [
           [
             "Patients with levator ani syndrome ",
-            "therapeutic schedule",
+            "treatment plan",
             "physical therapy"
           ]
         ],
@@ -1062,7 +1062,7 @@
         "triples": [
           [
             "Patients with primary liver cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "surgical resection of the tumor"
           ]
         ],
@@ -1073,7 +1073,7 @@
         "triples": [
           [
             "Patients with primary liver cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "surgery is not the preferred initial option"
           ]
         ],
@@ -1105,7 +1105,7 @@
         "triples": [
           [
             "Patients with Pulmonary Alveolar Proteinosis ",
-            "therapeutic schedule",
+            "treatment plan",
             "Whole lung lavage"
           ]
         ],
@@ -1137,7 +1137,7 @@
         "triples": [
           [
             "Infantile cholestasis ",
-            "therapeutic schedule",
+            "treatment plan",
             "Liver transplantation"
           ]
         ],
@@ -1169,7 +1169,7 @@
         "triples": [
           [
             "Patient with gastric cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "surgery"
           ]
         ],
@@ -1206,7 +1206,7 @@
         "triples": [
           [
             "Patients with main pancreatic duct obstruction ",
-            "therapeutic schedule",
+            "treatment plan",
             "attempting transpapillary stenting"
           ]
         ],
@@ -1217,7 +1217,7 @@
         "triples": [
           [
             "Patients with main pancreatic duct obstruction ",
-            "therapeutic schedule",
+            "treatment plan",
             "ERCP"
           ]
         ],
@@ -1291,12 +1291,12 @@
         "triples": [
           [
             "Patients with pancreatic cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "Choledochojejunostomy"
           ],
           [
             "Patients with pancreatic cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "hepaticojejunostomy"
           ]
         ],
@@ -1333,7 +1333,7 @@
         "triples": [
           [
             "Patients with WD ",
-            "therapeutic schedule",
+            "treatment plan",
             "liver transplantation"
           ]
         ],
@@ -1497,7 +1497,7 @@
           ],
           [
             "Penicillamine",
-            "dosage and administration",
+            "usage or dosage",
             "750 to 1,500 mg/d"
           ]
         ],
@@ -1524,7 +1524,7 @@
           ],
           [
             "Penicillamine",
-            "dosage and administration",
+            "usage or dosage",
             "20 mg/(kg·d)"
           ]
         ],
@@ -1566,7 +1566,7 @@
         "triples": [
           [
             "bladder cancer patients ",
-            "therapeutic schedule",
+            "treatment plan",
             "comprehensive treatment approach with bladder preservation"
           ]
         ],
@@ -1613,7 +1613,7 @@
         "triples": [
           [
             "Patients with autoimmune hepatitis ",
-            "therapeutic schedule",
+            "treatment plan",
             "azathioprine treatment is not recommended"
           ]
         ],
@@ -1660,7 +1660,7 @@
         "triples": [
           [
             "Patients with liver cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "RFA treatment"
           ]
         ],
@@ -1687,7 +1687,7 @@
         "triples": [
           [
             "Patients with liver cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "Transarterial Chemoembolization (TACE) treatment"
           ]
         ],
@@ -1724,7 +1724,7 @@
         "triples": [
           [
             "Patients with malignant gastric obstruction ",
-            "therapeutic schedule",
+            "treatment plan",
             "gastrostomy"
           ]
         ],
@@ -1735,12 +1735,12 @@
         "triples": [
           [
             "Patients with malignant gastric obstruction ",
-            "therapeutic schedule",
+            "treatment plan",
             "surgical"
           ],
           [
             "Patients with malignant gastric obstruction ",
-            "therapeutic schedule",
+            "treatment plan",
             "interventional radiological"
           ]
         ],
@@ -1777,12 +1777,12 @@
           ],
           [
             "voriconazole",
-            "dosage and administration",
+            "usage or dosage",
             "3-4 mg/kg"
           ],
           [
             "voriconazole",
-            "dosage and administration",
+            "usage or dosage",
             "twice daily"
           ]
         ],
@@ -1866,22 +1866,22 @@
         "triples": [
           [
             "heart failure patients ",
-            "therapeutic schedule",
+            "treatment plan",
             "mechanical circulatory support"
           ],
           [
             "heart failure patients ",
-            "therapeutic schedule",
+            "treatment plan",
             "percutaneous ventricular assist devices"
           ],
           [
             "heart failure patients ",
-            "therapeutic schedule",
+            "treatment plan",
             "extracorporeal life support"
           ],
           [
             "heart failure patients ",
-            "therapeutic schedule",
+            "treatment plan",
             "extracorporeal membrane oxygenation"
           ]
         ],
@@ -1923,7 +1923,7 @@
           ],
           [
             "Patients with liver failure ",
-            "therapeutic schedule",
+            "treatment plan",
             "platelets"
           ]
         ],
@@ -2029,7 +2029,7 @@
         "triples": [
           [
             "Patients with knee osteoarthritis ",
-            "therapeutic schedule",
+            "treatment plan",
             "arthroscopic partial meniscectomy"
           ]
         ],
@@ -2061,7 +2061,7 @@
         "triples": [
           [
             "Patients with thrombocytopenia in cancer patients with liver injury ",
-            "therapeutic schedule",
+            "treatment plan",
             "platelet transfusion"
           ]
         ],
@@ -2130,12 +2130,12 @@
         "triples": [
           [
             "Patients with liver cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "simultaneous resection of the liver tumor"
           ],
           [
             "Patients with liver cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "simultaneous resection of the bile duct"
           ]
         ],
@@ -2204,7 +2204,7 @@
           ],
           [
             "second generation vasoconstrictor nasal spray",
-            "dosage and administration",
+            "usage or dosage",
             "7-10 days"
           ]
         ],
@@ -2294,7 +2294,7 @@
         "triples": [
           [
             "Patients with keloid ",
-            "therapeutic schedule",
+            "treatment plan",
             "pulsed dye laser therapy"
           ],
           [
@@ -2335,7 +2335,7 @@
           ],
           [
             "Patients with keloid ",
-            "therapeutic schedule",
+            "treatment plan",
             "compression therapy"
           ]
         ],
@@ -2367,17 +2367,17 @@
         "triples": [
           [
             "Patients with simple hallux valgus ",
-            "therapeutic schedule",
+            "treatment plan",
             "Chevron"
           ],
           [
             "Patients with simple hallux valgus ",
-            "therapeutic schedule",
+            "treatment plan",
             "Mitchell"
           ],
           [
             "Patients with simple hallux valgus ",
-            "therapeutic schedule",
+            "treatment plan",
             "distal metatarsal osteotomy"
           ]
         ],
@@ -2399,12 +2399,12 @@
         "triples": [
           [
             "Patients with simple hallux valgus ",
-            "therapeutic schedule",
+            "treatment plan",
             "Scarf"
           ],
           [
             "Patients with simple hallux valgus ",
-            "therapeutic schedule",
+            "treatment plan",
             "metatarsal neck osteotomy"
           ]
         ],
@@ -2426,7 +2426,7 @@
         "triples": [
           [
             "Patients with simple hallux valgus ",
-            "therapeutic schedule",
+            "treatment plan",
             "base osteotomy"
           ]
         ],
@@ -2448,7 +2448,7 @@
         "triples": [
           [
             "Patients with simple hallux valgus ",
-            "therapeutic schedule",
+            "treatment plan",
             "first metatarsophalangeal joint fusion"
           ]
         ],
@@ -2474,7 +2474,7 @@
           ],
           [
             "Patients with AKI ",
-            "therapeutic schedule",
+            "treatment plan",
             "rmore than 90 days of renal replacement therapy"
           ],
           [
@@ -2500,7 +2500,7 @@
         "triples": [
           [
             "Patients with AKI ",
-            "therapeutic schedule",
+            "treatment plan",
             "liver kidney transplantation"
           ]
         ],
@@ -2532,7 +2532,7 @@
         "triples": [
           [
             "Patients with non-invasive breast cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "wide local excision"
           ],
           [
@@ -2542,7 +2542,7 @@
           ],
           [
             "tamoxifen",
-            "dosage and administration",
+            "usage or dosage",
             "5 years"
           ]
         ],
@@ -2643,7 +2643,7 @@
         "triples": [
           [
             "Patients with AIH ",
-            "therapeutic schedule",
+            "treatment plan",
             "Antiviral prophylaxis"
           ]
         ],
@@ -2675,12 +2675,12 @@
         "triples": [
           [
             "Children with sinusitis ",
-            "therapeutic schedule",
+            "treatment plan",
             "adenoidectomy"
           ],
           [
             "Children with sinusitis ",
-            "therapeutic schedule",
+            "treatment plan",
             "sinus lavage"
           ]
         ],
@@ -2723,7 +2723,7 @@
         "triples": [
           [
             "Patients with keloid ",
-            "therapeutic schedule",
+            "treatment plan",
             "non-surgical treatment"
           ]
         ],
@@ -2750,7 +2750,7 @@
         "triples": [
           [
             "Patients with keloid ",
-            "therapeutic schedule",
+            "treatment plan",
             "surgical treatment"
           ]
         ],
@@ -2777,17 +2777,17 @@
         "triples": [
           [
             "Patients with keloid ",
-            "therapeutic schedule",
+            "treatment plan",
             "non-surgical treatment"
           ],
           [
             "Patients with keloid ",
-            "therapeutic schedule",
+            "treatment plan",
             "drug injections"
           ],
           [
             "Patients with keloid ",
-            "therapeutic schedule",
+            "treatment plan",
             "pulsed dye laser"
           ],
           [
@@ -2901,7 +2901,7 @@
           ],
           [
             "norfloxacin",
-            "dosage and administration",
+            "usage or dosage",
             "400 mg/day"
           ]
         ],
@@ -2933,7 +2933,7 @@
         "triples": [
           [
             "Patients with compound thumb valgus ",
-            "therapeutic schedule",
+            "treatment plan",
             "Chevron-Youngswick surgery to dorsiflex the metatarsal head"
           ]
         ],
@@ -2955,7 +2955,7 @@
         "triples": [
           [
             "Patients with compound thumb valgus ",
-            "therapeutic schedule",
+            "treatment plan",
             "proximal metatarsal osteotomy to correct IMA"
           ]
         ],
@@ -3007,12 +3007,12 @@
           ],
           [
             "systemic antibiotics",
-            "dosage and administration",
+            "usage or dosage",
             "orally"
           ],
           [
             "systemic antibiotics",
-            "dosage and administration",
+            "usage or dosage",
             "intravenously"
           ]
         ],
@@ -3044,7 +3044,7 @@
         "triples": [
           [
             "Patients with alcoholic liver disease ",
-            "therapeutic schedule",
+            "treatment plan",
             "Liver transplantation"
           ]
         ],
@@ -3081,7 +3081,7 @@
         "triples": [
           [
             "Patients with sclerosing cholangitis ",
-            "therapeutic schedule",
+            "treatment plan",
             "a stent may be placed"
           ]
         ],
@@ -3113,7 +3113,7 @@
         "triples": [
           [
             "Patients with keloid ",
-            "therapeutic schedule",
+            "treatment plan",
             "conservative treatment"
           ]
         ],
@@ -3140,7 +3140,7 @@
         "triples": [
           [
             "Patients with keloid ",
-            "therapeutic schedule",
+            "treatment plan",
             "surgical excision"
           ]
         ],
@@ -3162,7 +3162,7 @@
         "triples": [
           [
             "Patients with keloid ",
-            "therapeutic schedule",
+            "treatment plan",
             "surgical intervention"
           ]
         ],
@@ -3184,12 +3184,12 @@
         "triples": [
           [
             "Patients with keloid ",
-            "therapeutic schedule",
+            "treatment plan",
             "surgical excision"
           ],
           [
             "Patients with keloid ",
-            "therapeutic schedule",
+            "treatment plan",
             "skin grafts and flaps"
           ]
         ],
@@ -3221,7 +3221,7 @@
         "triples": [
           [
             "Patients with alcoholic liver disease ",
-            "therapeutic schedule",
+            "treatment plan",
             "liver transplantation"
           ]
         ],
@@ -3232,7 +3232,7 @@
         "triples": [
           [
             "Patients with alcoholic liver disease ",
-            "therapeutic schedule",
+            "treatment plan",
             "corticosteroid treatment for 28 days"
           ]
         ],
@@ -3306,7 +3306,7 @@
         "triples": [
           [
             "positive inotropic agents",
-            "dosage and administration",
+            "usage or dosage",
             "intravenous administration"
           ],
           [
@@ -3353,7 +3353,7 @@
         "triples": [
           [
             "patients with MHD ",
-            "therapeutic schedule",
+            "treatment plan",
             "the intake can be reduced to 30-35 (kcal·kg)/(IBW·d)"
           ]
         ],
@@ -3364,7 +3364,7 @@
         "triples": [
           [
             "patients with MHD ",
-            "therapeutic schedule",
+            "treatment plan",
             "a caloric intake of 35 (kcal·kg)/(IBW·d)"
           ]
         ],
@@ -3396,7 +3396,7 @@
         "triples": [
           [
             "prednisone",
-            "dosage and administration",
+            "usage or dosage",
             "oral administration of a low dose"
           ],
           [
@@ -3406,7 +3406,7 @@
           ],
           [
             "prednisone",
-            "dosage and administration",
+            "usage or dosage",
             "0.5 mg/(kg·d)"
           ]
         ],
@@ -3438,12 +3438,12 @@
         "triples": [
           [
             "Patients with acute cholecystitis ",
-            "therapeutic schedule",
+            "treatment plan",
             "fluids"
           ],
           [
             "Patients with acute cholecystitis ",
-            "therapeutic schedule",
+            "treatment plan",
             "analgesia"
           ],
           [
@@ -3500,7 +3500,7 @@
         "triples": [
           [
             "Patients with bronchiectasis ",
-            "therapeutic schedule",
+            "treatment plan",
             "Cystic fibrosis"
           ]
         ],
@@ -3532,7 +3532,7 @@
         "triples": [
           [
             "Patients with benign prostatic hyperplasia ",
-            "therapeutic schedule",
+            "treatment plan",
             "Transurethral incision of the prostate"
           ]
         ],
@@ -3559,12 +3559,12 @@
         "triples": [
           [
             "Patients with benign prostatic hyperplasia ",
-            "therapeutic schedule",
+            "treatment plan",
             "Prostatic urethral lift"
           ],
           [
             "Patients with benign prostatic hyperplasia ",
-            "therapeutic schedule",
+            "treatment plan",
             "robotic waterjet treatment"
           ]
         ],
@@ -3607,7 +3607,7 @@
         "triples": [
           [
             "CBP and CP/CPPS patients",
-            "therapeutic schedule",
+            "treatment plan",
             "MDT"
           ],
           [
@@ -3660,12 +3660,12 @@
           ],
           [
             "baclofen",
-            "dosage and administration",
+            "usage or dosage",
             "5-20 mg"
           ],
           [
             "baclofen",
-            "dosage and administration",
+            "usage or dosage",
             "three times a day"
           ]
         ],
@@ -3697,7 +3697,7 @@
         "triples": [
           [
             "Patients with chronic sinusitis ",
-            "therapeutic schedule",
+            "treatment plan",
             "sinonasal surgery"
           ]
         ],
@@ -3729,12 +3729,12 @@
         "triples": [
           [
             "rh-BNP",
-            "dosage and administration",
+            "usage or dosage",
             "0.0075 to 0.01 µg/(kg·min)"
           ],
           [
             "rh-BNP",
-            "dosage and administration",
+            "usage or dosage",
             "intravenous infusion"
           ],
           [
@@ -3776,7 +3776,7 @@
         "triples": [
           [
             "Patients with sclerosing cholangitis ",
-            "therapeutic schedule",
+            "treatment plan",
             "therapeutic endoscopic intervention"
           ]
         ],
@@ -3951,12 +3951,12 @@
         "triples": [
           [
             "Patients with liver cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "direct-acting antivirals"
           ],
           [
             "Patients with liver cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "antiviral treatment"
           ]
         ],
@@ -4109,7 +4109,7 @@
         "triples": [
           [
             "Patients with breast cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "neoadjuvant therapy"
           ]
         ],
@@ -4141,7 +4141,7 @@
         "triples": [
           [
             "patients with CKD ",
-            "therapeutic schedule",
+            "treatment plan",
             "daily potassium intake is 50-70 mmol"
           ]
         ],
@@ -4163,7 +4163,7 @@
         "triples": [
           [
             "patients with CKD ",
-            "therapeutic schedule",
+            "treatment plan",
             "dietary potassium intake of less than 3 g/day"
           ]
         ],
@@ -4227,12 +4227,12 @@
         "triples": [
           [
             "Patients with primary vasculitis",
-            "therapeutic schedule",
+            "treatment plan",
             "Plasma exchange"
           ],
           [
             "Patients with primary vasculitis",
-            "therapeutic schedule",
+            "treatment plan",
             "immunoadsorption"
           ]
         ],
@@ -4269,12 +4269,12 @@
           ],
           [
             "fluconazole",
-            "dosage and administration",
+            "usage or dosage",
             "clotrimazole troches at a dosage of 10 mg"
           ],
           [
             "oral fluconazole",
-            "dosage and administration",
+            "usage or dosage",
             "5 times daily"
           ]
         ],
@@ -4301,17 +4301,17 @@
           ],
           [
             "fluconazole",
-            "dosage and administration",
+            "usage or dosage",
             "oral"
           ],
           [
             "fluconazole",
-            "dosage and administration",
+            "usage or dosage",
             "100-200 mg"
           ],
           [
             "fluconazole",
-            "dosage and administration",
+            "usage or dosage",
             "7-14 days"
           ]
         ],
@@ -4343,12 +4343,12 @@
         "triples": [
           [
             "Patients with breast hyperplasia ",
-            "therapeutic schedule",
+            "treatment plan",
             "psychological counseling"
           ],
           [
             "Patients with breast hyperplasia ",
-            "therapeutic schedule",
+            "treatment plan",
             "lifestyle changes"
           ]
         ],
@@ -4370,7 +4370,7 @@
         "triples": [
           [
             "Patients with breast hyperplasia ",
-            "therapeutic schedule",
+            "treatment plan",
             "pharmacological treatment"
           ]
         ],
@@ -4407,7 +4407,7 @@
         "triples": [
           [
             "Patients with PVT ",
-            "therapeutic schedule",
+            "treatment plan",
             "anticoagulant therapy"
           ]
         ],
@@ -4444,7 +4444,7 @@
           ],
           [
             "sensitive medications",
-            "dosage and administration",
+            "usage or dosage",
             "4 to 6 weeks"
           ],
           [
@@ -4565,7 +4565,7 @@
         "triples": [
           [
             "patients with chronic interstitial nephritis ",
-            "therapeutic schedule",
+            "treatment plan",
             "conservative treatment without dialysis"
           ]
         ],
@@ -4587,7 +4587,7 @@
         "triples": [
           [
             "patients with chronic interstitial nephritis ",
-            "therapeutic schedule",
+            "treatment plan",
             "renal replacement therapy"
           ]
         ],
@@ -4619,7 +4619,7 @@
         "triples": [
           [
             "Patients with AIH-PBC overlap syndrome ",
-            "therapeutic schedule",
+            "treatment plan",
             "UDCA treatment"
           ]
         ],
@@ -4630,7 +4630,7 @@
         "triples": [
           [
             "Patients with AIH-PBC overlap syndrome ",
-            "therapeutic schedule",
+            "treatment plan",
             "UDCA treatment"
           ],
           [
@@ -4747,7 +4747,7 @@
         "triples": [
           [
             "Patients with keloid ",
-            "therapeutic schedule",
+            "treatment plan",
             "excision of the infected area"
           ]
         ],
@@ -4758,7 +4758,7 @@
         "triples": [
           [
             "Patients with keloid ",
-            "therapeutic schedule",
+            "treatment plan",
             "non-surgical treatment methods"
           ],
           [
@@ -4773,17 +4773,17 @@
           ],
           [
             "Patients with keloid ",
-            "therapeutic schedule",
+            "treatment plan",
             "laser therapy"
           ],
           [
             "Patients with keloid ",
-            "therapeutic schedule",
+            "treatment plan",
             "cryotherapy"
           ],
           [
             "Patients with keloid ",
-            "therapeutic schedule",
+            "treatment plan",
             "compression therapy"
           ]
         ],
@@ -4815,7 +4815,7 @@
         "triples": [
           [
             "histamine H1 antagonists",
-            "dosage and administration",
+            "usage or dosage",
             "Oral"
           ],
           [
@@ -4835,7 +4835,7 @@
           ],
           [
             "or eye irrigation with physiological saline",
-            "dosage and administration",
+            "usage or dosage",
             "eye irrigation"
           ]
         ],
@@ -5069,7 +5069,7 @@
           ],
           [
             "MMF",
-            "dosage and administration",
+            "usage or dosage",
             "1-2 g/day"
           ],
           [
@@ -5106,7 +5106,7 @@
         "triples": [
           [
             "Arteriovenous fistula patients ",
-            "therapeutic schedule",
+            "treatment plan",
             "vascular intervention"
           ]
         ],
@@ -5128,7 +5128,7 @@
         "triples": [
           [
             "Arteriovenous fistula patients ",
-            "therapeutic schedule",
+            "treatment plan",
             "surgical treatment"
           ]
         ],
@@ -5160,7 +5160,7 @@
         "triples": [
           [
             "Patient with gastric cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "dissection of lower mediastinal nodes"
           ]
         ],
@@ -5182,7 +5182,7 @@
         "triples": [
           [
             "Patient with gastric cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "transhiatal abdominal approach"
           ]
         ],
@@ -5219,12 +5219,12 @@
         "triples": [
           [
             "Pediatric epilepsy patients ",
-            "therapeutic schedule",
+            "treatment plan",
             "Western medicine"
           ],
           [
             "Pediatric epilepsy patients ",
-            "therapeutic schedule",
+            "treatment plan",
             "acupuncture"
           ]
         ],
@@ -5298,7 +5298,7 @@
         "triples": [
           [
             "Patient with gastric cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "surgery"
           ]
         ],
@@ -5372,7 +5372,7 @@
         "triples": [
           [
             "Patients with ureteral stones ",
-            "therapeutic schedule",
+            "treatment plan",
             "pass by themselves"
           ]
         ],
@@ -5394,7 +5394,7 @@
         "triples": [
           [
             "Patients with ureteral stones ",
-            "therapeutic schedule",
+            "treatment plan",
             "drug-assisted stone removal"
           ]
         ],
@@ -5416,7 +5416,7 @@
         "triples": [
           [
             "Patients with ureteral stones ",
-            "therapeutic schedule",
+            "treatment plan",
             "surgical intervention"
           ]
         ],
@@ -5463,7 +5463,7 @@
           ],
           [
             "caspofungin",
-            "dosage and administration",
+            "usage or dosage",
             "50-150 mg/day"
           ],
           [
@@ -5473,12 +5473,12 @@
           ],
           [
             "micafungin",
-            "dosage and administration",
+            "usage or dosage",
             "100-150 mg/day"
           ],
           [
             "anidulafungin",
-            "dosage and administration",
+            "usage or dosage",
             "100-200 mg/day"
           ]
         ],
@@ -5542,7 +5542,7 @@
         "triples": [
           [
             "Patients with PVT ",
-            "therapeutic schedule",
+            "treatment plan",
             "endoscopic variceal ligation"
           ]
         ],
@@ -5574,7 +5574,7 @@
         "triples": [
           [
             "prednisolone",
-            "dosage and administration",
+            "usage or dosage",
             "oral"
           ],
           [
@@ -5584,7 +5584,7 @@
           ],
           [
             "prednisolone",
-            "dosage and administration",
+            "usage or dosage",
             "0.5-1 mg/kg/day"
           ]
         ],
@@ -5606,7 +5606,7 @@
         "triples": [
           [
             "prednisolone",
-            "dosage and administration",
+            "usage or dosage",
             "oral"
           ],
           [
@@ -5616,17 +5616,17 @@
           ],
           [
             "intravenous methylprednisolone",
-            "dosage and administration",
+            "usage or dosage",
             "intravenous"
           ],
           [
             "methylprednisolone",
-            "dosage and administration",
+            "usage or dosage",
             "250-500 mg"
           ],
           [
             "intravenous methylprednisolone",
-            "dosage and administration",
+            "usage or dosage",
             "2-3 doses on alternate days"
           ]
         ],
@@ -5668,7 +5668,7 @@
         "triples": [
           [
             "Patients with hallux valgus ",
-            "therapeutic schedule",
+            "treatment plan",
             "conservative treatment"
           ]
         ],
@@ -5705,7 +5705,7 @@
           ],
           [
             "Patients with primary sclerosing cholangitis ",
-            "therapeutic schedule",
+            "treatment plan",
             "avoiding hot baths or showers"
           ]
         ],
@@ -5753,7 +5753,7 @@
         "triples": [
           [
             "Patients with breast cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "single-agent chemotherapy"
           ]
         ],
@@ -5795,7 +5795,7 @@
         "triples": [
           [
             "Patients with HCV-GN ",
-            "therapeutic schedule",
+            "treatment plan",
             "DAA regimen"
           ]
         ],
@@ -5911,7 +5911,7 @@
           ],
           [
             "cholestyramine",
-            "dosage and administration",
+            "usage or dosage",
             "(4-16 g/day)"
           ]
         ],
@@ -5943,7 +5943,7 @@
           ],
           [
             "Rifampicin",
-            "dosage and administration",
+            "usage or dosage",
             "100-300 mg/day"
           ]
         ],
@@ -5991,12 +5991,12 @@
         "triples": [
           [
             "Patients with deep vein thrombosis",
-            "therapeutic schedule",
+            "treatment plan",
             "surgical thrombectomy"
           ],
           [
             "Patients with deep vein thrombosis",
-            "therapeutic schedule",
+            "treatment plan",
             "PMT"
           ]
         ],
@@ -6033,7 +6033,7 @@
         "triples": [
           [
             "Children with liver cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "transcatheter arterial chemoembolization"
           ]
         ],
@@ -6044,7 +6044,7 @@
         "triples": [
           [
             "Children with liver cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "surgical resection of lung metastases"
           ]
         ],
@@ -6081,7 +6081,7 @@
           ],
           [
             "Patients with acute kidney injury ",
-            "therapeutic schedule",
+            "treatment plan",
             "in combination with albumin infusion"
           ]
         ],
@@ -6113,22 +6113,22 @@
         "triples": [
           [
             "Patients with duodenal obstruction ",
-            "therapeutic schedule",
+            "treatment plan",
             "gastrojejunostomy"
           ],
           [
             "Patients with duodenal obstruction ",
-            "therapeutic schedule",
+            "treatment plan",
             "intraopetative radiotherapy"
           ],
           [
             "Patients with duodenal obstruction ",
-            "therapeutic schedule",
+            "treatment plan",
             "irreversible electroporation"
           ],
           [
             "Patients with duodenal obstruction ",
-            "therapeutic schedule",
+            "treatment plan",
             "nanoknife ablation"
           ]
         ],
@@ -6298,7 +6298,7 @@
         "triples": [
           [
             "Patients with hepatic hydatid disease ",
-            "therapeutic schedule",
+            "treatment plan",
             "palliative surgery"
           ]
         ],
@@ -6377,7 +6377,7 @@
         "triples": [
           [
             "Patients with cirrhosis and ascites ",
-            "therapeutic schedule",
+            "treatment plan",
             "TIPS"
           ]
         ],
@@ -6429,7 +6429,7 @@
         "triples": [
           [
             "Patients with decompensated cirrhosis ",
-            "therapeutic schedule",
+            "treatment plan",
             "diagnostic abdominal paracentesis"
           ]
         ],
@@ -6461,22 +6461,22 @@
         "triples": [
           [
             "Patients with compound thumb valgus ",
-            "therapeutic schedule",
+            "treatment plan",
             "Mitchell"
           ],
           [
             "Patients with compound thumb valgus ",
-            "therapeutic schedule",
+            "treatment plan",
             "Chevron-Gerbert"
           ],
           [
             "Patients with compound thumb valgus ",
-            "therapeutic schedule",
+            "treatment plan",
             "distal soft tissue"
           ],
           [
             "Patients with compound thumb valgus ",
-            "therapeutic schedule",
+            "treatment plan",
             "Akin procedures"
           ]
         ],
@@ -6498,12 +6498,12 @@
         "triples": [
           [
             "Patients with compound thumb valgus ",
-            "therapeutic schedule",
+            "treatment plan",
             "proximal osteotomy"
           ],
           [
             "Patients with compound thumb valgus ",
-            "therapeutic schedule",
+            "treatment plan",
             "distal osteotomy"
           ]
         ],
@@ -6551,7 +6551,7 @@
         "triples": [
           [
             "Patients with SAP ",
-            "therapeutic schedule",
+            "treatment plan",
             "invasive mechanical ventilation"
           ]
         ],
@@ -6562,7 +6562,7 @@
         "triples": [
           [
             "Patients with SAP ",
-            "therapeutic schedule",
+            "treatment plan",
             "oxygen therapy"
           ]
         ],
@@ -6637,7 +6637,7 @@
         "triples": [
           [
             "Patients with CRC ",
-            "therapeutic schedule",
+            "treatment plan",
             "nutritional therapy"
           ]
         ],
@@ -6780,7 +6780,7 @@
         "triples": [
           [
             "Patients with liver cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "Nucleoside analog antiviral treatment"
           ]
         ],
@@ -6834,7 +6834,7 @@
         "triples": [
           [
             "Patients with acute pancreatitis",
-            "therapeutic schedule",
+            "treatment plan",
             "be given oxygen by nasal cannula or mask"
           ]
         ],
@@ -6866,7 +6866,7 @@
           ],
           [
             "Patients with acute pancreatitis",
-            "therapeutic schedule",
+            "treatment plan",
             "positive pressure mechanical ventilation"
           ]
         ],
@@ -6903,7 +6903,7 @@
           ],
           [
             "sofosbuvir",
-            "dosage and administration",
+            "usage or dosage",
             "12-week"
           ],
           [
@@ -6913,7 +6913,7 @@
           ],
           [
             "velpatasvir",
-            "dosage and administration",
+            "usage or dosage",
             "12-week"
           ]
         ],
@@ -6945,12 +6945,12 @@
         "triples": [
           [
             "obese patients ",
-            "therapeutic schedule",
+            "treatment plan",
             "the Mediterranean diet"
           ],
           [
             "obese patients ",
-            "therapeutic schedule",
+            "treatment plan",
             "DASH (Dietary Approaches to Stop Hypertension) diet."
           ]
         ],
@@ -6982,12 +6982,12 @@
         "triples": [
           [
             "Patients with ascites ",
-            "therapeutic schedule",
+            "treatment plan",
             "Appropriate sodium restriction"
           ],
           [
             "Patients with ascites ",
-            "therapeutic schedule",
+            "treatment plan",
             "long-term bed rest is not recommended"
           ]
         ],
@@ -7034,7 +7034,7 @@
         "triples": [
           [
             "heart failure patients ",
-            "therapeutic schedule",
+            "treatment plan",
             "ultrafiltration therapy"
           ]
         ],
@@ -7071,7 +7071,7 @@
         "triples": [
           [
             "flucytosine",
-            "dosage and administration",
+            "usage or dosage",
             "oral"
           ],
           [
@@ -7086,7 +7086,7 @@
           ],
           [
             "Patients with candidiasis ",
-            "therapeutic schedule",
+            "treatment plan",
             "bladder irrigation with AmB-d"
           ]
         ],
@@ -7134,7 +7134,7 @@
         "triples": [
           [
             "Patients with NSCLC ",
-            "therapeutic schedule",
+            "treatment plan",
             "platinum-doublet regimens"
           ]
         ],
@@ -7156,7 +7156,7 @@
         "triples": [
           [
             "Patients with NSCLC ",
-            "therapeutic schedule",
+            "treatment plan",
             "single-drug chemotherapy"
           ]
         ],
@@ -7183,7 +7183,7 @@
         "triples": [
           [
             "Patients with NSCLC ",
-            "therapeutic schedule",
+            "treatment plan",
             "should not be recommended systemic chemotherapy."
           ]
         ],
@@ -7252,17 +7252,17 @@
         "triples": [
           [
             "CBP and CP/CPPS patients ",
-            "therapeutic schedule",
+            "treatment plan",
             "referral to specialist services"
           ],
           [
             "CBP and CP/CPPS patients ",
-            "therapeutic schedule",
+            "treatment plan",
             "treatments targeting neuropathic pain"
           ],
           [
             "CBP and CP/CPPS patients ",
-            "therapeutic schedule",
+            "treatment plan",
             "MDT"
           ]
         ],
@@ -7336,7 +7336,7 @@
         "triples": [
           [
             "Patients with sclerosing cholangitis ",
-            "therapeutic schedule",
+            "treatment plan",
             "Colectomy"
           ]
         ],
@@ -7368,7 +7368,7 @@
         "triples": [
           [
             "Patients with NSCLC ",
-            "therapeutic schedule",
+            "treatment plan",
             "chemotherapy"
           ],
           [
@@ -7383,7 +7383,7 @@
           ],
           [
             "Patients with NSCLC ",
-            "therapeutic schedule",
+            "treatment plan",
             "anti-angiogenic therapy"
           ]
         ],
@@ -7451,7 +7451,7 @@
           ],
           [
             "nutritional supplements",
-            "dosage and administration",
+            "usage or dosage",
             "oral"
           ]
         ],
@@ -7530,7 +7530,7 @@
         "triples": [
           [
             "Patients with achalasia ",
-            "therapeutic schedule",
+            "treatment plan",
             "Esophagectomy"
           ]
         ],
@@ -7562,7 +7562,7 @@
         "triples": [
           [
             "Patients with deep vein thrombosis",
-            "therapeutic schedule",
+            "treatment plan",
             "inferior vena cava filters"
           ]
         ],
@@ -7690,7 +7690,7 @@
         "triples": [
           [
             "Patients with NSCLC ",
-            "therapeutic schedule",
+            "treatment plan",
             "Postoperative radiotherapy"
           ]
         ],
@@ -7701,7 +7701,7 @@
         "triples": [
           [
             "Patients with NSCLC ",
-            "therapeutic schedule",
+            "treatment plan",
             "Reoperation"
           ]
         ],
@@ -7733,17 +7733,17 @@
         "triples": [
           [
             "Patients with liver cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "palliative radiotherapy"
           ],
           [
             "Patients with liver cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "radiotherapy"
           ],
           [
             "Patients with liver cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "TACE"
           ]
         ],
@@ -7785,12 +7785,12 @@
         "triples": [
           [
             "Patients with PSC ",
-            "therapeutic schedule",
+            "treatment plan",
             "Close monitoring"
           ],
           [
             "Patients with PSC ",
-            "therapeutic schedule",
+            "treatment plan",
             "interdisciplinary specialist care"
           ]
         ],
@@ -7822,12 +7822,12 @@
         "triples": [
           [
             "Patients with hallux valgus ",
-            "therapeutic schedule",
+            "treatment plan",
             "distal metatarsal osteotomy"
           ],
           [
             "Patients with hallux valgus ",
-            "therapeutic schedule",
+            "treatment plan",
             "soft tissue surgery"
           ]
         ],
@@ -7849,17 +7849,17 @@
         "triples": [
           [
             "Patients with hallux valgus ",
-            "therapeutic schedule",
+            "treatment plan",
             "soft tissue surgery"
           ],
           [
             "Patients with hallux valgus ",
-            "therapeutic schedule",
+            "treatment plan",
             "proximal osteotomy"
           ],
           [
             "Patients with hallux valgus ",
-            "therapeutic schedule",
+            "treatment plan",
             "modified Ludloff"
           ]
         ],
@@ -7881,12 +7881,12 @@
         "triples": [
           [
             "Patients with hallux valgus ",
-            "therapeutic schedule",
+            "treatment plan",
             "base osteotomy along with soft tissue surgery"
           ],
           [
             "Patients with hallux valgus ",
-            "therapeutic schedule",
+            "treatment plan",
             "Akin surgery"
           ]
         ],
@@ -7934,7 +7934,7 @@
           ],
           [
             "anti-aldosterone therapy",
-            "dosage and administration",
+            "usage or dosage",
             "increased every 72 hours (100 mg/dose)"
           ]
         ],
@@ -7977,7 +7977,7 @@
           ],
           [
             "anti-aldosterone therapy",
-            "dosage and administration",
+            "usage or dosage",
             "100 mg/day"
           ]
         ],
@@ -8034,7 +8034,7 @@
           ],
           [
             "prednisone",
-            "dosage and administration",
+            "usage or dosage",
             "30mg/d"
           ]
         ],
@@ -8076,7 +8076,7 @@
         "triples": [
           [
             "fluorouracil",
-            "dosage and administration",
+            "usage or dosage",
             "oral"
           ],
           [
@@ -8177,12 +8177,12 @@
         "triples": [
           [
             "Patients with G6PD deficiency",
-            "therapeutic schedule",
+            "treatment plan",
             "exchange transfusion"
           ],
           [
             "Patients with G6PD deficiency",
-            "therapeutic schedule",
+            "treatment plan",
             "phototherapy"
           ],
           [
@@ -8224,17 +8224,17 @@
         "triples": [
           [
             "Patients with OSA ",
-            "therapeutic schedule",
+            "treatment plan",
             "dietary control"
           ],
           [
             "Patients with OSA ",
-            "therapeutic schedule",
+            "treatment plan",
             "exercise"
           ],
           [
             "Patients with OSA ",
-            "therapeutic schedule",
+            "treatment plan",
             "behavioral counseling"
           ]
         ],
@@ -8282,7 +8282,7 @@
         "triples": [
           [
             "Patients with acute heart failure ",
-            "therapeutic schedule",
+            "treatment plan",
             "nasal high-flow humidified oxygen therapy"
           ]
         ],
@@ -8334,17 +8334,17 @@
         "triples": [
           [
             "Patients with acute heart failure ",
-            "therapeutic schedule",
+            "treatment plan",
             "oxygen therapy"
           ],
           [
             "Patients with acute heart failure ",
-            "therapeutic schedule",
+            "treatment plan",
             "nasal cannula oxygen"
           ],
           [
             "Patients with acute heart failure ",
-            "therapeutic schedule",
+            "treatment plan",
             "oxygen mask"
           ]
         ],
@@ -8386,7 +8386,7 @@
         "triples": [
           [
             "Atrial fibrillation patients ",
-            "therapeutic schedule",
+            "treatment plan",
             "catheter ablation"
           ]
         ],
@@ -8418,17 +8418,17 @@
         "triples": [
           [
             "Patients with primary liver cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "surgical resection is not the preferred initial choice"
           ],
           [
             "Patients with primary liver cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "TACE"
           ],
           [
             "Patients with primary liver cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "non-surgical treatments"
           ]
         ],
@@ -8450,7 +8450,7 @@
         "triples": [
           [
             "Patients with primary liver cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "Surgical resection"
           ]
         ],
@@ -8482,12 +8482,12 @@
         "triples": [
           [
             "Patients with liver cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "red blood cell transfusion"
           ],
           [
             "Patients with liver cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "drug therapy"
           ]
         ],
@@ -8509,7 +8509,7 @@
         "triples": [
           [
             "Patients with liver cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "Platelet transfusion"
           ]
         ],
@@ -8573,7 +8573,7 @@
         "triples": [
           [
             "Patients with sinusitis ",
-            "therapeutic schedule",
+            "treatment plan",
             "Perform surgery"
           ]
         ],
@@ -8610,7 +8610,7 @@
         "triples": [
           [
             "Patients with AI ",
-            "therapeutic schedule",
+            "treatment plan",
             "surgical treatment"
           ]
         ],
@@ -8694,7 +8694,7 @@
         "triples": [
           [
             "Patients with acute heart failure ",
-            "therapeutic schedule",
+            "treatment plan",
             "Renal replacement therapy"
           ]
         ],
@@ -8731,7 +8731,7 @@
         "triples": [
           [
             "Patients with keloid ",
-            "therapeutic schedule",
+            "treatment plan",
             "non-surgical treatment"
           ]
         ],
@@ -8742,12 +8742,12 @@
         "triples": [
           [
             "Patients with keloid ",
-            "therapeutic schedule",
+            "treatment plan",
             "surgical intervention"
           ],
           [
             "Patients with keloid ",
-            "therapeutic schedule",
+            "treatment plan",
             "postoperative radiation and chemotherapy"
           ]
         ],
@@ -8774,7 +8774,7 @@
         "triples": [
           [
             "Patients with NSCLC ",
-            "therapeutic schedule",
+            "treatment plan",
             "concurrent chemoradiation"
           ]
         ],
@@ -8947,12 +8947,12 @@
         "triples": [
           [
             "Patients with NSCLC ",
-            "therapeutic schedule",
+            "treatment plan",
             "large fractionation radiotherapy"
           ],
           [
             "Patients with NSCLC ",
-            "therapeutic schedule",
+            "treatment plan",
             "SBRT"
           ]
         ],
@@ -8999,17 +8999,17 @@
           ],
           [
             "AmB-d",
-            "dosage and administration",
+            "usage or dosage",
             "intravenous"
           ],
           [
             "fluconazole",
-            "dosage and administration",
+            "usage or dosage",
             "intravenous"
           ],
           [
             "echinocandin",
-            "dosage and administration",
+            "usage or dosage",
             "intravenous"
           ]
         ],
@@ -9046,7 +9046,7 @@
         "triples": [
           [
             "Patients with keloid ",
-            "therapeutic schedule",
+            "treatment plan",
             "Non-surgical treatment"
           ]
         ],
@@ -9088,7 +9088,7 @@
         "triples": [
           [
             "Patients with inflammatory bowel disease ",
-            "therapeutic schedule",
+            "treatment plan",
             "Surgery"
           ]
         ],
@@ -9125,32 +9125,32 @@
         "triples": [
           [
             "Patients with NSCLC ",
-            "therapeutic schedule",
+            "treatment plan",
             "bronchoscope-mediated laser"
           ],
           [
             "Patients with NSCLC ",
-            "therapeutic schedule",
+            "treatment plan",
             "high-frequency electrotome"
           ],
           [
             "Patients with NSCLC ",
-            "therapeutic schedule",
+            "treatment plan",
             "radiofrequency ablation"
           ],
           [
             "Patients with NSCLC ",
-            "therapeutic schedule",
+            "treatment plan",
             "argon plasma coagulation (APC)"
           ],
           [
             "Patients with NSCLC ",
-            "therapeutic schedule",
+            "treatment plan",
             "microwave"
           ],
           [
             "Patients with NSCLC ",
-            "therapeutic schedule",
+            "treatment plan",
             "laser"
           ]
         ],
@@ -9182,17 +9182,17 @@
         "triples": [
           [
             "Patients with liver cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "catheterization for hepatic artery"
           ],
           [
             "Patients with liver cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "portal vein chemotherapy"
           ],
           [
             "Patients with liver cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "other local treatment options"
           ]
         ],
@@ -9224,7 +9224,7 @@
         "triples": [
           [
             "Patients with chronic diarrhea ",
-            "therapeutic schedule",
+            "treatment plan",
             "the use of antidepressant medications"
           ]
         ],
@@ -9256,7 +9256,7 @@
         "triples": [
           [
             "Patients with sclerosing cholangitis ",
-            "therapeutic schedule",
+            "treatment plan",
             "Elective TIPS"
           ]
         ],
@@ -9340,7 +9340,7 @@
         "triples": [
           [
             "Patients with knee osteoarthritis ",
-            "therapeutic schedule",
+            "treatment plan",
             "Arthroscopic partial meniscectomy"
           ]
         ],
@@ -9377,7 +9377,7 @@
           ],
           [
             "broad-spectrum alpha interferon",
-            "dosage and administration",
+            "usage or dosage",
             "local throat spray"
           ]
         ],
@@ -9399,7 +9399,7 @@
         "triples": [
           [
             "Patients with recurrent respiratory tract infections ",
-            "therapeutic schedule",
+            "treatment plan",
             "testing for multiple pathogens"
           ]
         ],
@@ -9489,7 +9489,7 @@
           ],
           [
             "Pregnant patients with acute pulmonary embolism",
-            "therapeutic schedule",
+            "treatment plan",
             "anti Xa factor activity should be monitored."
           ]
         ],
@@ -9500,7 +9500,7 @@
         "triples": [
           [
             "Pregnant patients with acute pulmonary embolism",
-            "therapeutic schedule",
+            "treatment plan",
             "low-molecular-weight heparin therap"
           ]
         ],
@@ -9537,7 +9537,7 @@
           ],
           [
             "anticoagulation",
-            "dosage and administration",
+            "usage or dosage",
             "oral"
           ]
         ],
@@ -9616,7 +9616,7 @@
         "triples": [
           [
             "Patients with hepatolenticular degeneration ",
-            "therapeutic schedule",
+            "treatment plan",
             "low-copper diet"
           ],
           [
@@ -9658,7 +9658,7 @@
         "triples": [
           [
             "Patient with gastric cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "postoperative radiotherapy"
           ]
         ],
@@ -9700,7 +9700,7 @@
         "triples": [
           [
             "Patients with acute heart failure ",
-            "therapeutic schedule",
+            "treatment plan",
             "non-invasive positive pressure ventilation"
           ]
         ],
@@ -9732,7 +9732,7 @@
         "triples": [
           [
             "Patients with simple hallux valgus ",
-            "therapeutic schedule",
+            "treatment plan",
             "Silver soft tissue surgery"
           ]
         ],
@@ -9743,7 +9743,7 @@
         "triples": [
           [
             "Patients with simple hallux valgus ",
-            "therapeutic schedule",
+            "treatment plan",
             "DMAA procedure"
           ]
         ],
@@ -9780,7 +9780,7 @@
         "triples": [
           [
             "Patients with achalasia",
-            "therapeutic schedule",
+            "treatment plan",
             "special treatment is usually not required"
           ]
         ],
@@ -9802,7 +9802,7 @@
         "triples": [
           [
             "Patients with achalasia",
-            "therapeutic schedule",
+            "treatment plan",
             "thoracentesis"
           ]
         ],
@@ -9844,7 +9844,7 @@
         "triples": [
           [
             "Patients with hallux valgus ",
-            "therapeutic schedule",
+            "treatment plan",
             "arthroplasty surgery"
           ]
         ],
@@ -9913,7 +9913,7 @@
         "triples": [
           [
             "heart failure patients ",
-            "therapeutic schedule",
+            "treatment plan",
             "water intake should be restricted to less than 2 L/day"
           ]
         ],
@@ -9945,7 +9945,7 @@
         "triples": [
           [
             "heart failure patients ",
-            "therapeutic schedule",
+            "treatment plan",
             "nutritional support"
           ]
         ],
@@ -10014,7 +10014,7 @@
         "triples": [
           [
             "Patients with thyroid carcinoma ",
-            "therapeutic schedule",
+            "treatment plan",
             "US-FNAB is not recommended"
           ]
         ],
@@ -10067,7 +10067,7 @@
           ],
           [
             "tamoxifen",
-            "dosage and administration",
+            "usage or dosage",
             "10 years"
           ]
         ],
@@ -10094,7 +10094,7 @@
           ],
           [
             "tamoxifen",
-            "dosage and administration",
+            "usage or dosage",
             "5 years"
           ],
           [
@@ -10104,7 +10104,7 @@
           ],
           [
             "aromatase inhibitor",
-            "dosage and administration",
+            "usage or dosage",
             "5 years"
           ]
         ],
@@ -10141,12 +10141,12 @@
         "triples": [
           [
             "bladder cancer patients ",
-            "therapeutic schedule",
+            "treatment plan",
             "palliative cystectomy"
           ],
           [
             "bladder cancer patients ",
-            "therapeutic schedule",
+            "treatment plan",
             "urinary diversion"
           ]
         ],
@@ -10183,12 +10183,12 @@
           ],
           [
             "UDCA",
-            "dosage and administration",
+            "usage or dosage",
             "Low-to-medium-dose"
           ],
           [
             "UDCA",
-            "dosage and administration",
+            "usage or dosage",
             "10-15 mg/kg/d"
           ]
         ],
@@ -10220,12 +10220,12 @@
         "triples": [
           [
             "Patients with ABP ",
-            "therapeutic schedule",
+            "treatment plan",
             "percutaneous transhepatic bile duct drainage"
           ],
           [
             "Patients with ABP ",
-            "therapeutic schedule",
+            "treatment plan",
             "percutaneous transhepatic gallbladder drainage"
           ]
         ],
@@ -10257,7 +10257,7 @@
         "triples": [
           [
             "Patients with primary biliary cholangitis",
-            "therapeutic schedule",
+            "treatment plan",
             "second-line therapy"
           ],
           [
@@ -10356,7 +10356,7 @@
         "triples": [
           [
             "Patients with malignant gastric obstruction ",
-            "therapeutic schedule",
+            "treatment plan",
             "jejunal feeding tube"
           ]
         ],
@@ -10403,7 +10403,7 @@
         "triples": [
           [
             "patients with aortic stenosis ",
-            "therapeutic schedule",
+            "treatment plan",
             "surgical replacement of the diseased valve"
           ]
         ],
@@ -10492,12 +10492,12 @@
         "triples": [
           [
             "Patients with thrombocytopenia in cancer patients with liver injury ",
-            "therapeutic schedule",
+            "treatment plan",
             "splenic embolization"
           ],
           [
             "Patients with thrombocytopenia in cancer patients with liver injury ",
-            "therapeutic schedule",
+            "treatment plan",
             "splenectomy"
           ]
         ],
@@ -10598,7 +10598,7 @@
         "triples": [
           [
             "Patients with cirrhosis ",
-            "therapeutic schedule",
+            "treatment plan",
             "transjugular intrahepatic portosystemic shunt"
           ]
         ],
@@ -10640,7 +10640,7 @@
         "triples": [
           [
             "Patients with NSCLC ",
-            "therapeutic schedule",
+            "treatment plan",
             "internal stent implantation"
           ]
         ],
@@ -10682,7 +10682,7 @@
         "triples": [
           [
             "Patients with PSC ",
-            "therapeutic schedule",
+            "treatment plan",
             "Therapeutic endoscopic intervention"
           ]
         ],
@@ -10719,7 +10719,7 @@
         "triples": [
           [
             "Patients with acute heart failure ",
-            "therapeutic schedule",
+            "treatment plan",
             "ultrafiltration therapy"
           ]
         ],
@@ -10756,7 +10756,7 @@
         "triples": [
           [
             "Patients with PVT ",
-            "therapeutic schedule",
+            "treatment plan",
             "anticoagulant therapy"
           ]
         ],
@@ -10788,17 +10788,17 @@
         "triples": [
           [
             "Patients with primary liver cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "tumor resection"
           ],
           [
             "Patients with primary liver cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "hepatic hilar lymph node dissection"
           ],
           [
             "Patients with primary liver cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "postoperative external beam radiotherapy"
           ]
         ],
@@ -10835,7 +10835,7 @@
           ],
           [
             "UDCA",
-            "dosage and administration",
+            "usage or dosage",
             "13-15 mg/kg/d"
           ]
         ],
@@ -10862,7 +10862,7 @@
           ],
           [
             "OCA",
-            "dosage and administration",
+            "usage or dosage",
             "5-10 mg/d"
           ]
         ],
@@ -10936,7 +10936,7 @@
         "triples": [
           [
             "Patients with CP ",
-            "therapeutic schedule",
+            "treatment plan",
             "endoscopic therapy"
           ]
         ],
@@ -10994,7 +10994,7 @@
         "triples": [
           [
             "Patients with AI ",
-            "therapeutic schedule",
+            "treatment plan",
             "surgical resection"
           ]
         ],
@@ -11016,7 +11016,7 @@
         "triples": [
           [
             "Patients with AI ",
-            "therapeutic schedule",
+            "treatment plan",
             "reduce the frequency of follow-up until discontinuation"
           ]
         ],
@@ -11053,7 +11053,7 @@
         "triples": [
           [
             "Patients with CRC ",
-            "therapeutic schedule",
+            "treatment plan",
             "nutritional therapy for 4 to 8 weeks"
           ],
           [
@@ -11127,7 +11127,7 @@
         "triples": [
           [
             "Patients with keloid ",
-            "therapeutic schedule",
+            "treatment plan",
             "partial excision of the keloid"
           ]
         ],
@@ -11201,12 +11201,12 @@
         "triples": [
           [
             "Patient with gastric cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "gastrectomy"
           ],
           [
             "Patient with gastric cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "resection of the involved organs"
           ]
         ],
@@ -11233,17 +11233,17 @@
         "triples": [
           [
             "Patient with gastric cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "lymphadenectomy"
           ],
           [
             "Patient with gastric cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "total gastrectomy"
           ],
           [
             "Patient with gastric cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "splenectomy"
           ]
         ],
@@ -11254,7 +11254,7 @@
         "triples": [
           [
             "Patient with gastric cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "prophylactic splenectomy is not recommended"
           ]
         ],
@@ -11408,7 +11408,7 @@
         "triples": [
           [
             "Patients with gastroesophageal reflux disease ",
-            "therapeutic schedule",
+            "treatment plan",
             "TIF"
           ]
         ],
@@ -11519,7 +11519,7 @@
           ],
           [
             "Patients with gastroesophageal reflux disease ",
-            "therapeutic schedule",
+            "treatment plan",
             "laparoscopic fundoplication"
           ]
         ],
@@ -11556,12 +11556,12 @@
         "triples": [
           [
             "Patients with liver cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "blood product transfusions"
           ],
           [
             "Patients with liver cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "drug therapy"
           ]
         ],
@@ -11625,7 +11625,7 @@
         "triples": [
           [
             "Patients with PVT ",
-            "therapeutic schedule",
+            "treatment plan",
             "anticoagulant therapy"
           ]
         ],
@@ -11673,12 +11673,12 @@
         "triples": [
           [
             "Patients with NSCLC ",
-            "therapeutic schedule",
+            "treatment plan",
             "conformal radiotherapy"
           ],
           [
             "Patients with NSCLC ",
-            "therapeutic schedule",
+            "treatment plan",
             "concurrent chemotherapy"
           ]
         ],
@@ -11736,7 +11736,7 @@
         "triples": [
           [
             "Patients with ascites ",
-            "therapeutic schedule",
+            "treatment plan",
             "second abdominal paracentesis"
           ]
         ],
@@ -11768,12 +11768,12 @@
         "triples": [
           [
             "Patients with liver failure ",
-            "therapeutic schedule",
+            "treatment plan",
             "lactulose"
           ],
           [
             "lactulose",
-            "dosage and administration",
+            "usage or dosage",
             "Oral"
           ],
           [
@@ -11783,7 +11783,7 @@
           ],
           [
             "Patients with liver failure ",
-            "therapeutic schedule",
+            "treatment plan",
             "high enema should be administered to promote bowel movements"
           ]
         ],
@@ -11810,7 +11810,7 @@
         "triples": [
           [
             "Patients with liver failure ",
-            "therapeutic schedule",
+            "treatment plan",
             "blood purification therapy"
           ]
         ],
@@ -11858,7 +11858,7 @@
         "triples": [
           [
             "Patients with hallux valgus ",
-            "therapeutic schedule",
+            "treatment plan",
             "tarsometatarsal joint fusion surgery"
           ]
         ],
@@ -11895,17 +11895,17 @@
         "triples": [
           [
             "Patients with benign prostatic hyperplasia ",
-            "therapeutic schedule",
+            "treatment plan",
             "HoLEP"
           ],
           [
             "Patients with benign prostatic hyperplasia ",
-            "therapeutic schedule",
+            "treatment plan",
             "PVP"
           ],
           [
             "Patients with benign prostatic hyperplasia ",
-            "therapeutic schedule",
+            "treatment plan",
             "ThuLEP"
           ]
         ],
@@ -11952,12 +11952,12 @@
           ],
           [
             "pimecrolimus",
-            "dosage and administration",
+            "usage or dosage",
             "twice daily"
           ],
           [
             "pimecrolimus",
-            "dosage and administration",
+            "usage or dosage",
             "for 4 to 6 weeks"
           ]
         ],
@@ -11994,7 +11994,7 @@
         "triples": [
           [
             "Patients with knee osteoarthritis ",
-            "therapeutic schedule",
+            "treatment plan",
             "Sustained weight loss"
           ]
         ],
@@ -12031,7 +12031,7 @@
         "triples": [
           [
             "Patients with ascites ",
-            "therapeutic schedule",
+            "treatment plan",
             "removing all ascitic fluid at once"
           ]
         ],
@@ -12068,7 +12068,7 @@
           ],
           [
             "traditional Chinese medicine with lung-ventilating and cough-suppressing effects",
-            "dosage and administration",
+            "usage or dosage",
             "oral"
           ],
           [
@@ -12078,7 +12078,7 @@
           ],
           [
             "Children's Cough Granules",
-            "dosage and administration",
+            "usage or dosage",
             "oral"
           ]
         ],
@@ -12105,7 +12105,7 @@
           ],
           [
             "traditional Chinese medicine with lung-ventilating and cough-suppressing effects",
-            "dosage and administration",
+            "usage or dosage",
             "oral"
           ],
           [
@@ -12115,7 +12115,7 @@
           ],
           [
             "Children's Cough Granules",
-            "dosage and administration",
+            "usage or dosage",
             "oral"
           ],
           [
@@ -12152,7 +12152,7 @@
         "triples": [
           [
             "Patients with allergic rhinitis ",
-            "therapeutic schedule",
+            "treatment plan",
             "posterior nasal neurectomy"
           ]
         ],
@@ -12227,7 +12227,7 @@
         "triples": [
           [
             "Patients with CKD ",
-            "therapeutic schedule",
+            "treatment plan",
             "monitoring of HBsAG and HBV DNA"
           ]
         ],
@@ -12269,12 +12269,12 @@
           ],
           [
             "terbinafine",
-            "dosage and administration",
+            "usage or dosage",
             "orally"
           ],
           [
             "terbinafine",
-            "dosage and administration",
+            "usage or dosage",
             "62.5mg/d"
           ]
         ],
@@ -12301,12 +12301,12 @@
           ],
           [
             "terbinafine",
-            "dosage and administration",
+            "usage or dosage",
             "orally"
           ],
           [
             "terbinafine",
-            "dosage and administration",
+            "usage or dosage",
             "125mg/d"
           ]
         ],
@@ -12368,12 +12368,12 @@
           ],
           [
             "apatinib",
-            "dosage and administration",
+            "usage or dosage",
             "oral"
           ],
           [
             "apatinib",
-            "dosage and administration",
+            "usage or dosage",
             "low dose"
           ]
         ],
@@ -12405,17 +12405,17 @@
         "triples": [
           [
             "Patients with SAP ",
-            "therapeutic schedule",
+            "treatment plan",
             "intermittent hemodialysis"
           ],
           [
             "Patients with SAP ",
-            "therapeutic schedule",
+            "treatment plan",
             "blood perfusion adsorption"
           ],
           [
             "Patients with SAP ",
-            "therapeutic schedule",
+            "treatment plan",
             "plasma perfusion adsorption"
           ]
         ],
@@ -12426,7 +12426,7 @@
         "triples": [
           [
             "Patients with SAP ",
-            "therapeutic schedule",
+            "treatment plan",
             "CRRT"
           ]
         ],
@@ -12453,7 +12453,7 @@
         "triples": [
           [
             "Patients with hepatic hydatid disease ",
-            "therapeutic schedule",
+            "treatment plan",
             "radical methods"
           ]
         ],
@@ -12475,7 +12475,7 @@
         "triples": [
           [
             "Patients with hepatic hydatid disease ",
-            "therapeutic schedule",
+            "treatment plan",
             "drug therapy"
           ]
         ],
@@ -12596,7 +12596,7 @@
           ],
           [
             "vasodilator",
-            "dosage and administration",
+            "usage or dosage",
             "intravenous infusion"
           ]
         ],
@@ -12670,7 +12670,7 @@
           ],
           [
             "glucose electrolyte solutions",
-            "dosage and administration",
+            "usage or dosage",
             "oral"
           ],
           [
@@ -12697,7 +12697,7 @@
         "triples": [
           [
             "Patients with gastroenteritis ",
-            "therapeutic schedule",
+            "treatment plan",
             "isotonic intravenous fluids"
           ],
           [
@@ -12808,7 +12808,7 @@
         "triples": [
           [
             "Patients with adrenal accidental tumor ",
-            "therapeutic schedule",
+            "treatment plan",
             "Surgical intervention"
           ]
         ],
@@ -12850,7 +12850,7 @@
         "triples": [
           [
             "Patients with MSAP/SAP ",
-            "therapeutic schedule",
+            "treatment plan",
             "epidural analgesia"
           ]
         ],
@@ -12887,7 +12887,7 @@
           ],
           [
             "5-aminosalicylic acid (5-ASA)",
-            "dosage and administration",
+            "usage or dosage",
             "Oral"
           ]
         ],
@@ -12981,7 +12981,7 @@
           ],
           [
             "Patients with viral hepatitis ",
-            "therapeutic schedule",
+            "treatment plan",
             "ledipasvir"
           ]
         ],
@@ -13044,12 +13044,12 @@
         "triples": [
           [
             "Patients with keloid ",
-            "therapeutic schedule",
+            "treatment plan",
             "isolated 5-FU injections"
           ],
           [
             "Patients with keloid ",
-            "therapeutic schedule",
+            "treatment plan",
             "laser therapy"
           ],
           [
@@ -13064,7 +13064,7 @@
           ],
           [
             "Patients with keloid ",
-            "therapeutic schedule",
+            "treatment plan",
             "compression therapy"
           ]
         ],
@@ -13153,12 +13153,12 @@
         "triples": [
           [
             "Patients with rheumatoid arthritis ",
-            "therapeutic schedule",
+            "treatment plan",
             "Follow-up evaluations"
           ],
           [
             "Patients with rheumatoid arthritis ",
-            "therapeutic schedule",
+            "treatment plan",
             "treatment adjustments"
           ]
         ],
@@ -13216,12 +13216,12 @@
         "triples": [
           [
             "Patients with AI ",
-            "therapeutic schedule",
+            "treatment plan",
             "surgery"
           ],
           [
             "Patients with AI ",
-            "therapeutic schedule",
+            "treatment plan",
             "remove the adrenal gland with larger volume"
           ]
         ],
@@ -13278,7 +13278,7 @@
         "triples": [
           [
             "Patients with rotavirus gastroenteritis ",
-            "therapeutic schedule",
+            "treatment plan",
             "isotonic intravenous fluids"
           ],
           [
@@ -13320,17 +13320,17 @@
         "triples": [
           [
             "Patient with gastric cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "traditional Chinese medicine treatment"
           ],
           [
             "Patient with gastric cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "adjusting diet"
           ],
           [
             "Patient with gastric cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "adjusting lifestyle"
           ]
         ],
@@ -13367,7 +13367,7 @@
         "triples": [
           [
             "Patients with MUTYH polyposis syndrome ",
-            "therapeutic schedule",
+            "treatment plan",
             "Surgery"
           ]
         ],
@@ -13404,7 +13404,7 @@
         "triples": [
           [
             "Patients with AAH ",
-            "therapeutic schedule",
+            "treatment plan",
             "LT"
           ]
         ],
@@ -13446,7 +13446,7 @@
         "triples": [
           [
             "Patients with PVT ",
-            "therapeutic schedule",
+            "treatment plan",
             "anticoagulant therapy"
           ]
         ],
@@ -13483,12 +13483,12 @@
         "triples": [
           [
             "Patients with liver cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "ablation therapy"
           ],
           [
             "Patients with liver cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "surgical resection"
           ]
         ],
@@ -13541,12 +13541,12 @@
           ],
           [
             "silymarin",
-            "dosage and administration",
+            "usage or dosage",
             "140 mg per administration"
           ],
           [
             "silymarin",
-            "dosage and administration",
+            "usage or dosage",
             "three times daily"
           ]
         ],
@@ -13637,7 +13637,7 @@
         "triples": [
           [
             "Patients with gastroesophageal reflux disease ",
-            "therapeutic schedule",
+            "treatment plan",
             "medication can be reduced"
           ]
         ],
@@ -13659,7 +13659,7 @@
         "triples": [
           [
             "Patients with gastroesophageal reflux disease ",
-            "therapeutic schedule",
+            "treatment plan",
             "PPI therapy"
           ]
         ],
@@ -13696,7 +13696,7 @@
           ],
           [
             "fluconazole",
-            "dosage and administration",
+            "usage or dosage",
             "400-800 mg daily"
           ]
         ],
@@ -13738,12 +13738,12 @@
           ],
           [
             "fluorouracils",
-            "dosage and administration",
+            "usage or dosage",
             "oral"
           ],
           [
             "Patient with gastric cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "taxanes"
           ]
         ],
@@ -13834,17 +13834,17 @@
         "triples": [
           [
             "Patients with DILI ",
-            "therapeutic schedule",
+            "treatment plan",
             "Liver transplantation"
           ],
           [
             "Patients with DILI ",
-            "therapeutic schedule",
+            "treatment plan",
             "corticosteroid pulse therapy"
           ],
           [
             "Patients with DILI ",
-            "therapeutic schedule",
+            "treatment plan",
             "liver supporting therapies"
           ]
         ],
@@ -13876,17 +13876,17 @@
         "triples": [
           [
             "Patients with HEV ",
-            "therapeutic schedule",
+            "treatment plan",
             "home isolation"
           ],
           [
             "Patients with HEV ",
-            "therapeutic schedule",
+            "treatment plan",
             "be hospitalized"
           ],
           [
             "Patients with HEV ",
-            "therapeutic schedule",
+            "treatment plan",
             "Bed rest"
           ]
         ],
@@ -13908,7 +13908,7 @@
         "triples": [
           [
             "Patients with HEV ",
-            "therapeutic schedule",
+            "treatment plan",
             "gradual increases in activity"
           ]
         ],
@@ -13945,12 +13945,12 @@
         "triples": [
           [
             "Patients with ascites ",
-            "therapeutic schedule",
+            "treatment plan",
             "discontinuation of diuretics"
           ],
           [
             "Patients with ascites ",
-            "therapeutic schedule",
+            "treatment plan",
             "TIPS treatment"
           ]
         ],
@@ -13998,17 +13998,17 @@
         "triples": [
           [
             "Patients with NSCLC ",
-            "therapeutic schedule",
+            "treatment plan",
             "postoperative adjuvant chemotherapy"
           ],
           [
             "Patients with NSCLC ",
-            "therapeutic schedule",
+            "treatment plan",
             "adjuvant radiotherapy"
           ],
           [
             "Patients with NSCLC ",
-            "therapeutic schedule",
+            "treatment plan",
             "chemotherapy followed by sequential radiotherapy"
           ]
         ],
@@ -14114,12 +14114,12 @@
         "triples": [
           [
             "Ondansetron",
-            "dosage and administration",
+            "usage or dosage",
             "orally"
           ],
           [
             "Ondansetron",
-            "dosage and administration",
+            "usage or dosage",
             "intravenously"
           ],
           [
@@ -14129,12 +14129,12 @@
           ],
           [
             "Ondansetron",
-            "dosage and administration",
+            "usage or dosage",
             "4 or 8 mg"
           ],
           [
             "Ondansetron",
-            "dosage and administration",
+            "usage or dosage",
             "three or four times a day"
           ],
           [
@@ -14166,12 +14166,12 @@
         "triples": [
           [
             "Ondansetron",
-            "dosage and administration",
+            "usage or dosage",
             "oral"
           ],
           [
             "Ondansetron",
-            "dosage and administration",
+            "usage or dosage",
             "intravenous"
           ],
           [
@@ -14181,7 +14181,7 @@
           ],
           [
             "Ondansetron",
-            "dosage and administration",
+            "usage or dosage",
             "0.15 or 0.3 mg/kg"
           ]
         ],
@@ -14250,7 +14250,7 @@
         "triples": [
           [
             "Patients with allergic rhinitis ",
-            "therapeutic schedule",
+            "treatment plan",
             "surgical treatment"
           ]
         ],
@@ -14282,7 +14282,7 @@
         "triples": [
           [
             "Patients with OMM ",
-            "therapeutic schedule",
+            "treatment plan",
             "Cryotherapy"
           ]
         ],
@@ -14329,7 +14329,7 @@
         "triples": [
           [
             "Patients with post-thrombotic syndrome ",
-            "therapeutic schedule",
+            "treatment plan",
             "conservative treatment"
           ]
         ],
@@ -14366,7 +14366,7 @@
         "triples": [
           [
             "Patients with post-thrombotic syndrome ",
-            "therapeutic schedule",
+            "treatment plan",
             "endovascular intervention"
           ]
         ],
@@ -14403,7 +14403,7 @@
         "triples": [
           [
             "Patients with ALF ",
-            "therapeutic schedule",
+            "treatment plan",
             "Liver transplantation"
           ]
         ],
@@ -14519,7 +14519,7 @@
         "triples": [
           [
             "Patients with insulinoma ",
-            "therapeutic schedule",
+            "treatment plan",
             "distal pancreatectomy"
           ]
         ],
@@ -14541,7 +14541,7 @@
         "triples": [
           [
             "Patients with insulinoma ",
-            "therapeutic schedule",
+            "treatment plan",
             "pancreaticoduodenectomy"
           ]
         ],
@@ -14563,7 +14563,7 @@
         "triples": [
           [
             "Patients with insulinoma ",
-            "therapeutic schedule",
+            "treatment plan",
             "complete pancreatectomy"
           ]
         ],
@@ -14595,7 +14595,7 @@
         "triples": [
           [
             "Hypertensive patients ",
-            "therapeutic schedule",
+            "treatment plan",
             "weight loss"
           ]
         ],
@@ -14627,12 +14627,12 @@
         "triples": [
           [
             "Hypertensive patients ",
-            "therapeutic schedule",
+            "treatment plan",
             "dietary changes"
           ],
           [
             "Hypertensive patients ",
-            "therapeutic schedule",
+            "treatment plan",
             "increased consumption of fruits, vegetables, and low-fat dairy products"
           ]
         ],
@@ -14733,7 +14733,7 @@
         "triples": [
           [
             "Patients with HEV ",
-            "therapeutic schedule",
+            "treatment plan",
             "testing for HEV RNA or antigen"
           ]
         ],
@@ -14780,7 +14780,7 @@
         "triples": [
           [
             "Patient with gastric cancer ",
-            "therapeutic schedule",
+            "treatment plan",
             "traditional Chinese medicine treatment"
           ]
         ],
@@ -14875,7 +14875,7 @@
         "triples": [
           [
             "Patients with GSDIa ",
-            "therapeutic schedule",
+            "treatment plan",
             "combined liver and kidney transplantation"
           ]
         ],
@@ -14907,12 +14907,12 @@
         "triples": [
           [
             "Patients with PSC ",
-            "therapeutic schedule",
+            "treatment plan",
             "endoscopic balloon dilation"
           ],
           [
             "Patients with PSC ",
-            "therapeutic schedule",
+            "treatment plan",
             "short-term stent placement"
           ]
         ],
@@ -14954,7 +14954,7 @@
           ],
           [
             "vitamin D",
-            "dosage and administration",
+            "usage or dosage",
             "800 to 1000 IU"
           ]
         ],
@@ -14986,7 +14986,7 @@
           ],
           [
             "vitamin D3",
-            "dosage and administration",
+            "usage or dosage",
             "800~1200 IU/d"
           ],
           [
@@ -14996,7 +14996,7 @@
           ],
           [
             "calcium",
-            "dosage and administration",
+            "usage or dosage",
             "1000-1200 mg/d"
           ]
         ],
@@ -15049,12 +15049,12 @@
           ],
           [
             "Sodium 2-mercaptoethanesulfonate",
-            "dosage and administration",
+            "usage or dosage",
             "500 to 750 mg"
           ],
           [
             "Sodium 2-mercaptoethanesulfonate",
-            "dosage and administration",
+            "usage or dosage",
             "once daily"
           ]
         ],
@@ -15081,7 +15081,7 @@
           ],
           [
             "Sodium 2-mercaptoethanesulfonate",
-            "dosage and administration",
+            "usage or dosage",
             "10 to 20 mg/(kg·d)"
           ]
         ],
@@ -15133,7 +15133,7 @@
         "triples": [
           [
             "Patients with sarcoidosis and tuberculosis ",
-            "therapeutic schedule",
+            "treatment plan",
             "diagnostic anti-tuberculosis therapy"
           ]
         ],
@@ -15259,7 +15259,7 @@
           ],
           [
             "analgesics",
-            "dosage and administration",
+            "usage or dosage",
             "a small amount of"
           ],
           [
@@ -15296,7 +15296,7 @@
         "triples": [
           [
             "Streptococcus pneumoniae pneumonia patients ",
-            "therapeutic schedule",
+            "treatment plan",
             "oxygen"
           ]
         ],
@@ -15333,7 +15333,7 @@
         "triples": [
           [
             "Patients with primary biliary cholangitis",
-            "therapeutic schedule",
+            "treatment plan",
             "upper gastrointestinal endoscopy"
           ]
         ],
@@ -15375,12 +15375,12 @@
           ],
           [
             "elemental calcium",
-            "dosage and administration",
+            "usage or dosage",
             "500-1,000 mg"
           ],
           [
             "elemental calcium",
-            "dosage and administration",
+            "usage or dosage",
             "continuous intravenous infusion"
           ]
         ],
@@ -15412,7 +15412,7 @@
           ],
           [
             "phenytoin",
-            "dosage and administration",
+            "usage or dosage",
             "muscle injections"
           ]
         ],
@@ -15454,7 +15454,7 @@
         "triples": [
           [
             "Patients with vaginal laxity syndrome ",
-            "therapeutic schedule",
+            "treatment plan",
             "distal vaginal excision"
           ]
         ],

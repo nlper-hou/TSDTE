@@ -49,12 +49,12 @@
       ],
       [
         "Patients with liver hemangioma ",
-        "therapeutic schedule",
+        "treatment plan",
         "RFA for hepatic hemangiomas"
       ],
       [
         "Patients with liver hemangioma ",
-        "therapeutic schedule",
+        "treatment plan",
         "open surgical RFA for hepatic hemangiomas"
       ]
     ]
@@ -104,7 +104,7 @@
       ],
       [
         "Patients with liver cancer ",
-        "therapeutic schedule",
+        "treatment plan",
         "Transarterial Embolization"
       ]
     ]
@@ -119,7 +119,7 @@
       ],
       [
         "Patients with HCV ",
-        "therapeutic schedule",
+        "treatment plan",
         "antiretroviral therapy"
       ]
     ]
@@ -139,7 +139,7 @@
       ],
       [
         "Patients with sclerosing cholangitis ",
-        "therapeutic schedule",
+        "treatment plan",
         "Transjugular intrahepatic portosystemic shunt (TIPS)"
       ]
     ]
@@ -174,7 +174,7 @@
       ],
       [
         "PPI",
-        "dosage and administration",
+        "usage or dosage",
         "half dose"
       ],
       [
@@ -184,12 +184,12 @@
       ],
       [
         "PPI",
-        "dosage and administration",
+        "usage or dosage",
         "maintain the original dose"
       ],
       [
         "PPI",
-        "dosage and administration",
+        "usage or dosage",
         "once daily"
       ],
       [
@@ -199,7 +199,7 @@
       ],
       [
         "PPI",
-        "dosage and administration",
+        "usage or dosage",
         "escalating to the full dose"
       ]
     ]
@@ -219,7 +219,7 @@
       ],
       [
         "Patients with breast cancer ",
-        "therapeutic schedule",
+        "treatment plan",
         "dual targeted therapy"
       ],
       [
@@ -234,12 +234,12 @@
       ],
       [
         "Pertuzumab",
-        "dosage and administration",
+        "usage or dosage",
         "administered once every 3 weeks"
       ],
       [
         "pertuzumab",
-        "dosage and administration",
+        "usage or dosage",
         "420 mg"
       ]
     ]
@@ -259,7 +259,7 @@
       ],
       [
         "Patients with WD ",
-        "therapeutic schedule",
+        "treatment plan",
         "liver transplantation"
       ]
     ]
@@ -279,12 +279,12 @@
       ],
       [
         "Patients with liver cancer ",
-        "therapeutic schedule",
+        "treatment plan",
         "complete hepatic vascular occlusion"
       ],
       [
         "Patients with liver cancer ",
-        "therapeutic schedule",
+        "treatment plan",
         "remove the tumor thrombus as a whole"
       ]
     ]
@@ -384,7 +384,7 @@
       ],
       [
         "Patients with acute-on-chronic liver failure ",
-        "therapeutic schedule",
+        "treatment plan",
         "Parenteral feeding"
       ]
     ]
@@ -429,12 +429,12 @@
       ],
       [
         "Patients with liver cancer ",
-        "therapeutic schedule",
+        "treatment plan",
         "portal vein thrombectomy"
       ],
       [
         "Patients with liver cancer ",
-        "therapeutic schedule",
+        "treatment plan",
         "temporarily blocking the blood flow in the healthy portal vein"
       ]
     ]
@@ -449,7 +449,7 @@
       ],
       [
         "Patients with pheochromocytomas ",
-        "therapeutic schedule",
+        "treatment plan",
         "surgery"
       ],
       [
@@ -479,7 +479,7 @@
       ],
       [
         "Patients with autoimmune hepatitis ",
-        "therapeutic schedule",
+        "treatment plan",
         "liver biopsy"
       ]
     ]
@@ -504,12 +504,12 @@
       ],
       [
         "ampicillin",
-        "dosage and administration",
+        "usage or dosage",
         "orally"
       ],
       [
         "beta-lactamase inhibitors",
-        "dosage and administration",
+        "usage or dosage",
         "orally"
       ],
       [
@@ -549,17 +549,17 @@
       ],
       [
         "Patients with NSCLC ",
-        "therapeutic schedule",
+        "treatment plan",
         "chemotherapy"
       ],
       [
         "Patients with NSCLC ",
-        "therapeutic schedule",
+        "treatment plan",
         "radiotherapy"
       ],
       [
         "Patients with NSCLC ",
-        "therapeutic schedule",
+        "treatment plan",
         "other treatments"
       ]
     ]
@@ -584,12 +584,12 @@
       ],
       [
         "fibrinolytic enzymes",
-        "dosage and administration",
+        "usage or dosage",
         "3-5g"
       ],
       [
         "fibrinolytic enzymes",
-        "dosage and administration",
+        "usage or dosage",
         "a total of 2-5 days"
       ],
       [
@@ -599,7 +599,7 @@
       ],
       [
         "Patients with gastrolithiasis ",
-        "therapeutic schedule",
+        "treatment plan",
         "endoscopic removal"
       ]
     ]
@@ -619,7 +619,7 @@
       ],
       [
         "Mitral valve prolapse patients ",
-        "therapeutic schedule",
+        "treatment plan",
         "do not require treatment"
       ]
     ]
@@ -649,7 +649,7 @@
       ],
       [
         "L-T3",
-        "dosage and administration",
+        "usage or dosage",
         "lower dose"
       ]
     ]
@@ -684,7 +684,7 @@
       ],
       [
         "Patients with gastroesophageal reflux disease ",
-        "therapeutic schedule",
+        "treatment plan",
         "transoral incisionless fundoplication"
       ]
     ]
@@ -729,7 +729,7 @@
       ],
       [
         "Patients with vaginal laxity syndrome ",
-        "therapeutic schedule",
+        "treatment plan",
         "G-spot amplification"
       ]
     ]
@@ -744,7 +744,7 @@
       ],
       [
         "Patients with cirrhosis ",
-        "therapeutic schedule",
+        "treatment plan",
         "repeat endoscopy every 2-3 years"
       ],
       [
@@ -759,7 +759,7 @@
       ],
       [
         "Patients with cirrhosis ",
-        "therapeutic schedule",
+        "treatment plan",
         "repeat endoscopy every 1-2 years"
       ],
       [
@@ -774,7 +774,7 @@
       ],
       [
         "Patients with cirrhosis ",
-        "therapeutic schedule",
+        "treatment plan",
         "repeat endoscopy every 6-12 months"
       ]
     ]
@@ -794,7 +794,7 @@
       ],
       [
         "Patients with cirrhosis ",
-        "therapeutic schedule",
+        "treatment plan",
         "dietary/nutritional therapy"
       ]
     ]
@@ -814,7 +814,7 @@
       ],
       [
         "Patients with primary biliary cholangitis ",
-        "therapeutic schedule",
+        "treatment plan",
         "upper gastrointestinal endoscopy"
       ]
     ]
@@ -839,7 +839,7 @@
       ],
       [
         "Patients with NSCLC ",
-        "therapeutic schedule",
+        "treatment plan",
         "Sequential durvalumab treatment for 1 year"
       ]
     ]
@@ -854,7 +854,7 @@
       ],
       [
         "Patient with gastric cancer ",
-        "therapeutic schedule",
+        "treatment plan",
         "drug therapy"
       ]
     ]
@@ -879,7 +879,7 @@
       ],
       [
         "Patients with keloid ",
-        "therapeutic schedule",
+        "treatment plan",
         "staged excision"
       ]
     ]
@@ -899,7 +899,7 @@
       ],
       [
         "Sleep apnea patients ",
-        "therapeutic schedule",
+        "treatment plan",
         "Continuous positive airway pressure therapy"
       ]
     ]
@@ -929,7 +929,7 @@
       ],
       [
         "velpatasvir",
-        "dosage and administration",
+        "usage or dosage",
         "150mg/37.5mg"
       ],
       [
@@ -939,7 +939,7 @@
       ],
       [
         "velpatasvir",
-        "dosage and administration",
+        "usage or dosage",
         "200mg/50mg per day"
       ],
       [
@@ -949,7 +949,7 @@
       ],
       [
         "velpatasvir",
-        "dosage and administration",
+        "usage or dosage",
         "400mg/100mg per day"
       ]
     ]
@@ -994,7 +994,7 @@
       ],
       [
         "Patients with familial adenomatous polyps ",
-        "therapeutic schedule",
+        "treatment plan",
         "rectal resection and the creation of a permanent colostomy"
       ]
     ]
@@ -1009,7 +1009,7 @@
       ],
       [
         "Patients with keloid ",
-        "therapeutic schedule",
+        "treatment plan",
         "surgical excision"
       ]
     ]
@@ -1024,7 +1024,7 @@
       ],
       [
         "Patients with OSA ",
-        "therapeutic schedule",
+        "treatment plan",
         "Upper airway surgery"
       ]
     ]
@@ -1044,7 +1044,7 @@
       ],
       [
         "Infantile cholestasis ",
-        "therapeutic schedule",
+        "treatment plan",
         "biliary diversion procedures"
       ]
     ]
@@ -1064,7 +1064,7 @@
       ],
       [
         "Patients with AP ",
-        "therapeutic schedule",
+        "treatment plan",
         "pancreatic enzyme supplementation and replacement therapy"
       ]
     ]
@@ -1084,7 +1084,7 @@
       ],
       [
         "Patients with keloid ",
-        "therapeutic schedule",
+        "treatment plan",
         "anti-inflammatory drug injection therapy"
       ],
       [
@@ -1114,7 +1114,7 @@
       ],
       [
         "Patients with keloid ",
-        "therapeutic schedule",
+        "treatment plan",
         "surgical intervention"
       ]
     ]
@@ -1234,7 +1234,7 @@
       ],
       [
         "Patients with MMA and PA ",
-        "therapeutic schedule",
+        "treatment plan",
         "hormone replacement therapy"
       ],
       [
@@ -1269,7 +1269,7 @@
       ],
       [
         "Patients with simple hallux valgus ",
-        "therapeutic schedule",
+        "treatment plan",
         "first metatarsophalangeal joint fusion"
       ]
     ]
@@ -1289,7 +1289,7 @@
       ],
       [
         "Patients with HCV-GN ",
-        "therapeutic schedule",
+        "treatment plan",
         "DAA treatment"
       ],
       [
@@ -1344,7 +1344,7 @@
       ],
       [
         "Hypoparathyroidism patients ",
-        "therapeutic schedule",
+        "treatment plan",
         "intravenous calcium supplementation"
       ],
       [
@@ -1354,12 +1354,12 @@
       ],
       [
         "10% calcium gluconate",
-        "dosage and administration",
+        "usage or dosage",
         "10-20 mL"
       ],
       [
         "10% calcium gluconate",
-        "dosage and administration",
+        "usage or dosage",
         "intravenous infusion"
       ]
     ]
@@ -1424,12 +1424,12 @@
       ],
       [
         "Patients with SAP ",
-        "therapeutic schedule",
+        "treatment plan",
         "slow and low-efficiency hemodialysis"
       ],
       [
         "Patients with SAP ",
-        "therapeutic schedule",
+        "treatment plan",
         "renal replacement therapy"
       ]
     ]
@@ -1454,7 +1454,7 @@
       ],
       [
         "Hydroxychloroquine sulfate",
-        "dosage and administration",
+        "usage or dosage",
         "200 to 400mg per day."
       ]
     ]
@@ -1479,7 +1479,7 @@
       ],
       [
         "Patients with hepatitis B ",
-        "therapeutic schedule",
+        "treatment plan",
         "antiviral treatment against HBV"
       ]
     ]
@@ -1494,7 +1494,7 @@
       ],
       [
         "corticosteroid cream",
-        "dosage and administration",
+        "usage or dosage",
         "topical application"
       ],
       [
@@ -1514,7 +1514,7 @@
       ],
       [
         "corticosteroid solution",
-        "dosage and administration",
+        "usage or dosage",
         "mouthwash"
       ]
     ]
@@ -1549,22 +1549,22 @@
       ],
       [
         "CBP and CP/CPPS patients ",
-        "therapeutic schedule",
+        "treatment plan",
         "MDT"
       ],
       [
         "CBP and CP/CPPS patients ",
-        "therapeutic schedule",
+        "treatment plan",
         "medication therapy"
       ],
       [
         "CBP and CP/CPPS patients ",
-        "therapeutic schedule",
+        "treatment plan",
         "physical therapy"
       ],
       [
         "CBP and CP/CPPS patients ",
-        "therapeutic schedule",
+        "treatment plan",
         "psychotherapy"
       ]
     ]
@@ -1589,7 +1589,7 @@
       ],
       [
         "Patients with liver cancer ",
-        "therapeutic schedule",
+        "treatment plan",
         "therapy with transarterial TACE"
       ]
     ]
@@ -1604,12 +1604,12 @@
       ],
       [
         "Patient with gastric cancer ",
-        "therapeutic schedule",
+        "treatment plan",
         "distal gastrectomy"
       ],
       [
         "Patient with gastric cancer ",
-        "therapeutic schedule",
+        "treatment plan",
         "total gastrectomy"
       ],
       [
@@ -1624,7 +1624,7 @@
       ],
       [
         "Patient with gastric cancer ",
-        "therapeutic schedule",
+        "treatment plan",
         "proximal gastrectomy"
       ]
     ]
@@ -1694,7 +1694,7 @@
       ],
       [
         "fluorocytosine",
-        "dosage and administration",
+        "usage or dosage",
         "oral"
       ],
       [
@@ -1704,12 +1704,12 @@
       ],
       [
         "fluorocytosine",
-        "dosage and administration",
+        "usage or dosage",
         "dose of 25mg/kg"
       ],
       [
         "fluorocytosine",
-        "dosage and administration",
+        "usage or dosage",
         "four times a day"
       ],
       [
@@ -1719,7 +1719,7 @@
       ],
       [
         "fluorocytosine",
-        "dosage and administration",
+        "usage or dosage",
         "Dose adjustment"
       ]
     ]
@@ -1734,7 +1734,7 @@
       ],
       [
         "opioid medications",
-        "dosage and administration",
+        "usage or dosage",
         "oral"
       ],
       [
@@ -1794,7 +1794,7 @@
       ],
       [
         "Patients with WD ",
-        "therapeutic schedule",
+        "treatment plan",
         "low-copper diet"
       ],
       [
@@ -1819,7 +1819,7 @@
       ],
       [
         "Patients with main pancreatic duct obstruction ",
-        "therapeutic schedule",
+        "treatment plan",
         "ERCP"
       ],
       [
@@ -1829,7 +1829,7 @@
       ],
       [
         "Patients with main pancreatic duct obstruction ",
-        "therapeutic schedule",
+        "treatment plan",
         "extracorporeal shock wave lithotripsy"
       ]
     ]
@@ -1844,7 +1844,7 @@
       ],
       [
         "bronchodilators",
-        "dosage and administration",
+        "usage or dosage",
         "inhalation"
       ],
       [
@@ -1859,7 +1859,7 @@
       ],
       [
         "Patients with COPD ",
-        "therapeutic schedule",
+        "treatment plan",
         "Inhaled Corticosteroids"
       ]
     ]
@@ -1879,12 +1879,12 @@
       ],
       [
         "Patients with AI ",
-        "therapeutic schedule",
+        "treatment plan",
         "frequent imaging examinations are not recommended"
       ],
       [
         "Patients with AI ",
-        "therapeutic schedule",
+        "treatment plan",
         "follow-up every 1 to 2 years"
       ],
       [
@@ -1894,7 +1894,7 @@
       ],
       [
         "Patients with AI ",
-        "therapeutic schedule",
+        "treatment plan",
         "repeated hormone testing is not advisable"
       ]
     ]
@@ -1909,12 +1909,12 @@
       ],
       [
         "Patients with inflammatory bowel disease ",
-        "therapeutic schedule",
+        "treatment plan",
         "enteral nutrition"
       ],
       [
         "Patients with inflammatory bowel disease ",
-        "therapeutic schedule",
+        "treatment plan",
         "parenteral nutrition"
       ]
     ]
@@ -1934,12 +1934,12 @@
       ],
       [
         "Patients with DILI ",
-        "therapeutic schedule",
+        "treatment plan",
         "increased dose"
       ],
       [
         "Patients with DILI ",
-        "therapeutic schedule",
+        "treatment plan",
         "resuming steroid therapy"
       ],
       [
@@ -1954,7 +1954,7 @@
       ],
       [
         "AZA",
-        "dosage and administration",
+        "usage or dosage",
         "1-2 mg/kg/day"
       ]
     ]
@@ -1974,7 +1974,7 @@
       ],
       [
         "Patients with pancreatic cancer ",
-        "therapeutic schedule",
+        "treatment plan",
         "radical precision radiotherapy"
       ]
     ]
@@ -2019,12 +2019,12 @@
       ],
       [
         "baclofen",
-        "dosage and administration",
+        "usage or dosage",
         "oral"
       ],
       [
         "Patients with MMA and PA ",
-        "therapeutic schedule",
+        "treatment plan",
         "continuous intrathecal, ventriculoperitoneal shunt"
       ]
     ]
@@ -2114,7 +2114,7 @@
       ],
       [
         "Patients with liver cancer ",
-        "therapeutic schedule",
+        "treatment plan",
         "surgical resection"
       ]
     ]
@@ -2154,7 +2154,7 @@
       ],
       [
         "Patients with AI ",
-        "therapeutic schedule",
+        "treatment plan",
         "laparoscopic resection of the tumor on the affected side"
       ],
       [
@@ -2164,12 +2164,12 @@
       ],
       [
         "Patients with AI ",
-        "therapeutic schedule",
+        "treatment plan",
         "bilateral adrenalectomy"
       ],
       [
         "Patients with AI ",
-        "therapeutic schedule",
+        "treatment plan",
         "AVS"
       ]
     ]
@@ -2189,12 +2189,12 @@
       ],
       [
         "Patients with OMM ",
-        "therapeutic schedule",
+        "treatment plan",
         "cryotherapy"
       ],
       [
         "Patients with OMM ",
-        "therapeutic schedule",
+        "treatment plan",
         "surgical excision"
       ]
     ]
@@ -2219,7 +2219,7 @@
       ],
       [
         "Patients with hallux valgus ",
-        "therapeutic schedule",
+        "treatment plan",
         "first metatarsophalangeal joint fusion"
       ]
     ]
@@ -2239,12 +2239,12 @@
       ],
       [
         "corticosteroid",
-        "dosage and administration",
+        "usage or dosage",
         "oral"
       ],
       [
         "corticosteroid",
-        "dosage and administration",
+        "usage or dosage",
         "for 4-7 days"
       ]
     ]
@@ -2264,12 +2264,12 @@
       ],
       [
         "Patients with primary liver cancer ",
-        "therapeutic schedule",
+        "treatment plan",
         "surgical resection"
       ],
       [
         "Patients with primary liver cancer ",
-        "therapeutic schedule",
+        "treatment plan",
         "surgery is generally not the preferred initial option"
       ]
     ]
@@ -2299,7 +2299,7 @@
       ],
       [
         "insulin",
-        "dosage and administration",
+        "usage or dosage",
         "continuous intravenous infusion"
       ],
       [
@@ -2374,7 +2374,7 @@
       ],
       [
         "Patients with adrenal accidental tumor ",
-        "therapeutic schedule",
+        "treatment plan",
         "surgical intervention"
       ]
     ]
@@ -2394,7 +2394,7 @@
       ],
       [
         "Patients with achalasia ",
-        "therapeutic schedule",
+        "treatment plan",
         "peroral endoscopic myotomy"
       ]
     ]
@@ -2409,7 +2409,7 @@
       ],
       [
         "Patients with mitral regurgitation ",
-        "therapeutic schedule",
+        "treatment plan",
         "no specific treatment is necessary"
       ],
       [
@@ -2454,7 +2454,7 @@
       ],
       [
         "Patients with iron deficiency anemia ",
-        "therapeutic schedule",
+        "treatment plan",
         "intravenous iron supplementation"
       ]
     ]
@@ -2469,7 +2469,7 @@
       ],
       [
         "Patients with gastroesophageal reflux disease ",
-        "therapeutic schedule",
+        "treatment plan",
         "elevating the head of the bed"
       ]
     ]
@@ -2484,7 +2484,7 @@
       ],
       [
         "Patients with NSCLC ",
-        "therapeutic schedule",
+        "treatment plan",
         "platinum-doublet regimens"
       ]
     ]
@@ -2559,17 +2559,17 @@
       ],
       [
         "PPI",
-        "dosage and administration",
+        "usage or dosage",
         "intravenous infusion"
       ],
       [
         "PPI",
-        "dosage and administration",
+        "usage or dosage",
         "once every 12 hours"
       ],
       [
         "PPI",
-        "dosage and administration",
+        "usage or dosage",
         "at least 3 consecutive days"
       ],
       [
@@ -2589,7 +2589,7 @@
       ],
       [
         "Patients with stress ulcer ",
-        "therapeutic schedule",
+        "treatment plan",
         "gradually discontinued"
       ]
     ]
@@ -2614,12 +2614,12 @@
       ],
       [
         "anti VEGF",
-        "dosage and administration",
+        "usage or dosage",
         "injections"
       ],
       [
         "Patients with DME ",
-        "therapeutic schedule",
+        "treatment plan",
         "focused laser therapy"
       ]
     ]
@@ -2634,7 +2634,7 @@
       ],
       [
         "iron supplements",
-        "dosage and administration",
+        "usage or dosage",
         "oral"
       ],
       [
@@ -2664,17 +2664,17 @@
       ],
       [
         "Patient with gastric cancer ",
-        "therapeutic schedule",
+        "treatment plan",
         "conversion therapy is not applicable"
       ],
       [
         "Patient with gastric cancer ",
-        "therapeutic schedule",
+        "treatment plan",
         "palliative chemotherapy"
       ],
       [
         "Patient with gastric cancer ",
-        "therapeutic schedule",
+        "treatment plan",
         "radiotherapy"
       ]
     ]
@@ -2699,7 +2699,7 @@
       ],
       [
         "Patients with primary biliary cholangitis",
-        "therapeutic schedule",
+        "treatment plan",
         "liver biopsies"
       ]
     ]
@@ -2719,7 +2719,7 @@
       ],
       [
         "Patients with keloid ",
-        "therapeutic schedule",
+        "treatment plan",
         "continued treatment"
       ],
       [
@@ -2729,12 +2729,12 @@
       ],
       [
         "Patients with keloid ",
-        "therapeutic schedule",
+        "treatment plan",
         "laser treatment"
       ],
       [
         "Patients with keloid ",
-        "therapeutic schedule",
+        "treatment plan",
         "cryotherapy"
       ],
       [
@@ -2744,7 +2744,7 @@
       ],
       [
         "Patients with keloid ",
-        "therapeutic schedule",
+        "treatment plan",
         "compression therapy"
       ]
     ]
@@ -2769,12 +2769,12 @@
       ],
       [
         "PSL",
-        "dosage and administration",
+        "usage or dosage",
         "≥ 0.8 mg/kg/day"
       ],
       [
         "PSL",
-        "dosage and administration",
+        "usage or dosage",
         "≥0.6 mg/kg/day"
       ]
     ]
@@ -2794,7 +2794,7 @@
       ],
       [
         "Patients with malignant pleural effusion ",
-        "therapeutic schedule",
+        "treatment plan",
         "repeated therapeutic thoracentesis"
       ]
     ]
@@ -2814,7 +2814,7 @@
       ],
       [
         "Patients with keloid ",
-        "therapeutic schedule",
+        "treatment plan",
         "surgical treatment"
       ],
       [
@@ -2824,7 +2824,7 @@
       ],
       [
         "Patients with keloid ",
-        "therapeutic schedule",
+        "treatment plan",
         "radiation and chemotherapy"
       ]
     ]
@@ -2844,7 +2844,7 @@
       ],
       [
         "Patients with hypocalcemia ",
-        "therapeutic schedule",
+        "treatment plan",
         "magnesium supplements"
       ]
     ]
@@ -2869,22 +2869,22 @@
       ],
       [
         "Patients with NSCLC ",
-        "therapeutic schedule",
+        "treatment plan",
         "anatomical segmental"
       ],
       [
         "Patients with NSCLC ",
-        "therapeutic schedule",
+        "treatment plan",
         "wedge resection"
       ],
       [
         "Patients with NSCLC ",
-        "therapeutic schedule",
+        "treatment plan",
         "systemic hilar"
       ],
       [
         "Patients with NSCLC ",
-        "therapeutic schedule",
+        "treatment plan",
         "mediastinal lymph node dissection"
       ]
     ]
