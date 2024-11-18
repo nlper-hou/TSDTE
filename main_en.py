@@ -1,5 +1,5 @@
 import os
-os.chdir("/root/nas/Text2DT")
+os.chdir("/TSDTE")
 import json
 import argparse
 from tqdm import tqdm
