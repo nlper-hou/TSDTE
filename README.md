@@ -30,7 +30,7 @@ Where K represents the number of samples provided, and language represents the l
 index represents the number of executions, which is used to record the number of results of the run, so as to facilitate statistics and calculation of the standard deviation of multiple results. Here, English data is used as an example. For Chinese data, main.py can be run, and the Chinese data set can be obtained from : https://tianchi.aliyun.com/specials/promotion/2021chinesemedicalnlpleaderboardchallenge 
 ```yaml
 cd TSDTE/
-mkdir -p Result_en/chatgpt
+mkdir -p Result/chatgpt
 python main_en.py --K=0 --language="en" --index=1
 ```
 For the triple extraction part, we mainly refer to the method in “苏剑林. (Jan. 30, 2022). 《GPLinker：基于GlobalPointer的实体关系联合抽取 》[Blog post]. Retrieved from https://kexue.fm/archives/8888 ”。

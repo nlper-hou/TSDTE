@@ -18,21 +18,17 @@ if __name__ == "__main__":
     language = args.language
     index = args.index
     
-    # k_num = 4
-    # language = "zh"
-    # index = 2
-
     # 加载数据集
     if language=="en":
         input_dataset_path = "Dataset/en/Text2DT_test.json"
     else:
         input_dataset_path = "Dataset/Text2DT_test.json"
     with open(input_dataset_path, 'r') as f:
-        input_dataset = json.load(f)
+        input_dataset = json.load(f,encoding="utf-8")
     print(f"{len(input_dataset)} texts loaded!")
     try:
-        with open(f"Result/并行chatgpt/test/{input_dataset_path.split('.')[0].split('/')[1]}_DT并行实验第"+str(index+1)+"次_knn="+str(k_num)+".json", 'r') as f:
-            data_list = json.load(f)
+        with open(f"Result/chatgpt/{input_dataset_path.split('.')[0].split('/')[1]}_DT并行实验第"+str(index+1)+"次_knn="+str(k_num)+".json", 'r') as f:
+            data_list = json.load(f,encoding="utf-8")
     except FileNotFoundError:
         data_list = []
     # Text2DT
@@ -46,10 +42,10 @@ if __name__ == "__main__":
         # 抽取三元组
         triplets = extract_triplet(language,text,'test')
         # 抽取决策伪代码结构
-        pseudocode_path = f"Result/并行chatgpt/test/{input_dataset_path.split('.')[0].split('/')[1]}_pseudocode并行实验第"+str(index+1)+"次_knn="+str(k_num)+".json"
+        pseudocode_path = f"Result/chatgpt/{input_dataset_path.split('.')[0].split('/')[1]}_pseudocode并行实验第"+str(index+1)+"次_knn="+str(k_num)+".json"
         try:
             with open(pseudocode_path, 'r') as f:
-                pseudocode_history = json.load(f)
+                pseudocode_history = json.load(f,encoding="utf-8")
         except:
             pseudocode_history = []
 
@@ -67,16 +63,13 @@ if __name__ == "__main__":
             })
             with open(pseudocode_path, 'w') as f:
                 json.dump(pseudocode_history, f, ensure_ascii=False, indent=2)
-        # 消融实验专用
-        # DT = find_triplet_xiaorong(language,pseudocode, triplets, text)
-        
         # 将决策路径转化为决策树
         DT = convert_pseudocode2DT(language,pseudocode, triplets, text,k_num)
 
-        DT_path = f"Result/并行chatgpt/test/{input_dataset_path.split('.')[0].split('/')[1]}_DT并行实验第"+str(index+1)+"次_knn="+str(k_num)+".json"
+        DT_path = f"Result/chatgpt/{input_dataset_path.split('.')[0].split('/')[1]}_DT并行实验第"+str(index+1)+"次_knn="+str(k_num)+".json"
         try:
             with open(DT_path, 'r') as f:
-                DT_history = json.load(f)
+                DT_history = json.load(f,encoding="utf-8")
         except:
             DT_history = []
         DT_history.append({
@@ -85,5 +78,3 @@ if __name__ == "__main__":
         })
         with open(DT_path, 'w') as f:
             json.dump(DT_history, f, ensure_ascii=False, indent=2)
-
-            
