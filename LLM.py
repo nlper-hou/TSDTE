@@ -94,17 +94,17 @@ def LLM_logic_prediction(language,triples, text) -> str:
 def example_formation(language,example_text, k)-> str:
     if language=="en":
         #相似的英文样例，此处路径还未修改
-        with open("/root/nas/llm-prompt/text2DT/Pseudocode_language/Res/en_train_decision_path.json", 'r') as f:
-            examples = json.load(f)
+        with open("Res/en_train_decision_path.json", 'r') as f:
+            examples = json.load(f,encoding="utf-8")
         # 读取相似度的文本
-        with open("/root/nas/llm-prompt/text2DT/Pseudocode_language/Dataset/en/en_sim_result.json", 'r') as f:
-            sim_examples = json.load(f)
+        with open("Dataset/en/en_sim_result.json", 'r') as f:
+            sim_examples = json.load(f,encoding="utf-8")
     else:
-        with open("/root/nas/llm-prompt/text2DT/Pseudocode_language/Res/text_pseudocode.json", 'r') as f:
-            examples = json.load(f)
+        with open("Res/text_pseudocode.json", 'r') as f:
+            examples = json.load(f,encoding="utf-8")
         # 读取相似度的文本
-        with open("/root/nas/llm-prompt/text2DT/Pseudocode_language/Res/sim_result.json", 'r') as f:
-            sim_examples = json.load(f)
+        with open("Res/sim_result.json", 'r') as f:
+            sim_examples = json.load(f,encoding="utf-8")
     sample_texts = ""
     for sim in sim_examples:
         if example_text == sim['text']:
@@ -113,7 +113,6 @@ def example_formation(language,example_text, k)-> str:
                 # 选择相似文本
                 example_text = examples[sim_list[index]]['text']
                 pseudocode = examples[sim_list[index]]['pseudocode']
-                # condition_triples = examples[sim_list[index]]['condition triples']
                 patient = re.match(r'(.*?)@', example_text)[0][:-1]
                 if language=="en":
                     sample_text = f"""Example{index+1}#
