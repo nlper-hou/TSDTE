@@ -1,0 +1,1202 @@
+[
+  {
+    "text": "Patients with primary biliary cholangitis @ For patients with osteoporosis, supplementation with 500-1,200 mg of calcium and 400-800 IU vitamin D per day is recommended.",
+    "pseudocode": "if Patients with primary biliary cholangitis have osteoporosis：\n\tPatients with primary biliary cholangitis should supplement with 500-1,200 mg of calcium and 400-800 IU vitamin D per day."
+  },
+  {
+    "text": "Patients with allergic rhinitis @ Perform surgery for cases with nasal deformities of a nasal blockage type.",
+    "pseudocode": "if Patients with allergic rhinitis have nasal deformities of a nasal blockage type：\n\tPerform surgery for patients with allergic rhinitis."
+  },
+  {
+    "text": "Patients with osteoporosis @ For elderly patients with osteoporosis or elderly people with low bone mass and high risk of fractures, it is recommended to supplement calcium and vitamin D as one of the basic measures.",
+    "pseudocode": "if Patients with osteoporosis are elderly patients with osteoporosis or elderly people with low bone mass and high risk of fractures：\n\tPatients with osteoporosis can supplement calcium and vitamin D as one of the basic measures."
+  },
+  {
+    "text": "CBP and CP/CPPS patients @ If pain is considered to be neuropathic in origin, treatment with a gabapentinoid (e.g. pregabalin or gabapentin), a tricyclic antidepressant (e.g. amitriptyline, nortriptyline or trimipramine) or a selective serotonin‐noradrenaline (known in the USA as norepinephrine) reuptake inhibitor (SNRI; e.g. duloxetine) is warranted",
+    "pseudocode": "if CBP and CP/CPPS patients have pain that is considered to be neuropathic in origin：\n\tif CBP and CP/CPPS patients have gabapentinoid available：\n\t\tTreatment with a gabapentinoid (e.g. pregabalin or gabapentin) is warranted for CBP and CP/CPPS patients.\n\telif CBP and CP/CPPS patients have tricyclic antidepressant available：\n\t\tTreatment with a tricyclic antidepressant (e.g. amitriptyline, nortriptyline or trimipramine) is warranted for CBP and CP/CPPS patients.\n\telif CBP and CP/CPPS patients have selective serotonin‐noradrenaline reuptake inhibitor available：\n\t\tTreatment with a selective serotonin‐noradrenaline reuptake inhibitor (SNRI; e.g. duloxetine) is warranted for CBP and CP/CPPS patients."
+  },
+  {
+    "text": "Patients with deep vein thrombosis @ For patients with central or mixed deep venous thrombosis in the acute stage, if their general condition is good, their expected survival is ≥1 year, and their bleeding risk is small, CDT can be the first choice.",
+    "pseudocode": "if Patients with deep vein thrombosis have central or mixed deep venous thrombosis in the acute stage：\n\tif Patients with deep vein thrombosis have good general condition, expected survival ≥1 year, and small bleeding risk：\n\t\tCDT can be the first choice for patients with deep vein thrombosis."
+  },
+  {
+    "text": "Patients with hallux valgus @ For some elderly patients with osteoporosis or those unable to undergo other surgical treatments, Keller arthroplasty can be considered to relieve pain.",
+    "pseudocode": "if Patients with hallux valgus are elderly patients with osteoporosis or those unable to undergo other surgical treatments：\n\tPatients with hallux valgus can consider Keller arthroplasty to relieve pain."
+  },
+  {
+    "text": "Patients with allergic rhinitis @ For patients who suffer from even mild symptoms simultaneously with or before pollen dispersal, start medication at the onset of symptoms. Administer second-generation antihistamine or mast cell stabilizer for symptoms of sneezing and rhinorrhea type. Administer leukotriene receptor antagonists, a prostaglandin D2/thromboxane A2 receptor antagonist, or a Th2 cytokine inhibitor for symptoms of nasal blockage type and those of combined type with nasal blockage as a chief complaint.",
+    "pseudocode": "if Patients with allergic rhinitis have symptoms of sneezing and rhinorrhea type：\n\tPatients with allergic rhinitis can take second-generation antihistamine or mast cell stabilizer.\nelif Patients with allergic rhinitis have symptoms of nasal blockage type or combined type with nasal blockage as a chief complaint：\n\tPatients with allergic rhinitis can take leukotriene receptor antagonists, a prostaglandin D2/thromboxane A2 receptor antagonist, or a Th2 cytokine inhibitor."
+  },
+  {
+    "text": "Patients with allergic rhinitis @ For cases with severe nasal mucosal swelling and severe pharyngeal and laryngeal symptoms at hospital visit, administer oral corticosteroids for up to 4-7 days.",
+    "pseudocode": "if Patients with allergic rhinitis have severe nasal mucosal swelling and severe pharyngeal and laryngeal symptoms at hospital visit：\n\tPatients with allergic rhinitis can administer oral corticosteroids for up to 4-7 days."
+  },
+  {
+    "text": "patients with CKD @ For CKD stages 1-2 in diabetic patients, it is recommended to limit sodium intake to 2.3 g/day, but strict sodium restriction is not advised. For CKD stages 3-5 in non-diabetic patients, it is recommended to limit dietary sodium intake to less than 2.3 g/day.",
+    "pseudocode": "if patients with CKD are diabetic and in stages 1-2：\n\tFor patients with CKD stages 1-2, it is recommended to limit sodium intake to 2.3 g/day, but strict sodium restriction is not advised.\nelif patients with CKD are non-diabetic and in stages 3-5：\n\tFor patients with CKD stages 3-5, it is recommended to limit dietary sodium intake to less than 2.3 g/day."
+  },
+  {
+    "text": "Patients with primary biliary cholangitis @ For patients with osteoporosis, supplementation with 500-1,200 mg of calcium and 400-800 IU vitamin D per day is recommended.",
+    "pseudocode": "if Patients with primary biliary cholangitis have osteoporosis：\n\tPatients with primary biliary cholangitis should supplement with 500-1,200 mg of calcium and 400-800 IU vitamin D per day."
+  },
+  {
+    "text": "Patients with viral hepatitis @ For those with genotype 2, 3, 5 or 6 infection, glecaprevir/pibrentasvir for 12 weeks is  recommended.",
+    "pseudocode": "if Patients with viral hepatitis have genotype 2, 3, 5 or 6 infection：\n\tPatients with viral hepatitis can take glecaprevir/pibrentasvir for 12 weeks."
+  },
+  {
+    "text": "Patients with malignant pleural effusion @ For patients with multiloculated malignant pleural effusion or inadequate drainage response to simple procedures, the recommendation is intrapleural injection of fibrinolytic agents such as urokinase or streptokinase to reduce pleural adhesions.",
+    "pseudocode": "if Patients with malignant pleural effusion have multiloculated malignant pleural effusion or inadequate drainage response to simple procedures：\n\tPatients with malignant pleural effusion can receive intrapleural injection of fibrinolytic agents such as urokinase or streptokinase to reduce pleural adhesions."
+  },
+  {
+    "text": "Patients with bronchiectasis @ The recent ERS guidelines conditionally recommended, with low quality of evidence, that inhaled antibiotics be considered in patients with chronic pseudomonas infection and a high exacerbation frequency",
+    "pseudocode": "if Patients with bronchiectasis have chronic pseudomonas infection and a high exacerbation frequency：\n\tPatients with bronchiectasis can consider using inhaled antibiotics.\nelse：\n\tNo specific treatment recommendation for patients with bronchiectasis."
+  },
+  {
+    "text": "Patients with viral hepatitis @ Patients with advanced cirrhosis, on immunosuppression, or nonresponders to previous vaccination should be given a double-dose regimen (40 μg) of hepatitis B vaccine at standard intervals",
+    "pseudocode": "if Patients with viral hepatitis have advanced cirrhosis or are on immunosuppression or are nonresponders to previous vaccination：\n\tPatients with viral hepatitis should be given a double-dose regimen (40 μg) of hepatitis B vaccine at standard intervals."
+  },
+  {
+    "text": "Patients with atrial fibrillation @ Patients with atrial fibrillation: For patients with atrioventricular accessory pathway and hemodynamic instability, direct current cardioversion is the first choice; for patients with obvious hemodynamic abnormalities, propafenone, amiodarone or procainamide is used.",
+    "pseudocode": "if Patients with atrial fibrillation have atrioventricular accessory pathway and hemodynamic instability：\n\tDirect current cardioversion is the first choice for patients with atrial fibrillation.\nelif Patients with atrial fibrillation have obvious hemodynamic abnormalities：\n\tPropafenone, amiodarone, or procainamide is used for patients with atrial fibrillation."
+  },
+  {
+    "text": "Patients with hematological disorders @ When patients with megaloblastic anemia receive folic acid and vitamin B12 supplementation; When iron deficiency anemia occurs, supplement with iron.",
+    "pseudocode": "if Patients with hematological disorders have megaloblastic anemia：\n\tPatients with megaloblastic anemia can receive folic acid and vitamin B12 supplementation.\nelif Patients with hematological disorders have iron deficiency anemia：\n\tPatients with iron deficiency anemia can supplement with iron."
+  },
+  {
+    "text": "Patients with early cervical cancer @ For patients with early-stage cervical cancer who are younger, have no lymph node metastasis, and want to have children, fertility-sparing surgery should be performed.",
+    "pseudocode": "if Patients with early cervical cancer are younger, have no lymph node metastasis, and want to have children：\n\tfertility-sparing surgery should be performed for patients with early cervical cancer."
+  },
+  {
+    "text": "CBP and CP/CPPS patients @ If a bacterial cause is excluded and no symptom improvement is observed after antibiotic therapy, referral to specialist care should be considered.",
+    "pseudocode": "if CBP and CP/CPPS patients have a bacterial cause excluded and no symptom improvement is observed after antibiotic therapy：\n\treferral to specialist care should be considered."
+  },
+  {
+    "text": "Patients with levator ani syndrome @ During acute attacks, relief from pain can be achieved through anal gas and bowel movements, sitz baths, or mild analgesics. When symptoms are more severe, physical therapy is often effective.",
+    "pseudocode": "if Patients with levator ani syndrome have acute attacks：\n\tif Patients with levator ani syndrome have mild symptoms：\n\t\tPain relief can be achieved through anal gas and bowel movements, sitz baths, or mild analgesics.\n\telif Patients with levator ani syndrome have more severe symptoms：\n\t\tPhysical therapy is often effective for patients with levator ani syndrome."
+  },
+  {
+    "text": "Patients with primary liver cancer @ For patients with CNLC stage IIIa liver cancer, surgery is not the preferred initial option in the majority of cases. However, if the tumor is confined to half of the liver or the same side of the liver, surgical resection of the tumor can be considered.",
+    "pseudocode": "if Patients with primary liver cancer have CNLC stage IIIa liver cancer：\n\tif The tumor is confined to half of the liver or the same side of the liver：\n\t\tSurgical resection of the tumor can be considered for patients with primary liver cancer.\n\telse：\n\t\tSurgery is not the preferred initial option for patients with primary liver cancer."
+  },
+  {
+    "text": "Patients with Pulmonary Alveolar Proteinosis @ Whole lung lavage is the first choice and effective treatment for patients with significant respiratory impairment.",
+    "pseudocode": "if Patients with Pulmonary Alveolar Proteinosis have significant respiratory impairment：\n\tWhole lung lavage is the first choice and effective treatment for patients with Pulmonary Alveolar Proteinosis."
+  },
+  {
+    "text": "Infantile cholestasis @ Liver transplantation is an effective therapeutic measure for end-stage liver disease resulting from infantile cholestasis.",
+    "pseudocode": "if Patients with infantile cholestasis have end-stage liver disease：\n\tLiver transplantation is an effective therapeutic measure for patients with infantile cholestasis."
+  },
+  {
+    "text": "Patient with gastric cancer @ EGC without lymph node metastasis can be a candidate for surgery or endoscopic therapy based on the depth of tumor invasion",
+    "pseudocode": "if Patient with gastric cancer has EGC without lymph node metastasis：\n\tif Depth of tumor invasion is suitable for surgery：\n\t\tPatient with gastric cancer can undergo surgery.\n\telse：\n\t\tPatient with gastric cancer can undergo endoscopic therapy."
+  },
+  {
+    "text": "Patients with main pancreatic duct obstruction @ For patients with severe narrowing or distortion of the main pancreatic duct, attempting transpapillary stenting can be considered. Otherwise, the placement of a pancreatic stent via ERCP is used to treat main pancreatic duct strictures.",
+    "pseudocode": "if Patients with main pancreatic duct obstruction have severe narrowing or distortion of the main pancreatic duct：\n\tPatients with main pancreatic duct obstruction can consider attempting transpapillary stenting.\nelse：\n\tThe placement of a pancreatic stent via ERCP is used to treat main pancreatic duct strictures."
+  },
+  {
+    "text": "Patients with gastroesophageal reflux disease @ For patients presenting with erosive esophagitis, we recommend treatment with PPIs rather than H2RAs.",
+    "pseudocode": "if Patients with gastroesophageal reflux disease have erosive esophagitis：\n\tPatients with gastroesophageal reflux disease should be treated with PPIs.\nelse：\n\tPatients with gastroesophageal reflux disease should be treated with H2RAs."
+  },
+  {
+    "text": "Patients with pancreatic cancer @ Choledochojejunostomy or hepaticojejunostomy could be performed for patients with unresectable tumors and biliary obstruction or expected biliary obstruction. ",
+    "pseudocode": "if Patients with pancreatic cancer have unresectable tumors and biliary obstruction or expected biliary obstruction：\n\tif Patients with pancreatic cancer have biliary obstruction：\n\t\tCholedochojejunostomy could be performed for patients with pancreatic cancer.\n\telse：\n\t\tHepaticojejunostomy could be performed for patients with pancreatic cancer."
+  },
+  {
+    "text": "Patients with WD @ For patients with advanced liver disease or liver failure, liver transplantation may be necessary.",
+    "pseudocode": "if Patients with WD have advanced liver disease or liver failure：\n\tPatients with WD may need liver transplantation."
+  },
+  {
+    "text": "Children with recurrent respiratory tract infections @ Xiyanping injection is used for children over 2 years old; Reduning injection can be used for children over 3 years old.",
+    "pseudocode": "if Children with recurrent respiratory tract infections are over 3 years old：\n\tChildren with recurrent respiratory tract infections can use Reduning injection.\nelif Children with recurrent respiratory tract infections are over 2 years old：\n\tChildren with recurrent respiratory tract infections can use Xiyanping injection."
+  },
+  {
+    "text": "Patients with OSA @ For OSA patients with nocturnal blood pressure elevation exhibiting a reverse-dipper pattern, it is recommended to use angiotensin-converting enzyme inhibitors or angiotensin receptor blockers as antihypertensive medications. Beta-blockers and centrally acting antihypertensive drugs are not preferable in this case.",
+    "pseudocode": "if Patients with OSA have nocturnal blood pressure elevation exhibiting a reverse-dipper pattern：\n\tif Patients with OSA have nocturnal blood pressure elevation exhibiting a reverse-dipper pattern, it is recommended to use angiotensin-converting enzyme inhibitors or angiotensin receptor blockers as antihypertensive medications.\nelse：\n\tBeta-blockers and centrally acting antihypertensive drugs are not preferable for patients with OSA."
+  },
+  {
+    "text": "Patients with WD @ Penicillamine is suitable for WD patients with neurological or psychiatric symptoms and those allergic or intolerant to D-penicillamine. The initial dose for adults is 750 to 1,500 mg/d, and the pediatric dose is 20 mg/(kg·d).",
+    "pseudocode": "if Patients with WD have neurological or psychiatric symptoms or are allergic or intolerant to D-penicillamine：\n\tif Patients with WD are adults：\n\t\tPenicillamine is suitable for WD patients with neurological or psychiatric symptoms and those allergic or intolerant to D-penicillamine. The initial dose for adults is 750 to 1,500 mg/d.\n\telif Patients with WD are pediatric：\n\t\tPenicillamine is suitable for WD patients with neurological or psychiatric symptoms and those allergic or intolerant to D-penicillamine. The pediatric dose is 20 mg/(kg·d)."
+  },
+  {
+    "text": "bladder cancer patients @ For patients with muscle-invasive bladder cancer (MIBC) who are not suitable candidates for or unwilling to undergo radical cystectomy, a comprehensive treatment approach with bladder preservation can be considered.",
+    "pseudocode": "if bladder cancer patients have muscle-invasive bladder cancer (MIBC) and are not suitable candidates for or unwilling to undergo radical cystectomy：\n\tConsider a comprehensive treatment approach with bladder preservation for bladder cancer patients."
+  },
+  {
+    "text": "Patients with autoimmune hepatitis @ Since bone marrow suppression can occur, azathioprine treatment is not recommended in patients with patients with severe leukopenia, severe thrombocytopenia, or homozygote mutation in the NUDT15 or TPMT gene.",
+    "pseudocode": "if Patients with autoimmune hepatitis have severe leukopenia, severe thrombocytopenia, or homozygote mutation in the NUDT15 or TPMT gene：\n\tAzathioprine treatment is not recommended for patients with autoimmune hepatitis.\nelse：\n\tAzathioprine treatment can be considered for patients with autoimmune hepatitis."
+  },
+  {
+    "text": "Patients with liver cancer @ RFA treatment is suitable for CNLC stage Ia and some Ib stage liver cancers (i.e., the diameter of a single tumor is ≤5cm; or the maximum diameter of 2 to 3 tumors is ≤3cm), and it can achieve a curative effect. For a solitary tumor with a diameter of 3-7 cm or multiple tumors that cannot be surgically removed, a combination of Transarterial Chemoembolization (TACE) treatment can be considered.",
+    "pseudocode": "if Patients with liver cancer have CNLC stage Ia and some Ib stage liver cancers：\n\tif The diameter of a single tumor is ≤5cm or the maximum diameter of 2 to 3 tumors is ≤3cm：\n\t\tRFA treatment is suitable for patients with liver cancer and can achieve a curative effect.\nelif Patients with liver cancer have a solitary tumor with a diameter of 3-7 cm or multiple tumors that cannot be surgically removed：\n\tA combination of Transarterial Chemoembolization (TACE) treatment can be considered for patients with liver cancer."
+  },
+  {
+    "text": "Patients with malignant gastric obstruction @ For patients who are not suitable for endoscopic dilation or whose endoscopic dilation is ineffective, gastrostomy can be performed to relieve obstructive symptoms. Otherwise, gastrointestinal decompression can be performed by surgical or interventional radiological means. ",
+    "pseudocode": "if Patients with malignant gastric obstruction are not suitable for endoscopic dilation or endoscopic dilation is ineffective：\n\tif Patients with malignant gastric obstruction can perform gastrostomy：\n\t\tGastrostomy can be performed to relieve obstructive symptoms for patients with malignant gastric obstruction.\n\telse：\n\t\tGastrointestinal decompression can be performed by surgical or interventional radiological means for patients with malignant gastric obstruction."
+  },
+  {
+    "text": "Patients with candidiasis @ For patients who do not respond to conventional treatment with AmB-d or fluconazole, LFAmB, voriconazole is a reasonable treatment option, with voriconazole at a dose of 3-4 mg/kg twice daily.",
+    "pseudocode": "if Patients with candidiasis do not respond to conventional treatment with AmB-d or fluconazole：\n\tPatients with candidiasis can use LFAmB or voriconazole as a reasonable treatment option.\n\tif Patients with candidiasis use voriconazole：\n\t\tPatients with candidiasis can take voriconazole at a dose of 3-4 mg/kg twice daily."
+  },
+  {
+    "text": "Patients with eosinophilic sinusitis @ In treating eosinophilic sinusitis in patients with aspirin intolerance, avoid using analgesics, antipyretics and antiinflammatory drugs.",
+    "pseudocode": "if Patients with eosinophilic sinusitis have aspirin intolerance：\n\tAvoid using analgesics, antipyretics, and anti-inflammatory drugs in treating eosinophilic sinusitis in patients with aspirin intolerance."
+  },
+  {
+    "text": "heart failure patients @ For patients with acute heart failure or cardiogenic shock where pharmacological treatment is ineffective, short-term mechanical circulatory support may be considered. This includes percutaneous ventricular assist devices, extracorporeal life support (ECLS), and extracorporeal membrane oxygenation (ECMO).",
+    "pseudocode": "if heart failure patients have acute heart failure or cardiogenic shock where pharmacological treatment is ineffective：\n\tif Patients with heart failure have percutaneous ventricular assist devices, extracorporeal life support (ECLS), and extracorporeal membrane oxygenation (ECMO)：\n\t\tShort-term mechanical circulatory support may be considered for patients with heart failure."
+  },
+  {
+    "text": "Patients with liver failure @ Fresh frozen plasma and platelets should be administered when there is active bleeding or invasive procedures. However, in the absence of active bleeding or invasive procedures, routine administration of blood products to correct coagulation abnormalities is not recommended.",
+    "pseudocode": "if Patients with liver failure have active bleeding or invasive procedures：\n\tPatients with liver failure should be administered fresh frozen plasma and platelets.\nelse：\n\tRoutine administration of blood products to correct coagulation abnormalities is not recommended for patients with liver failure."
+  },
+  {
+    "text": "CBP and CP/CPPS patients @ In patients describing typical neuropathic pain symptoms (e.g. burning, shooting pain), or in any patient with persistent pain (>3 months), consider the possibility of neuropathic pain and treatment with appropriate anti-neuropathic medication strategies.",
+    "pseudocode": "if CBP and CP/CPPS patients have typical neuropathic pain symptoms or persistent pain (>3 months)：\n\tPatients with CBP and CP/CPPS should consider the possibility of neuropathic pain.\n\tPatients with CBP and CP/CPPS should be treated with appropriate anti-neuropathic medication strategies."
+  },
+  {
+    "text": "Patients with knee osteoarthritis @ It is important to clarify the appropriate indications for arthroscopic partial meniscectomy in patients with knee osteoarthritis in the study. This surgery is suitable for patients with mild to moderate knee osteoarthritis and MRI confirmed meniscus tears.",
+    "pseudocode": "if Patients with knee osteoarthritis have mild to moderate knee osteoarthritis and MRI confirmed meniscus tears：\n\tArthroscopic partial meniscectomy is suitable for patients with knee osteoarthritis."
+  },
+  {
+    "text": "Patients with thrombocytopenia in cancer patients with liver injury @ For patients with tumor-associated thrombocytopenia and underlying liver disease, platelet transfusion may be considered in the event of bleeding.",
+    "pseudocode": "if Patients with thrombocytopenia in cancer patients with liver injury have bleeding：\n\tPatients with thrombocytopenia in cancer patients with liver injury can consider platelet transfusion."
+  },
+  {
+    "text": "CBP and CP/CPPS patients @ In patients with early‐stage disease who present with pain symptoms, regular paracetamol may be offered.",
+    "pseudocode": "if CBP and CP/CPPS patients have early-stage disease and present with pain symptoms：\n\tCBP and CP/CPPS patients can be offered regular paracetamol."
+  },
+  {
+    "text": "Patients with liver cancer @ For patients with liver cancer and bile duct tumor thrombus, simultaneous resection of the liver tumor and bile duct, aiming to achieve a chance for radical resection.",
+    "pseudocode": "if Patients with liver cancer have liver cancer and bile duct tumor thrombus：\n\tSimultaneous resection of the liver tumor and bile duct is the main surgical procedure for patients with liver cancer."
+  },
+  {
+    "text": "Patients with allergic rhinitis @ For symptoms of nasal blockage type, use a combination of leukotriene receptor antagonists or prostaglandin D2/thromboxane A2 receptor antagonist and nasal topical steroids. For symptoms of combined type, only the second generation vasoconstrictor nasal spray is added for 7-10 days at the beginning of treatment as required.",
+    "pseudocode": "if Patients with allergic rhinitis have symptoms of nasal blockage type：\n\tPatients with allergic rhinitis can use a combination of leukotriene receptor antagonists or prostaglandin D2/thromboxane A2 receptor antagonist and nasal topical steroids.\nelif Patients with allergic rhinitis have symptoms of combined type：\n\tPatients with allergic rhinitis can add only the second generation vasoconstrictor nasal spray for 7-10 days at the beginning of treatment as required."
+  },
+  {
+    "text": "Elderly patients with osteoporosis @ For those who are intolerant or contraindicated, etidronate sodium, risedronate sodium and zoledronate sodium can be used.",
+    "pseudocode": "if Elderly patients with osteoporosis are intolerant or contraindicated：\n\tEtidronate sodium, risedronate sodium, and zoledronate sodium can be used for patients with osteoporosis."
+  },
+  {
+    "text": "Patients with keloid @ For small scars, if there is significant congestion, initial treatment may involve pulsed dye laser therapy or the injection of anti-vascular drugs (such as triamcinolone) to reduce congestion. Subsequently, a combination of silicone preparations and topical medications is used to assist in preventing recurrence. In cases without noticeable congestion, a combination of drug injections until complete softening, along with silicone preparations, other topical medications, and compression therapy, is employed to prevent recurrence.",
+    "pseudocode": "if Patients with keloid have small scars and significant congestion：\n\tif Patients with keloid have significant congestion：\n\t\tInitial treatment for patients with keloid may involve pulsed dye laser therapy or the injection of anti-vascular drugs (such as triamcinolone) to reduce congestion.\n\tSubsequently, a combination of silicone preparations and topical medications is used to assist in preventing recurrence.\nelif Patients with keloid have small scars and no noticeable congestion：\n\tA combination of drug injections until complete softening, along with silicone preparations, other topical medications, and compression therapy, is employed to prevent recurrence."
+  },
+  {
+    "text": "Patients with simple hallux valgus @ For patients with intermetatarsal angle (IMA) less than 13°, perform distal metatarsal osteotomy such as Chevron, Mitchell, etc. For those with IMA between 14° and 16°, use metatarsal neck osteotomy like Scarf. When IMA is greater than 16°, consider base osteotomy. In severe cases with IMA exceeding 20°, first metatarsophalangeal joint fusion is often recommended for correction.",
+    "pseudocode": "if Patients with simple hallux valgus have intermetatarsal angle (IMA) less than 13°：\n\tPerform distal metatarsal osteotomy such as Chevron, Mitchell, etc.\nelif Patients with simple hallux valgus have IMA between 14° and 16°：\n\tUse metatarsal neck osteotomy like Scarf.\nelif Patients with simple hallux valgus have IMA greater than 16°：\n\tConsider base osteotomy.\nelif Patients with simple hallux valgus have severe cases with IMA exceeding 20°：\n\tFirst metatarsophalangeal joint fusion is often recommended for correction."
+  },
+  {
+    "text": "Patients with AKI @ For patients with a long-term history of AKI, who require more than 90 days of renal replacement therapy before liver transplantation, who are over 60 years old, and have underlying chronic kidney disease or hereditary kidney disease, it is recommended to undergo combined liver kidney transplantation.",
+    "pseudocode": "if Patients with AKI have a long-term history of AKI and require more than 90 days of renal replacement therapy before liver transplantation and are over 60 years old and have underlying chronic kidney disease or hereditary kidney disease：\n\tPatients with AKI are recommended to undergo combined liver kidney transplantation."
+  },
+  {
+    "text": "Patients with non-invasive breast cancer @ For premenopausal females with LCIS, tamoxifen for 5 years is recommended after wide local excision. For postmenopausal females, tamoxifen or raloxifene may be given to lower the risk of breast cancer.",
+    "pseudocode": "if Patients with non-invasive breast cancer are premenopausal females and have LCIS：\n\tPatients with non-invasive breast cancer can take tamoxifen for 5 years after wide local excision.\nelif Patients with non-invasive breast cancer are postmenopausal females：\n\tPatients with non-invasive breast cancer can take tamoxifen or raloxifene to lower the risk of breast cancer."
+  },
+  {
+    "text": "Patients with COPD @ For patients experiencing dyspnea and reduced exercise tolerance, the recommended initial treatment is the combination of a Long-Acting Muscarinic Antagonist and a Long-Acting Beta-Agonist.",
+    "pseudocode": "if Patients with COPD have dyspnea and reduced exercise tolerance：\n\tPatients with COPD can use the combination of a Long-Acting Muscarinic Antagonist and a Long-Acting Beta-Agonist as the recommended initial treatment."
+  },
+  {
+    "text": "Patients with AIH @ Antiviral prophylaxis is recommended if AIH patients have a high or moderate risk of reactivation of CHB during immunosuppressive therapy.",
+    "pseudocode": "if Patients with AIH have a high or moderate risk of reactivation of CHB during immunosuppressive therapy：\n\tAntiviral prophylaxis is recommended for patients with AIH."
+  },
+  {
+    "text": "Children with sinusitis @ For children with chronic sinusitis, adenoidectomy combined with sinus lavage is the preferred surgical treatment method.",
+    "pseudocode": "if Children with sinusitis have chronic sinusitis：\n\tAdenoidectomy combined with sinus lavage is the preferred surgical treatment method for children with sinusitis."
+  },
+  {
+    "text": "Patients with keloid @ For inflammatory-type keloids, non-surgical treatment is still recommended for small keloids. For medium, large, or extremely large keloids, surgical treatment is generally advised. However, if there is no significant hypertrophic scarring in medium to large inflammatory-type keloids, non-surgical treatments, including drug injections, pulsed dye laser, silicone preparations, and topical medications, may also be considered.",
+    "pseudocode": "if Patients with keloid have inflammatory-type keloids：\n\tif Patients with keloid have small keloids：\n\t\tNon-surgical treatment is still recommended for patients with keloid.\n\telif Patients with keloid have medium, large, or extremely large keloids：\n\t\tif Patients with keloid have significant hypertrophic scarring：\n\t\t\tSurgical treatment is generally advised for patients with keloid.\n\t\telse：\n\t\t\tNon-surgical treatments, including drug injections, pulsed dye laser, silicone preparations, and topical medications, may also be considered for patients with keloid."
+  },
+  {
+    "text": "Patients with cirrhosis and hepatic encephalopathy @ In patients with hepatic encephalopathy and altered mental function complicating liver cirrhosis, considering the clinical context, symptom improvement may be achieved through the use of opioid receptor antagonists, benzodiazepine receptor antagonists, or propofol.",
+    "pseudocode": "if Patients with cirrhosis and hepatic encephalopathy have altered mental function complicating liver cirrhosis：\n\tif Patients with cirrhosis and hepatic encephalopathy have symptom improvement through the use of opioid receptor antagonists：\n\t\tPatients with cirrhosis and hepatic encephalopathy can use opioid receptor antagonists.\n\telif Patients with cirrhosis and hepatic encephalopathy have symptom improvement through the use of benzodiazepine receptor antagonists：\n\t\tPatients with cirrhosis and hepatic encephalopathy can use benzodiazepine receptor antagonists.\n\telif Patients with cirrhosis and hepatic encephalopathy have symptom improvement through the use of propofol：\n\t\tPatients with cirrhosis and hepatic encephalopathy can use propofol."
+  },
+  {
+    "text": "Patients with SBP @ Patients with a Child-Pugh score ≥9, serum bilirubin levels ≥3 mg/dl, or impaired renal function, hyponatremia, and abdominal fluid protein below 15 g/L are recommended to use norfloxacin (400 mg/day) as primary prophylaxis.",
+    "pseudocode": "if Patients with SBP have a Child-Pugh score ≥9, serum bilirubin levels ≥3 mg/dl, or impaired renal function, hyponatremia, and abdominal fluid protein below 15 g/L：\n\tPatients with SBP are recommended to use norfloxacin (400 mg/day) as primary prophylaxis."
+  },
+  {
+    "text": "Patients with compound thumb valgus @ If the IMA is mildly to moderately enlarged, Chevron-Youngswick surgery to dorsiflex the metatarsal head may be appropriate. For severe IMA enlargement, consider proximal metatarsal osteotomy to correct IMA, followed by fixation in a dorsiflexed position of the metatarsal head.",
+    "pseudocode": "if Patients with compound thumb valgus have mildly to moderately enlarged IMA：\n\tConsider Chevron-Youngswick surgery to dorsiflex the metatarsal head.\nelif Patients with compound thumb valgus have severe IMA enlargement：\n\tConsider proximal metatarsal osteotomy to correct IMA, followed by fixation in a dorsiflexed position of the metatarsal head."
+  },
+  {
+    "text": "frostbite patient @ For patients with severe trauma, other potential infectious sources, or symptoms of cellular dermatitis or sepsis, systemic antibiotics should be administered, either orally or intravenously.",
+    "pseudocode": "if frostbite patient has severe trauma or other potential infectious sources or symptoms of cellular dermatitis or sepsis：\n\tPatients with frostbite should be administered systemic antibiotics.\nelse：\n\tNo specific treatment is required for frostbite patients."
+  },
+  {
+    "text": "Patients with alcoholic liver disease @ Liver transplantation should be considered in patients with severe alcoholic cirrhosis,  which in the early stage can improve survival.",
+    "pseudocode": "if Patients with alcoholic liver disease have severe alcoholic cirrhosis：\n\tLiver transplantation should be considered for patients with severe alcoholic cirrhosis.\nelse：\n\tIn the early stage, liver transplantation can improve survival for patients with alcoholic liver disease."
+  },
+  {
+    "text": "Patients with sclerosing cholangitis @ Inpatients with complex strictures or a lack of apparent dilation effect during ERCP, a stent may be placed after successful stricture dilation.",
+    "pseudocode": "if Patients with sclerosing cholangitis are inpatients with complex strictures or a lack of apparent dilation effect during ERCP：\n\tPlace a stent after successful stricture dilation for patients with sclerosing cholangitis."
+  },
+  {
+    "text": "Patients with keloid @ In principle, conservative treatment is recommended for small scars. For small scars on the ear and small scars with infectious foci, surgical excision remains the primary treatment approach. Medium to large scars should undergo surgical intervention at an early stage. For extremely large scars, a comprehensive treatment approach involving surgical excision supplemented by skin grafts and flaps is recommended.",
+    "pseudocode": "if Patients with keloid have small scars：\n\tif Patients with keloid have small scars on the ear or small scars with infectious foci：\n\t\tSurgical excision remains the primary treatment approach for patients with keloid.\n\telse：\n\t\tIn principle, conservative treatment is recommended for patients with keloid.\nelif Patients with keloid have medium to large scars：\n\tPatients with keloid should undergo surgical intervention at an early stage.\nelif Patients with keloid have extremely large scars：\n\tA comprehensive treatment approach involving surgical excision supplemented by skin grafts and flaps is recommended for patients with keloid."
+  },
+  {
+    "text": "Patients with alcoholic liver disease @ In case of non-response to corticosteroids, highly selected patients should be considered for early liver transplantation. Patients that response to corticosteroid treatment have to continue corticosteroid treatment for 28 days",
+    "pseudocode": "if Patients with alcoholic liver disease do not respond to corticosteroids：\n    Highly selected patients should be considered for early liver transplantation.\nelse：\n    Patients that respond to corticosteroid treatment have to continue corticosteroid treatment for 28 days."
+  },
+  {
+    "text": "Patients with vascular gastrointestinal disease @ Mild and recurrent bleeding patients can undergo long-term iron supplementation therapy.",
+    "pseudocode": "if Patients with vascular gastrointestinal disease have mild and recurrent bleeding：\n\tPatients with vascular gastrointestinal disease can undergo long-term iron supplementation therapy."
+  },
+  {
+    "text": "Patients with acute heart failure @ For patients with reduced left ventricular ejection fraction (LVEF) and low cardiac output in acute heart failure (AHF), if there is evidence of inadequate tissue perfusion such as hypotension, intravenous administration of positive inotropic agents is recommended to alleviate symptoms.",
+    "pseudocode": "if Patients with acute heart failure have reduced left ventricular ejection fraction (LVEF) and low cardiac output：\n\tif Patients with acute heart failure have evidence of inadequate tissue perfusion such as hypotension：\n\t\tIntravenous administration of positive inotropic agents is recommended to alleviate symptoms for patients with acute heart failure.\n\telse：\n\t\tNo specific treatment is recommended for patients with acute heart failure."
+  },
+  {
+    "text": "patients with MHD @ For MHD patients, recommend a caloric intake of 35 (kcal·kg)/(IBW·d). For patients aged 60 and above, with low activity levels and good nutritional status, the intake can be reduced to 30-35 (kcal·kg)/(IBW·d).",
+    "pseudocode": "if patients with MHD are aged 60 and above and have low activity levels and good nutritional status：\n\trecommend a caloric intake of 30-35 (kcal·kg)/(IBW·d) for patients with MHD.\nelse：\n\trecommend a caloric intake of 35 (kcal·kg)/(IBW·d) for patients with MHD."
+  },
+  {
+    "text": "Patients with hepatolenticular degeneration @ For those with mild symptoms of fever and rash in an allergic reaction, oral administration of a low dose of prednisone (0.5 mg/(kg·d), continued for 2-3 days) may be considered.",
+    "pseudocode": "if Patients with hepatolenticular degeneration have mild symptoms of fever and rash in an allergic reaction：\n\tPatients with hepatolenticular degeneration can consider oral administration of a low dose of prednisone (0.5 mg/(kg·d), continued for 2-3 days)."
+  },
+  {
+    "text": "Patients with acute cholecystitis @ Conservative manage ment with fluids, analgesia and antibiotics is an option for people with mildly symptomatic acute cholecystitis",
+    "pseudocode": "if Patients with acute cholecystitis are mildly symptomatic：\n\tConservative management with fluids, analgesia, and antibiotics is an option for patients with acute cholecystitis."
+  },
+  {
+    "text": "Patients with bronchiectasis @ Cystic fibrosis testing should be considered in patients with concomitant sinus disease, gastrointestinal or pancreatic abnormalities, male infertility and a family history of bronchiectasis. ",
+    "pseudocode": "if Patients with bronchiectasis have concomitant sinus disease, gastrointestinal or pancreatic abnormalities, male infertility, and a family history of bronchiectasis：\n\tCystic fibrosis testing should be considered for patients with bronchiectasis."
+  },
+  {
+    "text": "Patients with benign prostatic hyperplasia @ Transurethral incision of the prostate should be offered as an option for patients with prostates <=30g for the surgical treatment of LUTS/BPH. Prostatic urethral lift or robotic waterjet treatment should be considered as a treatment option for patients with BPH provided prostate volume 30-80g and verified absence of an obstructive middle lobe. ",
+    "pseudocode": "if Patients with benign prostatic hyperplasia have prostates <=30g：\n\tTransurethral incision of the prostate should be offered as a surgical treatment option for patients with LUTS/BPH.\nelif Patients with benign prostatic hyperplasia have prostate volume 30-80g and verified absence of an obstructive middle lobe：\n\tProstatic urethral lift or robotic waterjet treatment should be considered as a treatment option for patients with BPH."
+  },
+  {
+    "text": "CBP and CP/CPPS patients @ Early use of medication targeting neuropathic pain should be considered for all patients who are refractory to initial treatments. If the patient has neuropathic pain, ensure a prompt referral to an MDT that includes pain specialists",
+    "pseudocode": "if CBP and CP/CPPS patients are refractory to initial treatments：\n\tif CBP and CP/CPPS patients have neuropathic pain：\n\t\tEnsure a prompt referral to an MDT that includes pain specialists.\n\telse：\n\t\tEarly use of medication targeting neuropathic pain should be considered for all CBP and CP/CPPS patients."
+  },
+  {
+    "text": "Patients with gastroesophageal reflux disease @ A trial of baclofen at a dosage of 5-20 mg three times a day can be considered in patients with objective documentation of continued symptomatic reflux despite optimal PPI therapy. ",
+    "pseudocode": "if Patients with gastroesophageal reflux disease have objective documentation of continued symptomatic reflux despite optimal PPI therapy：\n\tPatients with gastroesophageal reflux disease can consider a trial of baclofen at a dosage of 5-20 mg three times a day."
+  },
+  {
+    "text": "Patients with chronic sinusitis @ Medically resistant CRS might respond to appropriate sinonasal surgery.",
+    "pseudocode": "if Patients with chronic sinusitis have medically resistant CRS：\n\tPatients with chronic sinusitis might respond to appropriate sinonasal surgery."
+  },
+  {
+    "text": "Patients with acute heart failure @ For patients with low blood pressure, direct intravenous infusion of rh-BNP at a rate of 0.0075 to 0.01 µg/(kg·min) can be used for maintenance.",
+    "pseudocode": "if Patients with acute heart failure have low blood pressure：\n\tPatients with acute heart failure can use direct intravenous infusion of rh-BNP at a rate of 0.0075 to 0.01 µg/(kg·min) for maintenance."
+  },
+  {
+    "text": "Patients with sclerosing cholangitis @ A therapeutic endoscopic intervention is indicated in symptomatic patients with relevant strictures.",
+    "pseudocode": "if Patients with sclerosing cholangitis have relevant strictures：\n\tA therapeutic endoscopic intervention is indicated for symptomatic patients with relevant strictures."
+  },
+  {
+    "text": "Patients with WD @ Symptomatic individuals should initiate treatment with chelating agents, while asymptomatic patients or those entering maintenance therapy can be treated with either chelating agents or zinc supplements.",
+    "pseudocode": "if Patients with WD are symptomatic：\n\tPatients with WD should initiate treatment with chelating agents.\nelse：\n\tif Patients with WD are asymptomatic or entering maintenance therapy：\n\t\tPatients with WD can be treated with either chelating agents or zinc supplements."
+  },
+  {
+    "text": "Infantile cholestasis @ Bile acids or ursodeoxycholic acid are suitable for children with defects in bile acid synthesis. ",
+    "pseudocode": "if Children with infantile cholestasis have defects in bile acid synthesis：\n\tChildren with infantile cholestasis can take bile acids or ursodeoxycholic acid."
+  },
+  {
+    "text": "Patients with DILI @ Cases in which onset resembles acute hepatitis (acute onset) should be administered corticosteroid therapy.",
+    "pseudocode": "if Patients with DILI have onset resembling acute hepatitis (acute onset)：\n\tPatients with DILI should be administered corticosteroid therapy."
+  },
+  {
+    "text": "Patients with liver cancer @ For HCV-related liver cancer, it is recommended to use direct-acting antivirals for antiviral treatment when HCV RNA is positive.",
+    "pseudocode": "if Patients with liver cancer have HCV-related liver cancer：\n\tif HCV RNA is positive：\n\t\tUse direct-acting antivirals for antiviral treatment for patients with HCV-related liver cancer."
+  },
+  {
+    "text": "Patients with allergic rhinitis @ For symptoms of sneezing and rhinorrhea type, start treatment by the combination of second-generation antihistamine and nasal topical steroids.",
+    "pseudocode": "if Patients with allergic rhinitis have symptoms of sneezing and rhinorrhea type：\n\tPatients with allergic rhinitis can start treatment by the combination of second-generation antihistamine and nasal topical steroids."
+  },
+  {
+    "text": "Patients with renal tubular acidosis @ Potassium citrate replacement may be necessary for patients with hypokalemia, nephrolithiasis, or nephrocalcinosis. ",
+    "pseudocode": "if Patients with renal tubular acidosis have hypokalemia, nephrolithiasis, or nephrocalcinosis：\n\tPotassium citrate replacement may be necessary for patients with renal tubular acidosis."
+  },
+  {
+    "text": "Patients with NSCLC @ In patients with positive driver genes, molecular targeting drugs should be given priority in second-line treatment.",
+    "pseudocode": "if Patients with NSCLC have positive driver genes：\n\tMolecular targeting drugs should be given priority in second-line treatment for patients with NSCLC."
+  },
+  {
+    "text": "Patients with breast cancer @ For HER2-positive and triple-negative breast cancer patients, the indications for neoadjuvant therapy can be appropriately extended.",
+    "pseudocode": "if Patients with breast cancer have HER2-positive or triple-negative breast cancer：\n\tThe indications for neoadjuvant therapy can be appropriately extended."
+  },
+  {
+    "text": "patients with CKD @ For CKD patients with blood potassium levels exceeding 6.0 mmol/L, the recommended daily potassium intake is 50-70 mmol. In cases where blood potassium levels are above 5.5 mmol/L in individuals with renal impairment, it is advisable to maintain a dietary potassium intake of less than 3 g/day.",
+    "pseudocode": "if patients with CKD have blood potassium levels exceeding 6.0 mmol/L：\n\tthe recommended daily potassium intake for patients with CKD is 50-70 mmol.\nelif patients with CKD have blood potassium levels above 5.5 mmol/L and have renal impairment：\n\tit is advisable for patients with CKD to maintain a dietary potassium intake of less than 3 g/day."
+  },
+  {
+    "text": "Patients with primary vasculitis@who have important organ involvement, in addition to glucocorticoids, should also take immunosuppressants as early as possible. Plasma exchange and immunoadsorption can be performed in acute phase and critically ill patients.",
+    "pseudocode": "if Patients with primary vasculitis have important organ involvement：\n\tPatients with primary vasculitis should take glucocorticoids and immunosuppressants as early as possible.\n\tif Patients with primary vasculitis are in the acute phase or critically ill：\n\t\tPlasma exchange and immunoadsorption can be performed."
+  },
+  {
+    "text": "Patients with nongenital mucocutaneous candidiasis @ For mild disease, clotrimazole troches at a dosage of 10 mg 5 times daily; for moderate to severe disease, oral fluconazole at a dosage of 100-200 mg (3 mg/kg) daily for 7-14 days is recommended",
+    "pseudocode": "if Patients with nongenital mucocutaneous candidiasis have mild disease：\n\tPatients with nongenital mucocutaneous candidiasis can take clotrimazole troches at a dosage of 10 mg 5 times daily.\nelif Patients with nongenital mucocutaneous candidiasis have moderate to severe disease：\n\tPatients with nongenital mucocutaneous candidiasis can take oral fluconazole at a dosage of 100-200 mg (3 mg/kg) daily for 7-14 days."
+  },
+  {
+    "text": "Patients with breast hyperplasia @ For individuals experiencing mild to moderate breast pain, psychological counseling and lifestyle changes are the primary interventions. In cases of persistent and severe breast pain, pharmacological treatment may be considered.",
+    "pseudocode": "if Patients with breast hyperplasia have mild to moderate breast pain：\n\tPsychological counseling and lifestyle changes are the primary interventions for patients with breast hyperplasia.\nelif Patients with breast hyperplasia have persistent and severe breast pain：\n\tPharmacological treatment may be considered for patients with breast hyperplasia."
+  },
+  {
+    "text": "Patients with PVT @ For patients with chronic PVT, if there is thrombus extension to the mesenteric veins, anticoagulant therapy is recommended.",
+    "pseudocode": "if Patients with PVT have chronic PVT：\n\tif Patients with PVT have thrombus extension to the mesenteric veins：\n\t\tAnticoagulant therapy is recommended for patients with chronic PVT."
+  },
+  {
+    "text": "Patients with chronic pancreatitis @ It is recommended that for early CP patients sensitive medications can be administered for 4 to 6 weeks as first-line treatment. The use of opioid medications is not recommended.",
+    "pseudocode": "if Patients with chronic pancreatitis are early CP patients：\n\tFirst-line treatment for patients with chronic pancreatitis is to administer sensitive medications for 4 to 6 weeks.\nelse：\n\tThe use of opioid medications is not recommended for patients with chronic pancreatitis."
+  },
+  {
+    "text": "Patients with keloid @ For patients under the age of 16, treatment should follow the principles of managing pediatric keloids. The use of anti-tumor chemotherapy drugs and radiation therapy is generally not recommended.",
+    "pseudocode": "if Patients with keloid are under the age of 16：\n\tTreatment should follow the principles of managing pediatric keloids.\nelse：\n\tThe use of anti-tumor chemotherapy drugs and radiation therapy is generally not recommended for patients with keloid."
+  },
+  {
+    "text": "Patients with CKD @ For CKD patients with HCV infection treated with DAA, it is recommended to use sofosbuvir/velpatasvir/voxilaprevir therapy.",
+    "pseudocode": "if Patients with CKD have HCV infection：\n\tPatients with CKD can be treated with DAA therapy.\nelse：\n\tIt is recommended to use sofosbuvir/velpatasvir/voxilaprevir therapy for patients with CKD."
+  },
+  {
+    "text": "patients with chronic interstitial nephritis @ If chronic renal failure occurs, conservative treatment without dialysis should be given to delay the progression of renal damage; if it has entered the end stage, renal replacement therapy should be performed.",
+    "pseudocode": "if patients with chronic interstitial nephritis have chronic renal failure：\n\tif patients with chronic interstitial nephritis have not entered the end stage：\n\t\tConservative treatment without dialysis should be given to patients with chronic interstitial nephritis to delay the progression of renal damage.\n\telse：\n\t\tRenal replacement therapy should be performed for patients with chronic interstitial nephritis who have entered the end stage."
+  },
+  {
+    "text": "Patients with AIH-PBC overlap syndrome @ UDCA treatment first and sequential addition of immunosuppressive drug can be considered for AIH-PBC overlap syndrome patients if the patient shows predominant features of PBC. Otherwise, combination treatment with UDCA with the immunosuppressive drug is preferred for AIH-PBC overlap syndrome.",
+    "pseudocode": "if Patients with AIH-PBC overlap syndrome show predominant features of PBC：\n\tUDCA treatment first and sequential addition of immunosuppressive drug can be considered for patients with AIH-PBC overlap syndrome.\nelse：\n\tCombination treatment with UDCA with the immunosuppressive drug is preferred for patients with AIH-PBC overlap syndrome."
+  },
+  {
+    "text": "Patients with liver damage @ Muscle tension and stiffness can be managed with medications such as tizanidine, baclofen, and cyclobenzaprine. For tremors, options include benzodiazepines, combination dopamine agonist medications, and others.",
+    "pseudocode": "if Patients with liver damage have muscle tension and stiffness：\n\tPatients with liver damage can take medications such as tizanidine, baclofen, and cyclobenzaprine.\nelif Patients with liver damage have tremors：\n\tOptions for patients with liver damage include benzodiazepines, combination dopamine agonist medications, and others."
+  },
+  {
+    "text": "Patients with keloid @ For patients with widespread keloids, if there is localized infection, consideration may be given to the excision of the infected area. Otherwise, non-surgical treatment methods are generally recommended for such keloids. These methods may include silicone products, topical medications, laser therapy, cryotherapy, and compression therapy.",
+    "pseudocode": "if Patients with keloid have widespread keloids：\n\tif Patients with keloid have localized infection：\n\t\tConsider excision of the infected area for patients with keloid.\n\telse：\n\t\tNon-surgical treatment methods are generally recommended for patients with keloid.\n\t\tThese methods may include silicone products, topical medications, laser therapy, cryotherapy, and compression therapy."
+  },
+  {
+    "text": "Patients with allergic rhinitis @ For conjunctivitis, add the following agents: oral histamine H1 antagonists, or intraocular histamine H1 antagonists, or intraocular disodium cromoglycate (or eye irrigation with physiological saline)",
+    "pseudocode": "if Patients with allergic rhinitis have conjunctivitis：\n\tif Patients with allergic rhinitis can take oral histamine H1 antagonists.\n\telif Patients with allergic rhinitis can take intraocular histamine H1 antagonists.\n\telif Patients with allergic rhinitis can take intraocular disodium cromoglycate or eye irrigation with physiological saline."
+  },
+  {
+    "text": "Patients with SBP @ Empirical treatment for community-acquired mild to moderate spontaneous bacterial peritonitis (SBP) in patients is primarily recommended with a single agent from the third-generation cephalosporin class.",
+    "pseudocode": "if Patients with SBP have community-acquired mild to moderate spontaneous bacterial peritonitis (SBP)：\n\tEmpirical treatment for patients with SBP is primarily recommended with a single agent from the third-generation cephalosporin class."
+  },
+  {
+    "text": "Patients with candidiasis @ Fluconazole is recommended for moderate-to-severe disease, and topical therapy with clotrimazole or nystatin is recommended for mild disease.",
+    "pseudocode": "if Patients with candidiasis have moderate-to-severe disease：\n\tPatients with candidiasis can take fluconazole.\nelse：\n\tPatients with candidiasis can use topical therapy with clotrimazole or nystatin."
+  },
+  {
+    "text": "Patients with allergic rhinitis @ For mild symptoms, administer second-generation antihistamine or a mast cell stabilizer. If symptoms are exacerbated, concomitantly use nasal topical steroids early. ",
+    "pseudocode": "if Patients with allergic rhinitis have mild symptoms：\n\tPatients with allergic rhinitis can take second-generation antihistamine or a mast cell stabilizer.\nelif Symptoms of patients with allergic rhinitis are exacerbated：\n\tPatients with allergic rhinitis can concomitantly use nasal topical steroids early."
+  },
+  {
+    "text": "Patients with knee osteoarthritis @ Topical NSAIDs should be used with caution in certain health conditions such as stage 4-5 chronic kidney disease, coronary artery disease, and congestive heart failure. There is a risk for skin sensitivity.",
+    "pseudocode": "if Patients with knee osteoarthritis have stage 4-5 chronic kidney disease, coronary artery disease, or congestive heart failure：\n\tPatients with knee osteoarthritis should use topical NSAIDs with caution.\nelse：\n\tThere is a risk for skin sensitivity when using topical NSAIDs for patients with knee osteoarthritis."
+  },
+  {
+    "text": "Patients with autoimmune hepatitis @ MMF (1-2 g/day) is given with glucocorticoids for patients intolerant of AZA or who have incomplete first-line treatment.",
+    "pseudocode": "if Patients with autoimmune hepatitis are intolerant of AZA or have incomplete first-line treatment：\n\tPatients with autoimmune hepatitis can take MMF (1-2 g/day) with glucocorticoids."
+  },
+  {
+    "text": "Arteriovenous fistula patients @ For patients with congenital fistulas, vascular intervention is recommended; for acquired fistulas, surgical treatment is advised.",
+    "pseudocode": "if Arteriovenous fistula patients have congenital fistulas：\n\tVascular intervention is recommended for patients with arteriovenous fistulas.\nelse：\n\tSurgical treatment is advised for patients with acquired fistulas."
+  },
+  {
+    "text": "Patient with gastric cancer @And dissection of lower mediastinal nodes should be added for the tumor with its center above the EGJ. A transhiatal abdominal approach is recommended for distal esophageal invasion less than 3 cm.",
+    "pseudocode": "Sorry, I cannot generate the pseudocode for this text as it does not follow the given rules. The if condition should only contain information about the patient's clinical manifestations or basic symptoms from the given text."
+  },
+  {
+    "text": "Pediatric epilepsy patients @ For patients with recurrent symptoms and insufficient efficacy with traditional Chinese medicine alone, a combination therapy approach involving Western medicine, acupuncture, and other modalities may be considered.",
+    "pseudocode": "if Pediatric epilepsy patients have recurrent symptoms and insufficient efficacy with traditional Chinese medicine alone：\n\tPatients with pediatric epilepsy can consider a combination therapy approach involving Western medicine, acupuncture, and other modalities."
+  },
+  {
+    "text": "Elderly patients with osteoporosis @ For elderly patients with osteoporosis, if liver and kidney diseases cause vitamin D hydroxylation to be blocked, it is recommended that active vitamin D be the first choice.",
+    "pseudocode": "if Elderly patients with osteoporosis have liver and kidney diseases that block vitamin D hydroxylation：\n\tActive vitamin D is recommended as the first choice for elderly patients with osteoporosis."
+  },
+  {
+    "text": "Patient with gastric cancer @ For local advanced gastric cancers, and EGC with lymph node metastasis, comprehensive treatments based on the surgery is recommended.",
+    "pseudocode": "if Patient with gastric cancer have local advanced gastric cancers or EGC with lymph node metastasis：\n\tcomprehensive treatments based on the surgery is recommended for patients with gastric cancer."
+  },
+  {
+    "text": "Patients with ventricular arrhythmias @ For non-sustained, asymptomatic ventricular arrhythmia patients, it is not recommended to use antiarrhythmic drugs other than beta-blockers.",
+    "pseudocode": "if Patients with ventricular arrhythmias have non-sustained, asymptomatic ventricular arrhythmia：\n\tAntiarrhythmic drugs other than beta-blockers are not recommended for patients with ventricular arrhythmias."
+  },
+  {
+    "text": "Patients with ureteral stones @ Most patients with stones less than 0.4cm in diameter can pass by themselves. For patients with stones with a diameter of 0.6cm or less, drug-assisted stone removal is the first choice. For patients with stones larger than 1 cm in diameter, surgical intervention is the first choice.",
+    "pseudocode": "if Patients with ureteral stones have stones less than 0.4cm in diameter：\n\tPatients with ureteral stones can pass the stones by themselves.\nelif Patients with ureteral stones have stones with a diameter of 0.6cm or less：\n\tDrug-assisted stone removal is the first choice for patients with ureteral stones.\nelif Patients with ureteral stones have stones larger than 1cm in diameter：\n\tSurgical intervention is the first choice for patients with ureteral stones."
+  },
+  {
+    "text": "Patients with candidiasis @ For patients with endocarditis and other cardiovascular infections, higher daily doses of an echinocandin may be appropriate (e.g., caspofungin 50-150 mg/day, micafungin 100-150 mg/day, or anidulafungin 100-200 mg/day).",
+    "pseudocode": "if Patients with candidiasis have endocarditis and other cardiovascular infections：\n\tif Patients with candidiasis need higher daily doses of an echinocandin：\n\t\tPatients with candidiasis can take caspofungin 50-150 mg/day, micafungin 100-150 mg/day, or anidulafungin 100-200 mg/day."
+  },
+  {
+    "text": "Patients with PVT @ For patients with high-risk varices and the need for anticoagulant therapy in PVT, it is recommended to use non-selective beta-blockers to prevent variceal bleeding. If the patient cannot tolerate non-selective beta-blockers or has contraindications, endoscopic variceal ligation is recommended to prevent variceal bleeding.",
+    "pseudocode": "if Patients with PVT have high-risk varices and the need for anticoagulant therapy：\n\tif Patients with PVT can tolerate non-selective beta-blockers and have no contraindications：\n\t\tUse non-selective beta-blockers to prevent variceal bleeding for patients with PVT.\n\telse：\n\t\tUse endoscopic variceal ligation to prevent variceal bleeding for patients with PVT."
+  },
+  {
+    "text": "Patients with idiopathic inflammatory myopathies @ For individuals with moderate disease severity, oral prednisolone at a dose of 0.5-1 mg/kg/day (usually 40-60 mg, maximum 100 mg per day) is recommended. For those with more severe disease, intravenous methylprednisolone (250-500 mg in 2-3 doses on alternate days) can be used initially and then converted to oral prednisolone once disease severity has reduced. ",
+    "pseudocode": "if Patients with idiopathic inflammatory myopathies have moderate disease severity：\n\tPatients with idiopathic inflammatory myopathies can take oral prednisolone at a dose of 0.5-1 mg/kg/day (usually 40-60 mg, maximum 100 mg per day).\nelif Patients with idiopathic inflammatory myopathies have more severe disease：\n\tPatients with idiopathic inflammatory myopathies can use intravenous methylprednisolone initially (250-500 mg in 2-3 doses on alternate days), and then convert to oral prednisolone once disease severity has reduced."
+  },
+  {
+    "text": "Patients with hallux valgus @ For individuals with excessive softness, accompanied by ligament laxity or neuromuscular dysfunction, conservative treatment is recommended as the first choice.",
+    "pseudocode": "if Patients with hallux valgus have excessive softness, accompanied by ligament laxity or neuromuscular dysfunction：\n\tConservative treatment is recommended as the first choice for patients with hallux valgus."
+  },
+  {
+    "text": "Patients with primary sclerosing cholangitis @ General recommendations for patients suffering from cholestasis-associated pruritus include using emollients to pre vent dryness of skin, avoiding hot baths or showers.",
+    "pseudocode": "Sorry, I cannot generate the pseudocode for this text as it does not contain any decision-making process or if-else structure."
+  },
+  {
+    "text": "Patients with breast cancer @ For patients with advanced breast cancer, if they have a low tumor burden and no signs of rapid progression, single-agent chemotherapy is the first choice, which can improve their quality of life.",
+    "pseudocode": "if Patients with breast cancer have advanced breast cancer：\n\tif Patients with breast cancer have low tumor burden and no signs of rapid progression：\n\t\tSingle-agent chemotherapy is the first choice for patients with advanced breast cancer to improve their quality of life."
+  },
+  {
+    "text": "Patients with HCV-GN @ For HCV-associated glomerulonephritis patients with stable renal function and/or non-nephrotic proteinuria, initiate treatment with a DAA regimen.",
+    "pseudocode": "if Patients with HCV-GN have stable renal function and/or non-nephrotic proteinuria：\n\tInitiate treatment with a DAA regimen."
+  },
+  {
+    "text": "Patients with allergic rhinitis @ For persistent moderate/severe symptoms, nasal spray steroid medications are used.",
+    "pseudocode": "if Patients with allergic rhinitis have persistent moderate/severe symptoms：\n\tPatients with allergic rhinitis can use nasal spray steroid medications."
+  },
+  {
+    "text": "Patients with candidiasis @ For refractory disease, itraconazole, voriconazole, posaconazole, or AmB suspension is recommended.",
+    "pseudocode": "if Patients with candidiasis have refractory disease：\n\tif Patients with candidiasis can take itraconazole orally.\n\telif Patients with candidiasis can take voriconazole orally.\n\telif Patients with candidiasis can take posaconazole orally.\n\telif Patients with candidiasis can take AmB suspension orally."
+  },
+  {
+    "text": "Patients with primary biliary cholangitis @If pruritus occurs, cholestyramine can be used to relieve itching, approximately (4-16 g/day). Rifampicin (100-300 mg/day) is recommended for those who do not respond or are intolerant to cholestyramine.",
+    "pseudocode": "if Patients with primary biliary cholangitis have pruritus：\n\tPatients with primary biliary cholangitis can use cholestyramine to relieve itching, approximately 4 to 16 g/day.\nelif Patients with primary biliary cholangitis do not respond or are intolerant to cholestyramine：\n\tRifampicin is recommended for patients with primary biliary cholangitis, approximately 100 to 300 mg/day."
+  },
+  {
+    "text": "Patients with deep vein thrombosis @ For patients with central or mixed deep venous thrombosis in the acute stage, when femoral bruising occurs, surgical thrombectomy or PMT, CDT and other treatments should be performed immediately.",
+    "pseudocode": "if Patients with deep vein thrombosis have central or mixed deep venous thrombosis in the acute stage：\n\tif Femoral bruising occurs：\n\t\tSurgical thrombectomy or PMT, CDT and other treatments should be performed immediately."
+  },
+  {
+    "text": "Children with liver cancer @ For patients with unresectable tumors, the use of transcatheter arterial chemoembolization can be considered as a treatment option. For patients with resectable tumors, surgical resection of lung metastases can be considered.",
+    "pseudocode": "if Children with liver cancer have unresectable tumors：\n\tTranscatheter arterial chemoembolization can be considered as a treatment option for children with liver cancer.\nelif Children with liver cancer have resectable tumors：\n\tSurgical resection of lung metastases can be considered for children with liver cancer."
+  },
+  {
+    "text": "Patients with acute kidney injury @ For patients with low blood pressure, vasopressors such as terlipressin or norepinephrine, in combination with albumin infusion, can be considered.",
+    "pseudocode": "if Patients with acute kidney injury have low blood pressure：\n\tPatients with acute kidney injury can consider using vasopressors such as terlipressin or norepinephrine, in combination with albumin infusion."
+  },
+  {
+    "text": "Patients with duodenal obstruction @ In patients with duodenal obstruction, gastrojejunostomy could be performed if the expected survival time is more than 3 months. Intraopetative radiotherapy, irreversible electroporation (nanoknife ablation) could also be taken to improve local tumor control rate and relieve pain.",
+    "pseudocode": "if Patients with duodenal obstruction have an expected survival time of more than 3 months：\n\tgastrojejunostomy could be performed for patients with duodenal obstruction.\nelif Patients with duodenal obstruction want to improve local tumor control rate and relieve pain：\n\tintraoperative radiotherapy and irreversible electroporation (nanoknife ablation) could be taken for patients with duodenal obstruction."
+  },
+  {
+    "text": "Children with rheumatic fever @ In case of carditis, glucocorticoids, such as prednisone, should be used early. Children without carditis can use nonsteroidal anti-inflammatory drugs, such as aspirin.",
+    "pseudocode": "if Children with rheumatic fever have carditis：\n\tChildren with rheumatic fever should use glucocorticoids, such as prednisone, early.\nelse：\n\tChildren without carditis can use nonsteroidal anti-inflammatory drugs, such as aspirin."
+  },
+  {
+    "text": "Patients with allergic rhinitis @ For sneezing and runny nose type symptoms, use a combination of nasal topical steroids and second-generation antihistamine. For symptoms of the nasal blockage type and those of combined type, add leukotriene receptor antagonists or a prostaglandin D2/thromboxane A2 receptor antagonist.",
+    "pseudocode": "if Patients with allergic rhinitis have sneezing and runny nose type symptoms：\n\tPatients with allergic rhinitis can use a combination of nasal topical steroids and second-generation antihistamine.\nelif Patients with allergic rhinitis have symptoms of the nasal blockage type or combined type：\n\tPatients with allergic rhinitis can add leukotriene receptor antagonists or a prostaglandin D2/thromboxane A2 receptor antagonist."
+  },
+  {
+    "text": "Patients with hepatic hydatid disease @ For patients for whom surgery cannot achieve a cure but who have complications such as biliary obstruction, palliative surgery can be considered.",
+    "pseudocode": "if Patients with hepatic hydatid disease have complications such as biliary obstruction：\n\tPalliative surgery can be considered for patients with hepatic hydatid disease.\nelse：\n\tSurgery cannot achieve a cure for patients with hepatic hydatid disease."
+  },
+  {
+    "text": "Patients with recurrent respiratory tract infections @ Acetaminophen or ibuprofen can be chosen for fever reduction in individuals with a body temperature exceeding 38.5°C.",
+    "pseudocode": "if Patients with recurrent respiratory tract infections have a body temperature exceeding 38.5°C：\n\tPatients with recurrent respiratory tract infections can choose acetaminophen or ibuprofen for fever reduction."
+  },
+  {
+    "text": "Patients with cirrhosis and ascites @ For patients with refractory or recurrent ascites in cirrhosis, the use of covered TIPS is recommended as a treatment option.",
+    "pseudocode": "if Patients with cirrhosis and ascites have refractory or recurrent ascites：\n\tThe use of covered TIPS is recommended as a treatment option for patients with cirrhosis and ascites."
+  },
+  {
+    "text": "Patients with decompensated cirrhosis @ For patients with mild, moderate, or severe ascites, or those hospitalized due to worsening ascites or any complications of liver cirrhosis, diagnostic abdominal paracentesis is recommended.",
+    "pseudocode": "if Patients with decompensated cirrhosis have mild, moderate, or severe ascites, or are hospitalized due to worsening ascites or any complications of liver cirrhosis：\n\tPatients with decompensated cirrhosis should undergo diagnostic abdominal paracentesis."
+  },
+  {
+    "text": "Patients with compound thumb valgus @ For patients with mild to moderate increases in IMA and DMAA, Mitchell, Chevron-Gerbert with additional distal soft tissue correction, or Akin procedures can be considered. For severe cases, proximal osteotomy may be required to correct IMA, and distal osteotomy may be needed to correct DMAA.",
+    "pseudocode": "if Patients with compound thumb valgus have mild to moderate increases in IMA and DMAA：\n\tif Patients with compound thumb valgus have mild to moderate increases in IMA and DMAA：\n\t\tMitchell, Chevron-Gerbert with additional distal soft tissue correction, or Akin procedures can be considered for patients with compound thumb valgus.\n\telif Patients with compound thumb valgus have severe case：\n\t\tProximal osteotomy may be required to correct IMA, and distal osteotomy may be needed to correct DMAA for patients with compound thumb valgus."
+  },
+  {
+    "text": "Patients with SAP @ For SAP patients presenting with acute respiratory failure, early oxygen therapy should be initiated. Non-invasive respiratory support may be considered as an early supportive measure. If the condition does not improve or worsens rapidly within a short period, invasive mechanical ventilation should be considered.",
+    "pseudocode": "if Patients with SAP present with acute respiratory failure：\n\tif Patients with SAP present with non-improving or rapidly worsening condition within a short period：\n\t\tInvasive mechanical ventilation should be considered for patients with SAP.\n\telse：\n\t\tNon-invasive respiratory support may be considered as an early supportive measure for patients with SAP.\nelse：\n\tEarly oxygen therapy should be initiated for patients with SAP."
+  },
+  {
+    "text": "proteinuria patients @ ACEI drugs can easily cause dry cough. If the patient cannot tolerate ACEI drugs, ARB can be used instead.",
+    "pseudocode": "if patient with proteinuria：\n\tif patient cannot tolerate ACEI drugs：\n\t\tpatient can use ARB instead.\n\telse：\n\t\tACEI drugs can easily cause dry cough for patients with proteinuria."
+  },
+  {
+    "text": "Patients with CRC @ For patients with colorectal cancer (CRC), if there is the NRS2002 nutritional risk score ≥3 or if there is a PG-SGA malnutrition score ≥4, nutritional therapy is necessary.",
+    "pseudocode": "if Patients with CRC have NRS2002 nutritional risk score ≥3 or PG-SGA malnutrition score ≥4：\n\tNutritional therapy is necessary for patients with CRC."
+  },
+  {
+    "text": "Patients with NSCLC @ First-line EGFR-TKI treatment is recommended for stage IV NSCLC patients with EGFR-sensitive mutation.",
+    "pseudocode": "if Patients with NSCLC have stage IV and EGFR-sensitive mutation：\n\tFirst-line EGFR-TKI treatment is recommended for patients with NSCLC."
+  },
+  {
+    "text": "Patients with primary biliary cholangitis @ For patients with dry mouth and dysphagia, it is recommended to try over-the-counter saliva substitutes such as moisturizing mouthwashes and mouth spray. If the symptoms worsen, cholinergic agents such as pilocarpine or cevimeline are recommended to increase saliva secretion.",
+    "pseudocode": "if Patients with primary biliary cholangitis have dry mouth and dysphagia：\n\tif Symptoms worsen：\n\t\tCholinergic agents such as pilocarpine or cevimeline are recommended to increase saliva secretion.\n\telse：\n\t\tTry over-the-counter saliva substitutes such as moisturizing mouthwashes and mouth spray."
+  },
+  {
+    "text": "Patients with liver cancer @ Nucleoside analog antiviral treatment can control the underlying liver disease in patients with HBV-related liver cancer. For HCV-related liver cancer, direct-acting antiviral drugs can achieve sustained virological response.",
+    "pseudocode": "if Patients with liver cancer have HBV-related liver cancer：\n\tPatients with liver cancer can use nucleoside analog antiviral treatment to control the underlying liver disease.\nelif Patients with liver cancer have HCV-related liver cancer：\n\tPatients with liver cancer can use direct-acting antiviral drugs to achieve sustained virological response."
+  },
+  {
+    "text": "Patients with acute pancreatitis@ Mild patients can be given oxygen by nasal cannula or mask. When acute lung injury or respiratory distress occurs, positive pressure mechanical ventilation should be provided, the amount of fluid replacement should be adjusted based on parameters such as urine output, blood pressure, and arterial blood pH, and diuretics should be used appropriately.",
+    "pseudocode": "if Patients with acute pancreatitis have mild case：\n\tPatients with acute pancreatitis can be given oxygen by nasal cannula or mask.\nelif Patients with acute pancreatitis have acute lung injury or respiratory distress：\n\tPositive pressure mechanical ventilation should be provided for patients with acute pancreatitis.\nelse：\n\tThe amount of fluid replacement should be adjusted based on parameters such as urine output, blood pressure, and arterial blood pH for patients with acute pancreatitis.\n\tAppropriate use of diuretics should be considered."
+  },
+  {
+    "text": "Patients with CKD @ For CKD patients with acute hepatitis C, it is recommended to use sofosbuvir/velpatasvir for a 12-week treatment course.",
+    "pseudocode": "if Patients with CKD have acute hepatitis C：\n\tPatients with CKD can use sofosbuvir/velpatasvir for a 12-week treatment course."
+  },
+  {
+    "text": "obese patients @ Obese patients with gout can consider adopting the Mediterranean diet or the DASH (Dietary Approaches to Stop Hypertension) diet.",
+    "pseudocode": "if patient is obese：\n\tif patient has gout：\n\t\tpatient can consider adopting the Mediterranean diet or the DASH diet."
+  },
+  {
+    "text": "Patients with ascites @ Appropriate sodium restriction is recommended for patients with moderate uncomplicated ascites, and long-term bed rest is not recommended.",
+    "pseudocode": "if Patients with ascites have moderate uncomplicated ascites：\n\tAppropriate sodium restriction is recommended for patients with ascites.\nelse：\n\tLong-term bed rest is not recommended for patients with ascites."
+  },
+  {
+    "text": "heart failure patients @ In cases of high-volume overload such as pulmonary edema or severe peripheral edema, and in the presence of diuretic resistance, consideration may be given to ultrafiltration therapy.",
+    "pseudocode": "if heart failure patients have high-volume overload such as pulmonary edema or severe peripheral edema：\n\tif heart failure patients have diuretic resistance：\n\t\tUltrafiltration therapy can be considered for heart failure patients.\n\telse：\n\t\tNo specific treatment is mentioned for heart failure patients in this case."
+  },
+  {
+    "text": "Patients with candidiasis @ For patients who have cystitis and who are allergic to fluconazole, treatment with oral flucytosine, systemic AmB-d, and bladder irrigation with AmB-d are alternatives.",
+    "pseudocode": "if Patients with candidiasis have cystitis and are allergic to fluconazole：\n\tif Patients with candidiasis can take oral flucytosine as an alternative treatment.\n\telif Patients with candidiasis can take systemic AmB-d as an alternative treatment.\n\telif Patients with candidiasis can undergo bladder irrigation with AmB-d as an alternative treatment."
+  },
+  {
+    "text": "Patients with NSCLC @ For elderly patients, a comprehensive assessment of organ function and ECOG PS status is required. If organ function indicators meet the requirements of chemotherapy, patients with ECOG PS 0−1 can still consider platinum-doublet regimens. Patients with ECOG PS score =2 can consider single-drug chemotherapy. Patients with severe organ dysfunction or ECOG PS score >2 should not be recommended systemic chemotherapy.",
+    "pseudocode": "if Patients with NSCLC are elderly：\n\tif Organ function indicators meet the requirements of chemotherapy and ECOG PS score is 0-1：\n\t\tPatients with NSCLC can consider platinum-doublet regimens.\n\telif ECOG PS score is 2：\n\t\tPatients with NSCLC can consider single-drug chemotherapy.\n\telif Organ function indicators do not meet the requirements of chemotherapy or ECOG PS score is >2：\n\t\tPatients with NSCLC should not be recommended systemic chemotherapy."
+  },
+  {
+    "text": "CBP and CP/CPPS patients @ Repeated use of antibiotics, such as quinolones, should be avoided if there is no obvious symptomatic benefit from infection control or cultures do not support an infectious cause. Early use of treatments targeting neuropathic pain and/or referral to specialist services should be considered for patients who do not respond to initial measures. An MDT approach is recommended.",
+    "pseudocode": "if CBP and CP/CPPS patients have obvious symptomatic benefit from infection control or cultures support an infectious cause：\n\tRepeated use of antibiotics, such as quinolones, should be avoided.\nelse if CBP and CP/CPPS patients do not respond to initial measures：\n\tTreatments targeting neuropathic pain and/or referral to specialist services should be considered.\nelse：\n\tAn MDT approach is recommended."
+  },
+  {
+    "text": "Infantile cholestasis @ For infants with cholestasis excluding biliary atresia, the recommended treatment for promoting bile flow and resolving jaundice includes ursodeoxycholic acid and other choleretic agents.",
+    "pseudocode": "if infants have cholestasis excluding biliary atresia：\n\tRecommended treatment for infants with cholestasis excluding biliary atresia includes ursodeoxycholic acid and other choleretic agents."
+  },
+  {
+    "text": "Patients with sclerosing cholangitis @ Colectomy may also be considered in conﬁrmed low-grade dysplasia at repeated occasions or at multiple locations.",
+    "pseudocode": "if Patients with sclerosing cholangitis have confirmed low-grade dysplasia at repeated occasions or at multiple locations：\n\tColectomy may be considered for patients with sclerosing cholangitis."
+  },
+  {
+    "text": "Patients with NSCLC @ For patients with non-squamous carcinoma, they can be combined with anti-angiogenic therapy such as bevacizumab or endostatin on the basis of chemotherapy; for squamous cell carcinoma, tislelizumab in combination with paclitaxel or sintilimab in combination with gemcitabine platinum-doublet regimen is recommended.",
+    "pseudocode": "if Patients with NSCLC have non-squamous carcinoma：\n\tif Patients with NSCLC can be combined with anti-angiogenic therapy such as bevacizumab or endostatin on the basis of chemotherapy.\nelif Patients with NSCLC have squamous cell carcinoma：\n\tif Patients with NSCLC can be combined with tislelizumab in combination with paclitaxel.\n\telif Patients with NSCLC can be combined with sintilimab in combination with gemcitabine platinum-doublet regimen."
+  },
+  {
+    "text": "patients with CKD @ For CKD stages 3-5 diabetic patients experiencing high catabolism or protein-energy wasting (PEW), consideration may be given to oral nutritional supplements.",
+    "pseudocode": "if patients with CKD have stages 3-5 and are diabetic：\n\tif patients with CKD have high catabolism or protein-energy wasting (PEW)：\n\t\tConsideration may be given to oral nutritional supplements for patients with CKD."
+  },
+  {
+    "text": "Elderly patients with osteoporosis @ Patients with severe chronic kidney disease stage 4 or above with elderly osteoporosis should avoid the use of bisphosphonates and parathyroid hormone analogs.",
+    "pseudocode": "if Elderly patients with osteoporosis have severe chronic kidney disease stage 4 or above：\n\tElderly patients with osteoporosis should avoid the use of bisphosphonates and parathyroid hormone analogs."
+  },
+  {
+    "text": "Patients with achalasia @ Esophagectomy may be needed in those with a dilated esophagus (larger than 8 cm) with poor response to an initial myotomy.",
+    "pseudocode": "if Patients with achalasia have a dilated esophagus larger than 8 cm and poor response to an initial myotomy：\n\tEsophagectomy may be needed for patients with achalasia."
+  },
+  {
+    "text": "Patients with deep vein thrombosis @ Routine use of inferior vena cava filters is not recommended for DVT patients treated with anticoagulation alone.",
+    "pseudocode": "if Patients with deep vein thrombosis are treated with anticoagulation alone：\n\tRoutine use of inferior vena cava filters is not recommended for patients with deep vein thrombosis."
+  },
+  {
+    "text": "patients with WPW syndrome @ For patients with supraventricular tachycardia caused by Wolff-Parkinson-White syndrome, digoxin therapy may be administered in infants and young children under 10 years old. However, adults should not be treated with digoxin.",
+    "pseudocode": "if patients with WPW syndrome have supraventricular tachycardia caused by Wolff-Parkinson-White syndrome：\n\tif patients with WPW syndrome are infants and young children under 10 years old：\n\t\tDigoxin therapy may be administered to patients with WPW syndrome.\n\telse：\n\t\tAdults with WPW syndrome should not be treated with digoxin."
+  },
+  {
+    "text": "Patients with NSCLC @ Reoperation is recommended for stage I lung cancer with positive margin. Postoperative radiotherapy is recommended for patients who are unable to reoperation for any reason.",
+    "pseudocode": "if Patients with NSCLC have stage I lung cancer with positive margin：\n\tReoperation is recommended for patients with NSCLC.\nelse：\n\tPostoperative radiotherapy is recommended for patients with NSCLC who are unable to reoperation for any reason."
+  },
+  {
+    "text": "Patients with liver cancer @ For patients who cannot be surgically resected, palliative radiotherapy or a combination of radiotherapy and TACE can be used.",
+    "pseudocode": "if Patients with liver cancer cannot be surgically resected：\n\tif Patients with liver cancer have symptoms that need to be relieved：\n\t\tPalliative radiotherapy can be used for patients with liver cancer.\n\telse：\n\t\tA combination of radiotherapy and TACE can be used for patients with liver cancer."
+  },
+  {
+    "text": "Patients with PSC @ Close monitoring and interdisciplinary specialist care is suggested for pregnant women with PSC and cirrhosis, and especially in those with suspected portal hypertension.",
+    "pseudocode": "if Patients with PSC are pregnant：\n\tif Pregnant women with PSC and cirrhosis have suspected portal hypertension：\n\t\tClose monitoring and interdisciplinary specialist care is suggested for pregnant women with PSC and cirrhosis, especially those with suspected portal hypertension.\n\telse：\n\t\tClose monitoring and interdisciplinary specialist care is suggested for pregnant women with PSC and cirrhosis."
+  },
+  {
+    "text": "Patients with hallux valgus @ When the IMA is less than 13°, distal metatarsal osteotomy along with soft tissue surgery is an option. For IMA in the range of 14° to 16°, procedures such as metatarsal neck (e.g., Scarf) or proximal osteotomy (e.g., modified Ludloff) along with soft tissue surgery can be considered for correction. If IMA is greater than 16°, procedures such as base osteotomy along with soft tissue surgery or Akin surgery may be required.",
+    "pseudocode": "if Patients with hallux valgus have IMA less than 13°：\n\tPatients with hallux valgus can choose distal metatarsal osteotomy along with soft tissue surgery.\nelif Patients with hallux valgus have IMA in the range of 14° to 16°：\n\tPatients with hallux valgus can consider procedures such as metatarsal neck (e.g., Scarf) or proximal osteotomy (e.g., modified Ludloff) along with soft tissue surgery for correction.\nelif Patients with hallux valgus have IMA greater than 16°：\n\tProcedures such as base osteotomy along with soft tissue surgery or Akin surgery may be required for patients with hallux valgus."
+  },
+  {
+    "text": "Patients with ascites @ Patients experiencing grade 2 (moderate) ascites for the first time should undergo single-agent anti-aldosterone therapy with an initial dose of 100 mg/day. If a low dose shows no response, it should be increased every 72 hours (100 mg/dose) up to a maximum of 400 mg/day. Long-term or recurrent ascites patients should receive combined anti-aldosterone and furosemide therapy.",
+    "pseudocode": "if Patients with ascites have grade 2 (moderate) ascites for the first time：\n\tPatients with ascites should undergo single-agent anti-aldosterone therapy with an initial dose of 100 mg/day.\n\tif Patients with ascites have no response to a low dose：\n\t\tThe dose should be increased every 72 hours (100 mg/dose) up to a maximum of 400 mg/day.\nelif Patients with ascites are long-term or recurrent ascites patients：\n\tPatients with ascites should receive combined anti-aldosterone and furosemide therapy."
+  },
+  {
+    "text": "Patients with oral lichen planus @ For patients with diffuse, stubborn, erosive oral lichen planus or multiple lesions, glucocorticoids such as prednisone (30mg/d) can be administered throughout the body.",
+    "pseudocode": "if Patients with oral lichen planus have diffuse, stubborn, erosive oral lichen planus or multiple lesions：\n\tPatients with oral lichen planus can take glucocorticoids such as prednisone (30mg/d) throughout the body."
+  },
+  {
+    "text": "Patient with gastric cancer @ For patients with a poor physical condition, advanced age and intolerance to the combined regimen, oral fluorouracil single-drug chemotherapy is considered",
+    "pseudocode": "if Patient with gastric cancer has a poor physical condition, advanced age, and intolerance to the combined regimen：\n\tPatient with gastric cancer can consider oral fluorouracil single-drug chemotherapy."
+  },
+  {
+    "text": "Patients with HEV @ For individuals at high risk of HEV infection, vaccination against hepatitis E can be considered.",
+    "pseudocode": "if individuals at high risk of HEV infection：\n\tvaccination against hepatitis E can be considered."
+  },
+  {
+    "text": "Patients with G6PD deficiency@chronic patients can use folic acid. Neonates suffering from this disease develop hemolysis and kernicterus, and can be treated with exchange transfusion, phototherapy or phenobarbital injection.",
+    "pseudocode": "if Patients with G6PD deficiency are chronic patients：\n\tPatients with G6PD deficiency can use folic acid.\nelif Patients with G6PD deficiency are neonates：\n\tif Neonates suffering from G6PD deficiency develop hemolysis and kernicterus：\n\t\tNeonates suffering from G6PD deficiency can be treated with exchange transfusion.\n\telif Neonates suffering from G6PD deficiency need treatment for jaundice：\n\t\tNeonates suffering from G6PD deficiency can be treated with phototherapy.\n\telif Neonates suffering from G6PD deficiency need treatment for seizures：\n\t\tNeonates suffering from G6PD deficiency can be treated with phenobarbital injection."
+  },
+  {
+    "text": "Patients with OSA @ For overweight and obese patients with obstructive sleep apnea (OSA), a comprehensive weight loss intervention is recommended, including dietary control, exercise, and behavioral counseling.",
+    "pseudocode": "if Patients with OSA are overweight and obese：\n\tPatients with OSA should undergo a comprehensive weight loss intervention.\nelse：\n\tNo specific decision-making process is mentioned in the text."
+  },
+  {
+    "text": "Patients with acute heart failure @ For patients with mild to moderate hypoxemic respiratory failure, if there are indications for NIPPV but tolerance is poor, nasal high-flow humidified oxygen therapy should be considered.",
+    "pseudocode": "if Patients with acute heart failure have mild to moderate hypoxemic respiratory failure：\n\tif Patients with acute heart failure have indications for NIPPV but poor tolerance：\n\t\tNasal high-flow humidified oxygen therapy should be considered for patients with acute heart failure."
+  },
+  {
+    "text": "Patients with acute heart failure @ For patients with significant dyspnea accompanied by hypoxemia (SaO2 < 90% or PaO2 < 60 mmHg), oxygen therapy can be administered, such as nasal cannula oxygen and oxygen mask.",
+    "pseudocode": "if Patients with acute heart failure have significant dyspnea accompanied by hypoxemia (SaO2 < 90% or PaO2 < 60 mmHg)：\n\tif Patients with acute heart failure have SaO2 < 90% or PaO2 < 60 mmHg：\n\t\tPatients with acute heart failure can be administered oxygen therapy, such as nasal cannula oxygen.\n\telse：\n\t\tPatients with acute heart failure can be administered oxygen therapy, such as oxygen mask."
+  },
+  {
+    "text": "Atrial fibrillation patients @ For patients with atrial fibrillation and concurrent heart failure or reduced left ventricular ejection fraction (LVEF), catheter ablation may be considered when heart failure is related to atrial fibrillation.",
+    "pseudocode": "if Atrial fibrillation patients have concurrent heart failure or reduced left ventricular ejection fraction (LVEF)：\n\tif Heart failure is related to atrial fibrillation：\n\t\tCatheter ablation may be considered for patients with atrial fibrillation.\n\telse：\n\t\tNo specific treatment is mentioned for patients with atrial fibrillation."
+  },
+  {
+    "text": "Patients with primary liver cancer @ For patients with CNLC stage IIb liver cancer, in most cases, surgical resection is not the preferred initial choice. Instead, non-surgical treatments, mainly TACE, are recommended. Surgical resection may be considered if the tumor is localized within the same segment or half of the liver on one side.",
+    "pseudocode": "if Patients with primary liver cancer have CNLC stage IIb liver cancer：\n\tNon-surgical treatments, mainly TACE, are recommended for patients with primary liver cancer.\nelse：\n\tif The tumor is localized within the same segment or half of the liver on one side：\n\t\tSurgical resection may be considered for patients with primary liver cancer."
+  },
+  {
+    "text": "Patients with liver cancer @ Patients with hemoglobin levels less than 80g/L may be considered for red blood cell transfusion or drug therapy. Platelet transfusion may be considered in patients with reduced platelet counts.",
+    "pseudocode": "if Patients with liver cancer have hemoglobin levels less than 80g/L：\n\tif Patients with liver cancer have reduced platelet counts：\n\t\tPatients with liver cancer may consider platelet transfusion.\n\telse：\n\t\tPatients with liver cancer may consider red blood cell transfusion or drug therapy."
+  },
+  {
+    "text": "Patients with DVT @ For patients in the chronic phase of deep vein thrombosis (DVT), it is recommended to administer venous active medications.",
+    "pseudocode": "if Patients with DVT are in the chronic phase of deep vein thrombosis (DVT)：\n\tAdminister venous active medications to patients with DVT."
+  },
+  {
+    "text": "Patients with sinusitis @ Perform surgery for cases with nasal deformities of a nasal blockage type.",
+    "pseudocode": "if Patients with sinusitis have nasal deformities of a nasal blockage type：\n\tPerform surgery for patients with sinusitis."
+  },
+  {
+    "text": "Patients with AI @ Individuals under the age of 40 or with a history of malignant tumors are at high risk for malignant AI and may consider surgical treatment.",
+    "pseudocode": "if Patients with AI are under the age of 40 or have a history of malignant tumors：\n\tPatients with AI are at high risk for malignant AI.\n\tPatients with AI may consider surgical treatment."
+  },
+  {
+    "text": "Patients with MMA and PA @ RANKL-inhibitors (eg, dezotamab) are an option for patients with osteoporosis and relative contraindications (eg, renal failure).",
+    "pseudocode": "if Patients with MMA and PA have osteoporosis and relative contraindications (eg, renal failure)：\n\tPatients with MMA and PA can use RANKL-inhibitors (eg, dezotamab).\nelse：\n\tThere is no specific treatment mentioned for patients with MMA and PA in the given text."
+  },
+  {
+    "text": "Patients with acute heart failure @ Renal replacement therapy may be indicated for patients with severe hyperkalemia or severe acidosis.",
+    "pseudocode": "if Patients with acute heart failure have severe hyperkalemia or severe acidosis：\n\tRenal replacement therapy may be indicated for patients with acute heart failure."
+  },
+  {
+    "text": "Patients with keloid @ For patients with extremely large keloids who are not suitable for surgery, all are categorized under the principle of non-surgical treatment. Otherwise, for those suitable for surgery, the preferred treatment approach remains surgical intervention supplemented by postoperative radiation and chemotherapy as a comprehensive treatment strategy.",
+    "pseudocode": "if Patients with keloid are not suitable for surgery：\n\tPatients with keloid should be treated with non-surgical treatment.\nelse：\n\tif Patients with keloid are suitable for surgery：\n\t\tPatients with keloid should undergo surgical intervention.\n\t\tPatients with keloid should receive postoperative radiation and chemotherapy as a comprehensive treatment strategy."
+  },
+  {
+    "text": "Patients with NSCLC @ For patients with locally advanced NSCLC, concurrent chemoradiation is recommended. ",
+    "pseudocode": "if Patients with NSCLC have locally advanced NSCLC：\n\tconcurrent chemoradiation is recommended for patients with NSCLC."
+  },
+  {
+    "text": "Patients with allergic rhinitis @ For patients with severe drowsiness, urinary disorders, glaucoma, or asthma, first-generation antihistamines should be avoided.",
+    "pseudocode": "if Patients with allergic rhinitis have severe drowsiness, urinary disorders, glaucoma, or asthma：\n\tFirst-generation antihistamines should be avoided for patients with allergic rhinitis."
+  },
+  {
+    "text": "Patients with allergic rhinitis @ For severe cases with severe sneezing and rhinorrhea, combine second-generation antihistamine with nasal spray steroids.",
+    "pseudocode": "if Patients with allergic rhinitis have severe sneezing and rhinorrhea：\n\tPatients with allergic rhinitis can combine second-generation antihistamine with nasal spray steroids."
+  },
+  {
+    "text": "Patients with rheumatoid arthritis @ In patients who have contraindications or early intolerance to methotrexate, leflunomide and sulfasalazine are good alternatives",
+    "pseudocode": "if Patients with rheumatoid arthritis have contraindications or early intolerance to methotrexate：\n\tif Patients with rheumatoid arthritis have contraindications to methotrexate：\n\t\tLeflunomide is a good alternative for patients with rheumatoid arthritis.\n\telif Patients with rheumatoid arthritis have early intolerance to methotrexate：\n\t\tSulfasalazine is a good alternative for patients with rheumatoid arthritis."
+  },
+  {
+    "text": "Patients with NSCLC @ For stage I NSCLC patients with contraindications for surgery or refusing surgery due to medical conditions, large fractionation radiotherapy is an effective radical therapy, and SBRT is recommended.",
+    "pseudocode": "if Patients with NSCLC have contraindications for surgery or refuse surgery due to medical conditions：\n\tif Patients with stage I NSCLC：\n\t\tLarge fractionation radiotherapy is an effective radical therapy for patients with NSCLC.\n\telse：\n\t\tSBRT is recommended for patients with NSCLC."
+  },
+  {
+    "text": "Patients with candidiasis @ For patients unable to tolerate an oral agent, intravenous fluconazole, an echinocandin, or AmB-d is appropriate.",
+    "pseudocode": "if Patients with candidiasis are unable to tolerate an oral agent：\n\tPatients with candidiasis can use intravenous fluconazole, an echinocandin, or AmB-d."
+  },
+  {
+    "text": "Patients with keloid @ Non-surgical treatment is recommended for generalized/diffuse keloids.",
+    "pseudocode": "if Patients with keloid have generalized/diffuse keloids：\n\tNon-surgical treatment is recommended for patients with keloids."
+  },
+  {
+    "text": "Patients with inflammatory bowel disease @ Surgery is indicated in patients who have become medically resistant, have intolerable side effects, or presents with life-threatening conditions.",
+    "pseudocode": "if Patients with inflammatory bowel disease have become medically resistant：\n\tSurgery is indicated for patients with inflammatory bowel disease.\nelif Patients with inflammatory bowel disease have intolerable side effects：\n\tSurgery is indicated for patients with inflammatory bowel disease.\nelif Patients with inflammatory bowel disease present with life-threatening conditions：\n\tSurgery is indicated for patients with inflammatory bowel disease."
+  },
+  {
+    "text": "Patients with NSCLC @ The following local treatments are optional for patients unable to undergo surgery or unable to undergo radiotherapy: bronchoscope-mediated laser, high-frequency electrotome, radiofrequency ablation, argon plasma coagulation (APC), microwave, laser.",
+    "pseudocode": "if Patients with NSCLC are unable to undergo surgery or unable to undergo radiotherapy：\n\tif Patients with NSCLC can undergo bronchoscope-mediated laser：\n\t\tBronchoscope-mediated laser is an optional local treatment for patients with NSCLC.\n\telif Patients with NSCLC can undergo high-frequency electrotome：\n\t\tHigh-frequency electrotome is an optional local treatment for patients with NSCLC.\n\telif Patients with NSCLC can undergo radiofrequency ablation：\n\t\tRadiofrequency ablation is an optional local treatment for patients with NSCLC.\n\telif Patients with NSCLC can undergo argon plasma coagulation (APC)：\n\t\tArgon plasma coagulation (APC) is an optional local treatment for patients with NSCLC.\n\telif Patients with NSCLC can undergo microwave：\n\t\tMicrowave is an optional local treatment for patients with NSCLC.\n\telif Patients with NSCLC can undergo laser：\n\t\tLaser is an optional local treatment for patients with NSCLC."
+  },
+  {
+    "text": "Patients with liver cancer @ For liver cancer cases where intraoperative exploration reveals that surgical resection is not suitable, intraoperative measures such as catheterization for hepatic artery and portal vein chemotherapy or other local treatment options may be considered.",
+    "pseudocode": "if Patients with liver cancer have intraoperative exploration revealing that surgical resection is not suitable：\n\tPatients with liver cancer can consider intraoperative measures such as catheterization for hepatic artery and portal vein chemotherapy or other local treatment options."
+  },
+  {
+    "text": "Patients with chronic diarrhea @ For patients without mental or psychological disorders, if conventional drug therapy does not yield satisfactory results after 4 to 8 weeks, the use of antidepressant medications may be recommended.",
+    "pseudocode": "if Patients with chronic diarrhea do not have mental or psychological disorders：\n\tif Conventional drug therapy does not yield satisfactory results after 4 to 8 weeks：\n\t\tThe use of antidepressant medications may be recommended for patients with chronic diarrhea."
+  },
+  {
+    "text": "Patients with sclerosing cholangitis @ Elective TIPS is an effective option for treatment failures/intolerance to secondary prophylaxis of variceal bleeding or in patients with refractory ascites.",
+    "pseudocode": "if Patients with sclerosing cholangitis have treatment failures/intolerance to secondary prophylaxis of variceal bleeding or have refractory ascites：\n\tElective TIPS is an effective option for patients with sclerosing cholangitis."
+  },
+  {
+    "text": "CBP and CP/CPPS patients @ Repeated use of antibiotics, such as quinolones, should be avoided where no obvious benefit from infection control is evident or cultures do not support an infective cause.",
+    "pseudocode": "if CBP and CP/CPPS patients have obvious benefit from infection control or cultures support an infective cause：\n\trepeated use of antibiotics, such as quinolones, should be avoided.\nelse：\n\trepeated use of antibiotics, such as quinolones, can be considered."
+  },
+  {
+    "text": "Patients with knee osteoarthritis @ Arthroscopic partial meniscectomy can be used for the treatment of meniscal tears in patients with concomitant mild to moderate osteoarthritis who have failed physical therapy or failed other nonsurgical treatments.",
+    "pseudocode": "if Patients with knee osteoarthritis have concomitant mild to moderate osteoarthritis and have failed physical therapy or failed other nonsurgical treatments：\n\tArthroscopic partial meniscectomy can be used for the treatment of meniscal tears in patients with knee osteoarthritis."
+  },
+  {
+    "text": "Patients with recurrent respiratory tract infections @ Empirical treatment for early-stage upper respiratory viral infections may include the use of broad-spectrum alpha interferon through local throat spray. For lower respiratory tract infections, it is recommended to conduct early testing for multiple pathogens.",
+    "pseudocode": "if Patients with recurrent respiratory tract infections have early-stage upper respiratory viral infections：\n\tEmpirical treatment may include the use of broad-spectrum alpha interferon through local throat spray.\nelif Patients with recurrent respiratory tract infections have lower respiratory tract infections：\n\tIt is recommended to conduct early testing for multiple pathogens."
+  },
+  {
+    "text": "Patients with viral hepatitis @ In those with eGFR <30, SOF-based regimens  are currently not indicated.",
+    "pseudocode": "if Patients with viral hepatitis have eGFR < 30：\n\tSOF-based regimens are currently not indicated for patients with viral hepatitis."
+  },
+  {
+    "text": "Pregnant patients with acute pulmonary embolism @ For patients without shock or persistent hypotension, low-molecular-weight heparin therapy is recommended, and the dosage should be adjusted according to weight. Generally, monitoring is not necessary, but for patients with extreme weight or kidney disease, anti Xa factor activity should be monitored.",
+    "pseudocode": "if patient with acute pulmonary thromboembolism is pregnant：\n\tif Pregnant patients with acute pulmonary thromboembolism have severe hypotension and shock：\n\t\tPatients with acute pulmonary thromboembolism can use thrombolytic therapy.\n\telse：\n\t\tLow molecular weight heparin is the first choice for patients with acute pulmonary thromboembolism.\nelse：\n\tLow molecular weight heparin is the first choice for patients with acute pulmonary thromboembolism."
+  },
+  {
+    "text": "Atrial fibrillation patients @ In patients with hypertrophic cardiomyopathy complicated by atrial fibrillation, oral anticoagulation should be initiated directly for treatment.",
+    "pseudocode": "if patients have hypertrophic cardiomyopathy complicated by atrial fibrillation：\n\tPatients with hypertrophic cardiomyopathy complicated by atrial fibrillation should initiate oral anticoagulation directly for treatment."
+  },
+  {
+    "text": "Patients with rheumatoid arthritis @ Rituximab therapy may be considered in patients who have had cancer within the past 5 years, those with a history of lymphoma, those with high-risk tuberculosis, and those with multiple sclerosis.",
+    "pseudocode": "if Patients with rheumatoid arthritis have had cancer within the past 5 years：\n\tRituximab therapy may be considered for patients with rheumatoid arthritis.\nelif Patients with rheumatoid arthritis have a history of lymphoma：\n\tRituximab therapy may be considered for patients with rheumatoid arthritis.\nelif Patients with rheumatoid arthritis have high-risk tuberculosis：\n\tRituximab therapy may be considered for patients with rheumatoid arthritis.\nelif Patients with rheumatoid arthritis have multiple sclerosis：\n\tRituximab therapy may be considered for patients with rheumatoid arthritis."
+  },
+  {
+    "text": "Patients with hepatolenticular degeneration @ For asymptomatic WD patients identified through screening, early administration of zinc supplements or D-penicillamine for copper chelation can be considered in addition to a low-copper diet.",
+    "pseudocode": "if Patients with hepatolenticular degeneration are asymptomatic WD patients identified through screening：\n\tPatients with hepatolenticular degeneration can consider early administration of zinc supplements or D-penicillamine for copper chelation in addition to a low-copper diet."
+  },
+  {
+    "text": "Patient with gastric cancer @ For patients with posterior gastric wall lesions, postoperative radiotherapy is recommended.",
+    "pseudocode": "if Patient with gastric cancer has posterior gastric wall lesions：\n\tPostoperative radiotherapy is recommended for patients with gastric cancer."
+  },
+  {
+    "text": "Patients with acute heart failure @ If conventional oxygen therapy is unsatisfactory, or if the respiratory rate is > 25 breaths/min and SpO2 is < 90%, non-invasive positive pressure ventilation should be initiated promptly.",
+    "pseudocode": "if Patients with acute heart failure have unsatisfactory conventional oxygen therapy：\n\tPromptly initiate non-invasive positive pressure ventilation.\nelif Patients with acute heart failure have respiratory rate > 25 breaths/min and SpO2 < 90%：\n\tPromptly initiate non-invasive positive pressure ventilation."
+  },
+  {
+    "text": "Patients with simple hallux valgus @ For mismatched joints, consider Silver soft tissue surgery first. For matched joints, proceed with a corrective DMAA procedure.",
+    "pseudocode": "if Patients with simple hallux valgus have mismatched joints：\n\tPatients with simple hallux valgus should consider Silver soft tissue surgery first.\nelif Patients with simple hallux valgus have matched joints：\n\tPatients with simple hallux valgus should proceed with a corrective DMAA procedure."
+  },
+  {
+    "text": "Patients with achalasia @ After surgery, if the patient has a mild pneumothorax with lung compression volume less than 30%, stable breathing, and blood oxygen saturation greater than 95%, special treatment is usually not required; for pneumothorax with lung compression volume exceeding 30%, thoracentesis is feasible Closed drainage.",
+    "pseudocode": "if Patients with achalasia have mild pneumothorax with lung compression volume less than 30%：\n\tif Patients with achalasia have stable breathing and blood oxygen saturation greater than 95%：\n\t\tSpecial treatment is usually not required for patients with achalasia after surgery.\nelif Patients with achalasia have pneumothorax with lung compression volume exceeding 30%：\n\tThoracentesis is feasible closed drainage for patients with achalasia after surgery."
+  },
+  {
+    "text": "Patients with hallux valgus @ For middle-aged to elderly patients with mild to moderately displaced thumb arthritis, recommending arthroplasty surgery is appropriate.",
+    "pseudocode": "if Patients with hallux valgus have mild to moderately displaced thumb arthritis：\n\trecommending arthroplasty surgery is appropriate for middle-aged to elderly patients with hallux valgus."
+  },
+  {
+    "text": "Patients with chronic pancreatitis @ For patients with severe malnutrition, insulin therapy is the preferred choice.",
+    "pseudocode": "if Patients with chronic pancreatitis have severe malnutrition：\n\tPatients with chronic pancreatitis can use insulin therapy."
+  },
+  {
+    "text": "heart failure patients @ For patients with severe hyponatremia (serum sodium <130mmol/L), water intake should be restricted to less than 2 L/day. In cases of severe heart failure accompanied by significant wasting (cardiac cachexia), nutritional support should be provided.",
+    "pseudocode": "if heart failure patients have severe hyponatremia (serum sodium <130mmol/L)：\n\trestrict water intake to less than 2 L/day.\nelif heart failure patients have severe heart failure accompanied by significant wasting (cardiac cachexia)：\n\tprovide nutritional support."
+  },
+  {
+    "text": "Patients with thyroid carcinoma @ Thyroid nodules with diameter >1 cm and more than one malignant ultrasound signs, are recommended for US-FNAB. US-FNAB is not recommended for thyroid nodules with diameter ≤1 cm, unless the following conditions: A) abnormal cervical lymph nodes observed;",
+    "pseudocode": "if Patients with thyroid carcinoma have thyroid nodules with diameter >1 cm and more than one malignant ultrasound signs：\n\tPatients with thyroid carcinoma are recommended for US-FNAB.\nelif Patients with thyroid carcinoma have thyroid nodules with diameter ≤1 cm and abnormal cervical lymph nodes observed：\n\tPatients with thyroid carcinoma are recommended for US-FNAB."
+  },
+  {
+    "text": "Patients with breast cancer @ For high-risk premenopausal patients, if the patient remains premenopausal after 5 years of tamoxifen, tamoxifen to 10 years may be considered. If the patient becomes postmenopausal during tamoxifen treatment, aromatase inhibitor for another 5 years after 5 years of tamoxifen may be considered.",
+    "pseudocode": "if Patients with breast cancer are high-risk premenopausal patients：\n\tif Patients with breast cancer remain premenopausal after 5 years of tamoxifen：\n\t\tTamoxifen for 10 years may be considered for patients with breast cancer.\n\telif Patients with breast cancer become postmenopausal during tamoxifen treatment：\n\t\tAromatase inhibitor for another 5 years after 5 years of tamoxifen may be considered for patients with breast cancer."
+  },
+  {
+    "text": "bladder cancer patients @ For patients with refractory hematuria in bladder cancer, palliative cystectomy and urinary diversion are effective treatment options.",
+    "pseudocode": "if bladder cancer patients have refractory hematuria：\n\tbladder cancer patients can choose palliative cystectomy and urinary diversion as effective treatment options."
+  },
+  {
+    "text": "Patients with sclerosing cholangitis @ Low-to-medium-dose UDCA (10-15 mg/kg/d) can be given in patients with ABCB4 deﬁciency。  ",
+    "pseudocode": "if Patients with sclerosing cholangitis have ABCB4 deficiency：\n\tPatients with sclerosing cholangitis can be given low-to-medium-dose UDCA (10-15 mg/kg/d)."
+  },
+  {
+    "text": "Patients with ABP @ Patients with ABP and concomitant extrahepatic biliary obstruction may be considered for treatment with local anesthesia under percutaneous transhepatic gallbladder drainage or percutaneous transhepatic bile duct drainage.",
+    "pseudocode": "if Patients with ABP have concomitant extrahepatic biliary obstruction：\n\tPatients with ABP can be considered for treatment with local anesthesia under percutaneous transhepatic gallbladder drainage.\nelse：\n\tPatients with ABP can be considered for treatment with percutaneous transhepatic bile duct drainage."
+  },
+  {
+    "text": "Patients with primary biliary cholangitis @ For patients with an insufficient response to UDCA, adding a second-line therapy such as obeticholic acid, fibrates, and budesonide can be considered.",
+    "pseudocode": "if Patients with primary biliary cholangitis have an insufficient response to UDCA：\n\tPatients with primary biliary cholangitis can consider adding a second-line therapy such as obeticholic acid, fibrates, and budesonide."
+  },
+  {
+    "text": "Patients with autoimmune hepatitis @ Therefore, as a first-line treatment, budesonide and AZA combination therapy can be selectively considered in patients with autoimmune hepatitis without cirrhosis who are highly likely to have glucocorticoid-induced adverse effects, or when prednisolone administration is not possible due to adverse effects.",
+    "pseudocode": "if Patients with autoimmune hepatitis do not have cirrhosis and are highly likely to have glucocorticoid-induced adverse effects or prednisolone administration is not possible due to adverse effects：\n\tPatients with autoimmune hepatitis can consider budesonide and AZA combination therapy as a first-line treatment."
+  },
+  {
+    "text": "Patients with malignant gastric obstruction @ For patients with mid-gastric obstruction or distal gastric obstruction who are unable to eat, a jejunal feeding tube can be placed.",
+    "pseudocode": "if Patients with malignant gastric obstruction have mid-gastric obstruction or distal gastric obstruction and are unable to eat：\n\tPatients with malignant gastric obstruction can have a jejunal feeding tube placed."
+  },
+  {
+    "text": "patients with aortic stenosis @ If a patient with aortic valve stenosis experiences symptoms such as shortness of breath, angina, or fainting during exertion, or if there is evidence of left ventricular failure, surgical replacement of the diseased valve is recommended.",
+    "pseudocode": "if patients with aortic stenosis have symptoms such as shortness of breath, angina, or fainting during exertion, or evidence of left ventricular failure：\n\tsurgical replacement of the diseased valve is recommended for patients with aortic stenosis."
+  },
+  {
+    "text": "Patients with WD @ For WD patients with varying degrees of liver damage, neurological or psychiatric symptoms, and those allergic or intolerant to D-penicillamine, dithio-dimercaptosuccinic acid may be used in combination with zinc supplementation for treatment.",
+    "pseudocode": "if Patients with WD have varying degrees of liver damage, neurological or psychiatric symptoms, and are allergic or intolerant to D-penicillamine：\n\tPatients with WD can use dithio-dimercaptosuccinic acid in combination with zinc supplementation for treatment."
+  },
+  {
+    "text": "Patients with thrombocytopenia in cancer patients with liver injury @ For patients with severe splenic hyperfunction/splenomegaly, invasive treatments such as splenic embolization or splenectomy may be considered. In cases where invasive treatments are contraindicated, treatment with recombinant human thrombopoietin or thrombopoietin receptor agonists may be considered.",
+    "pseudocode": "if Patients with thrombocytopenia in cancer patients with liver injury have severe splenic hyperfunction/splenomegaly：\n\tif Invasive treatments such as splenic embolization or splenectomy are not contraindicated：\n\t\tPatients with thrombocytopenia in cancer patients with liver injury can consider invasive treatments.\n\telse：\n\t\tPatients with thrombocytopenia in cancer patients with liver injury can consider treatment with recombinant human thrombopoietin or thrombopoietin receptor agonists."
+  },
+  {
+    "text": "Patient with gastric cancer @ For the patients with an allergy to β-lactamase, clindamycin + aminoglycosides can be recommended.",
+    "pseudocode": "if Patient with gastric cancer has an allergy to β-lactamase：\n\tPatient with gastric cancer can take clindamycin + aminoglycosides."
+  },
+  {
+    "text": "Patients with cirrhosis @ For acute variceal bleeding patients with hepatic venous pressure gradient ≥20 mmHg, early transjugular intrahepatic portosystemic shunt is recommended.",
+    "pseudocode": "if Patients with cirrhosis have acute variceal bleeding and hepatic venous pressure gradient ≥20 mmHg：\n\tEarly transjugular intrahepatic portosystemic shunt is recommended for patients with cirrhosis."
+  },
+  {
+    "text": "Patients with NSCLC @ For airway stenosis and airway fistula that cannot be relieved by conventional treatment, internal stent implantation should be considered as the main treatment. ",
+    "pseudocode": "if Patients with NSCLC have airway stenosis and airway fistula that cannot be relieved by conventional treatment：\n\tInternal stent implantation should be considered as the main treatment for patients with NSCLC."
+  },
+  {
+    "text": "Patients with PSC @ Therapeutic endoscopic intervention is recommended in children with high-grade strictures on imaging and signs or symptoms of obstructive cholestasis or bacterial cholangitis. ",
+    "pseudocode": "if Patients with PSC have high-grade strictures on imaging and signs or symptoms of obstructive cholestasis or bacterial cholangitis：\n\tTherapeutic endoscopic intervention is recommended for children with PSC."
+  },
+  {
+    "text": "Patients with acute heart failure @ For patients with refractory volume overload and poor diuretic response, ultrafiltration therapy can be considered.",
+    "pseudocode": "if Patients with acute heart failure have refractory volume overload and poor diuretic response：\n\tPatients with acute heart failure can consider ultrafiltration therapy."
+  },
+  {
+    "text": "Patients with PVT @ For patients with acute PVT, anticoagulant therapy is recommended if there is acute complete thrombosis of the main portal vein.",
+    "pseudocode": "if Patients with PVT have acute complete thrombosis of the main portal vein：\n\tPatients with PVT can use anticoagulant therapy.\nelse：\n\tNo specific decision-making process is mentioned in the given text."
+  },
+  {
+    "text": "Patients with primary liver cancer @ For patients with CNLC stage IIIb liver cancer accompanied by metastasis to the hepatic hilar lymph nodes, consideration may be given to tumor resection along with hepatic hilar lymph node dissection or postoperative external beam radiotherapy.",
+    "pseudocode": "if Patients with primary liver cancer have CNLC stage IIIb liver cancer accompanied by metastasis to the hepatic hilar lymph nodes：\n\tif Patients with primary liver cancer have well-compensated liver function and no cirrhosis：\n\t\tTumor resection along with hepatic hilar lymph node dissection may be considered for patients with primary liver cancer.\n\telse：\n\t\tPostoperative external beam radiotherapy may be considered for patients with primary liver cancer."
+  },
+  {
+    "text": "Patients with primary biliary cholangitis @ UDCA at 13-15 mg/kg/d for life-long is a standard therapy for all PBC patients. OCA at a dose of 5-10 mg/d is recommended for patients with suboptimal biochemical response to UDCA.",
+    "pseudocode": "if Patients with primary biliary cholangitis have suboptimal biochemical response to UDCA：\n\tPatients with primary biliary cholangitis can take OCA at a dose of 5-10 mg/d.\nelse：\n\tUDCA at 13-15 mg/kg/d for life-long is a standard therapy for all PBC patients."
+  },
+  {
+    "text": "Patients with acute hepatitis @ Patients with cholestasis can use ursodeoxycholic acid, etc.",
+    "pseudocode": "if Patients with acute hepatitis have cholestasis：\n\tPatients with acute hepatitis can use ursodeoxycholic acid."
+  },
+  {
+    "text": "Patients with CP @ For patients with painful chronic pancreatitis accompanied by pancreatic duct dilation and no complications, endoscopic therapy is often the preferred initial treatment.",
+    "pseudocode": "if Patients with CP have painful chronic pancreatitis accompanied by pancreatic duct dilation and no complications：\n\t\tEndoscopic therapy is often the preferred initial treatment for patients with CP."
+  },
+  {
+    "text": "Patients with AI @ For patients with fewer risk factors for malignant adrenal incidentalomas, surgical resection is recommended if during follow-up, the maximum diameter increases by more than 20% and increases by >5 mm, or if there are clinical manifestations of malignant tumors (such as cachexia) or imaging features, or hormonal secretion abnormalities. If no abnormalities are observed during follow-up for 2 to 5 years, it is advisable to reduce the frequency of follow-up until discontinuation.",
+    "pseudocode": "if Patients with AI have fewer risk factors for malignant adrenal incidentalomas：\n\tif during follow-up, the maximum diameter increases by more than 20% and increases by >5 mm, or if there are clinical manifestations of malignant tumors (such as cachexia) or imaging features, or hormonal secretion abnormalities：\n\t\tSurgical resection is recommended for patients with AI.\n\telif no abnormalities are observed during follow-up for 2 to 5 years：\n\t\tIt is advisable to reduce the frequency of follow-up until discontinuation."
+  },
+  {
+    "text": "Patients with CRC @ For postoperative CRC patients with malnutrition, it is recommended to continue nutritional therapy for 4 to 8 weeks after discharge. Standard formula oral nutritional supplements (ONS) are recommended during this period.",
+    "pseudocode": "if postoperative CRC patients have malnutrition：\n\tcontinue nutritional therapy for 4 to 8 weeks after discharge.\n\tif continue nutritional therapy for 4 to 8 weeks after discharge：\n\t\trecommend standard formula oral nutritional supplements (ONS) during this period."
+  },
+  {
+    "text": "Patients with keloid @ For scars with a diameter <1.5 cm, a comprehensive treatment approach may include intralesional corticosteroid injections, along with silicone products, scar-reducing topical medications, and compression therapy. If the keloid is larger than 2.0 cm and exhibits a persistent growth trend, consideration may be given to the partial excision of the keloid followed by wound closure.",
+    "pseudocode": "if Patients with keloid have a diameter <1.5 cm：\n\tPatients with keloid can receive a comprehensive treatment approach including intralesional corticosteroid injections, silicone products, scar-reducing topical medications, and compression therapy.\nelif Patients with keloid have a diameter >2.0 cm and exhibit a persistent growth trend：\n\tConsideration may be given to the partial excision of the keloid followed by wound closure."
+  },
+  {
+    "text": "Patients with OSA @ Oral appliance treatment is suitable for patients with simple snoring and mild to moderate OSA.",
+    "pseudocode": "if Patients with OSA have simple snoring and mild to moderate OSA：\n\tOral appliance treatment is suitable for patients with OSA."
+  },
+  {
+    "text": "Patient with gastric cancer @ For primary tumors or metastatic tumors, gastrectomy combined with resection of involved organs can be used to achieve cure. If the tumor is located in the greater curvature and is not metastatic, lymphadenectomy and total gastrectomy and splenectomy should be considered. In other cases, prophylactic splenectomy is not recommended unless the tumor directly invades the spleen.",
+    "pseudocode": "if Patient with gastric cancer has primary tumors or metastatic tumors：\n\tif Tumor is located in the greater curvature and is not metastatic：\n\t\tLymphadenectomy and total gastrectomy and splenectomy should be considered.\n\telse：\n\t\tGastrectomy combined with resection of involved organs can be used to achieve cure.\nelse：\n\tProphylactic splenectomy is not recommended unless the tumor directly invades the spleen."
+  },
+  {
+    "text": "Mitral valve stenosis patients @ Asymptomatic patients with mitral stenosis do not require treatment, but long-term antibiotic prophylaxis may be needed to prevent future episodes of rheumatic fever. Symptomatic patients may be treated with diuretics and β-blockers or calcium channel blockers.",
+    "pseudocode": "if Mitral valve stenosis patients are asymptomatic：\n\tNo treatment is required for asymptomatic patients with mitral stenosis.\nelse：\n\tif Mitral valve stenosis patients are symptomatic：\n\t\tMitral valve stenosis patients can be treated with diuretics and β-blockers or calcium channel blockers.\n\telse：\n\t\tLong-term antibiotic prophylaxis may be needed to prevent future episodes of rheumatic fever for Mitral valve stenosis patients."
+  },
+  {
+    "text": "Elderly patients with osteoporosis @ For patients who have good compliance, giving alendronate sodium can effectively improve the bone density of the lumbar spine, femoral neck and total hip; for patients who cannot take it orally or have poor compliance, zoledronic acid can be chosen.",
+    "pseudocode": "if Elderly patients with osteoporosis have good compliance：\n\tElderly patients with osteoporosis can take alendronate sodium to improve bone density.\nelif Elderly patients with osteoporosis cannot take it orally or have poor compliance：\n\tElderly patients with osteoporosis can choose zoledronic acid."
+  },
+  {
+    "text": "Patients with gastroesophageal reflux disease @ We suggest consideration of TIF for patients with troublesome regurgitation or heartburn who do not wish to undergo antireflux surgery and who do not have severe reflux esophagitis (LA grade C or D) or hiatal hernias >2 cm.",
+    "pseudocode": "if Patients with gastroesophageal reflux disease have troublesome regurgitation or heartburn and do not wish to undergo antireflux surgery and do not have severe reflux esophagitis (LA grade C or D) or hiatal hernias >2 cm：\n\tTIF can be considered for patients with gastroesophageal reflux disease."
+  },
+  {
+    "text": "Patients with allergic rhinitis @ For symptoms of sneezing and rhinorrhea type, use a combination of nasal topical steroids and second-generation antihistamine. For symptoms of the nasal blockage type and those of combined type, add leukotriene receptor antagonists or a prostaglandin D2 / thromboxane A2 receptor antagonist.",
+    "pseudocode": "if Patients with allergic rhinitis have symptoms of sneezing and rhinorrhea type：\n\tPatients with allergic rhinitis can use a combination of nasal topical steroids and second-generation antihistamine.\nelif Patients with allergic rhinitis have symptoms of the nasal blockage type or combined type：\n\tPatients with allergic rhinitis can add leukotriene receptor antagonists or a prostaglandin D2 / thromboxane A2 receptor antagonist."
+  },
+  {
+    "text": "Patients with gastroesophageal reflux disease @ We recommend consideration of MSA as an alternative to laparoscopic fundoplication for patients with regurgitation who fail medical management.",
+    "pseudocode": "if Patients with gastroesophageal reflux disease have regurgitation：\n\tif Patients with gastroesophageal reflux disease fail medical management：\n\t\tConsideration of MSA as an alternative to laparoscopic fundoplication is recommended for patients with gastroesophageal reflux disease."
+  },
+  {
+    "text": "Patients with liver cancer @ Liver cancer patients often have complications such as cirrhosis and splenomegaly. Consideration may be given to blood product transfusions or drug therapy. In patients with neutropenia, granulocyte colony-stimulating factor may be administered as appropriate.",
+    "pseudocode": "if Patients with liver cancer have complications such as cirrhosis and splenomegaly：\n\tConsideration may be given to blood product transfusions or drug therapy.\nelif Patients with liver cancer have neutropenia：\n\tGranulocyte colony-stimulating factor may be administered as appropriate."
+  },
+  {
+    "text": "Patients with PVT @ For patients with chronic PVT, if there is a genetic or acquired predisposition to thrombosis, anticoagulant therapy is recommended.",
+    "pseudocode": "if Patients with PVT have chronic PVT：\n\tif Patients with PVT have a genetic or acquired predisposition to thrombosis：\n\t\tAnticoagulant therapy is recommended for patients with chronic PVT."
+  },
+  {
+    "text": "Patients with NSCLC @ If the physical conditions permit, conformal radiotherapy combined with concurrent chemotherapy should be used in patients with stage II−III NSCLC who are unable to undergo surgery for physical reasons. ",
+    "pseudocode": "if Patients with NSCLC have stage II-III NSCLC and are unable to undergo surgery for physical reasons：\n\tif the physical conditions permit：\n\t\tPatients with NSCLC should use conformal radiotherapy combined with concurrent chemotherapy."
+  },
+  {
+    "text": "Patients with ascites @ Patients with bacterial peritonitis showing systemic inflammation or signs of infection should receive antibiotic therapy. Otherwise, a second abdominal paracentesis is required.",
+    "pseudocode": "if Patients with ascites have bacterial peritonitis showing systemic inflammation or signs of infection：\n\tPatients with ascites should receive antibiotic therapy.\nelse：\n\tA second abdominal paracentesis is required for patients with ascites."
+  },
+  {
+    "text": "Patients with liver failure @ When blood ammonia levels are significantly elevated or accompanied by hepatic encephalopathy, protein intake should be reduced to 1g/kg/d. Oral lactulose or high enema should be administered to promote bowel movements. If these measures are ineffective or if blood ammonia levels remain severely elevated, blood purification therapy should be considered.",
+    "pseudocode": "if Patients with liver failure have significantly elevated blood ammonia levels or hepatic encephalopathy：\n\tif Patients with liver failure have significantly elevated blood ammonia levels or hepatic encephalopathy and protein intake should be reduced to 1g/kg/d：\n\t\tPatients with liver failure should reduce protein intake to 1g/kg/d.\n\telif Patients with liver failure have significantly elevated blood ammonia levels or hepatic encephalopathy and should administer oral lactulose or high enema to promote bowel movements：\n\t\tPatients with liver failure should administer oral lactulose or high enema to promote bowel movements.\n\telif Patients with liver failure have significantly elevated blood ammonia levels or hepatic encephalopathy and these measures are ineffective or blood ammonia levels remain severely elevated：\n\t\tBlood purification therapy should be considered for patients with liver failure."
+  },
+  {
+    "text": "Patients with hallux valgus @ When the IMA is greater than 20°, and there is a semi-dislocation of the proximal phalanx base relative to the metatarsal head exceeding 50%, along with significant soft tissue contracture, the preferred recommendation is tarsometatarsal joint fusion surgery.",
+    "pseudocode": "if Patients with hallux valgus have IMA greater than 20° and semi-dislocation of the proximal phalanx base relative to the metatarsal head exceeding 50% along with significant soft tissue contracture：\n\tPatients with hallux valgus can undergo tarsometatarsal joint fusion surgery."
+  },
+  {
+    "text": "Patients with benign prostatic hyperplasia @ HoLEP, PVP, and ThuLEP should be considered as treatment options in patients who are at higher risk of bleeding.",
+    "pseudocode": "if Patients with benign prostatic hyperplasia are at higher risk of bleeding：\n\tif Patients with benign prostatic hyperplasia consider HoLEP as a treatment option.\n\telif Patients with benign prostatic hyperplasia consider PVP as a treatment option.\n\telif Patients with benign prostatic hyperplasia consider ThuLEP as a treatment option."
+  },
+  {
+    "text": "Patients with oral lichen planus @ For patients with oral lichen planus who do not respond well to topical corticosteroids, it is recommended to use calcineurin inhibitors such as tacrolimus and pimecrolimus, twice daily, as needed for 4 to 6 weeks.",
+    "pseudocode": "if Patients with oral lichen planus do not respond well to topical corticosteroids：\n\tPatients with oral lichen planus can use calcineurin inhibitors such as tacrolimus and pimecrolimus.\nelse：\n\tPatients with oral lichen planus do not need to use calcineurin inhibitors."
+  },
+  {
+    "text": "Patients with knee osteoarthritis @ Sustained weight loss is recommended to improve pain and function in overweight and obese patients with knee osteoarthritis.",
+    "pseudocode": "if Patients with knee osteoarthritis are overweight or obese：\n\tSustained weight loss is recommended to improve pain and function in patients with knee osteoarthritis."
+  },
+  {
+    "text": "Patients with ascites @ Large Volume Paracentesis (LVP) is the primary treatment for patients with significant or severe ascites, and it involves removing all ascitic fluid at once.",
+    "pseudocode": "if Patients with ascites have significant or severe ascites：\n\tLarge Volume Paracentesis (LVP) is the primary treatment for patients with ascites, involving removing all ascitic fluid at once."
+  },
+  {
+    "text": "Children with recurrent respiratory tract infections @ If the patient experiences mild cough, you may consider oral traditional Chinese medicine with lung-ventilating and cough-suppressing effects, such as Children's Cough Granules. For severe cough, combination with bronchodilators is advisable.",
+    "pseudocode": "if Children with recurrent respiratory tract infections have mild cough：\n\tChildren with recurrent respiratory tract infections can consider taking oral traditional Chinese medicine with lung-ventilating and cough-suppressing effects, such as Children's Cough Granules.\nelif Children with recurrent respiratory tract infections have severe cough：\n\tCombination with bronchodilators is advisable for children with recurrent respiratory tract infections."
+  },
+  {
+    "text": "Patients with allergic rhinitis @ For intractable rhinorrhea, perform posterior nasal neurectomy.",
+    "pseudocode": "if Patients with allergic rhinitis have intractable rhinorrhea：\n\tPerform posterior nasal neurectomy for patients with allergic rhinitis."
+  },
+  {
+    "text": "Patients with CKD @ For patients with CKD and co-infection of HBV/HCV, if HBsAG is positive, it is recommended to initiate a combination therapy with entecavir or tenofovir during and three months after DAA treatment. If HBsAG is negative but anti-HBc is positive, monitoring of HBsAG and HBV DNA is advised during and three months after the treatment (2C).",
+    "pseudocode": "if Patients with CKD have co-infection of HBV/HCV：\n\tif HBsAG is positive：\n\t\tIt is recommended to initiate a combination therapy with entecavir or tenofovir during and three months after DAA treatment.\n\telif HBsAG is negative but anti-HBc is positive：\n\t\tMonitoring of HBsAG and HBV DNA is advised during and three months after the treatment."
+  },
+  {
+    "text": "Children with onychomycosis@if the weight is <20kg, take terbinafine 62.5mg/d orally; if the weight is 20~40kg, take terbinafine 125mg/d orally.",
+    "pseudocode": "if Children with onychomycosis weigh less than 20kg：\n\tChildren with onychomycosis can take 62.5mg of terbinafine orally daily.\nelif Children with onychomycosis weigh between 20kg and 40kg：\n\tChildren with onychomycosis can take 125mg of terbinafine orally daily."
+  },
+  {
+    "text": "Patient with gastric cancer @ For patients with physical condition score ECOG≥2, fourth-line chemotherapy, unresectable primary gastric lesions, poor bone marrow functional reserve, and old and weak or thin female patients, to ensure the safety of patients and improve compliance, oral apatinib can be started from a low dose.",
+    "pseudocode": "if Patient with gastric cancer has physical condition score ECOG≥2：\n\tPatient with gastric cancer can start fourth-line chemotherapy.\nelif Patient with gastric cancer has unresectable primary gastric lesions, poor bone marrow functional reserve, and old and weak or thin female patients：\n\tPatient with gastric cancer can start oral apatinib from a low dose."
+  },
+  {
+    "text": "Patients with SAP @ For hemodynamically stable patients, options include intermittent hemodialysis, blood perfusion adsorption, or plasma perfusion adsorption as blood purification modes. For hemodynamically unstable patients, CRRT may be chosen.",
+    "pseudocode": "if Patients with SAP are hemodynamically stable：\n\tif Patients with SAP can choose intermittent hemodialysis as blood purification mode.\n\telif Patients with SAP can choose blood perfusion adsorption as blood purification mode.\n\telif Patients with SAP can choose plasma perfusion adsorption as blood purification mode.\nelif Patients with SAP are hemodynamically unstable：\n\tPatients with SAP can choose CRRT as blood purification mode."
+  },
+  {
+    "text": "Patients with hepatic hydatid disease @ For cases where a curative effect can be achieved through surgical means, radical methods should be considered whenever possible. In patients with hepatic hydatid disease for whom surgery cannot achieve a cure, if the patient is asymptomatic, surgical treatment should not be considered. Instead, drug therapy should be chosen to control the progression of the disease.",
+    "pseudocode": "if Patients with hepatic hydatid disease can achieve a cure through surgical means：\n\tif Radical methods can be used：\n\t\tRadical methods should be considered whenever possible for patients with hepatic hydatid disease.\nelif Surgery cannot achieve a cure for patients with hepatic hydatid disease：\n\tif Patients with hepatic hydatid disease are asymptomatic：\n\t\tSurgical treatment should not be considered for patients with hepatic hydatid disease. Instead, drug therapy should be chosen to control the progression of the disease."
+  },
+  {
+    "text": "Raynaud's disease patients @ For patients with recurrent attacks and severe symptoms but no fingertip atrophy, calcium channel blockers can be used. For patients with recurrent attacks of fingertip atrophy but no open ulcers, in addition to calcium channel blockers, drugs that affect sympathetic nerve activity can be added. For patients with recurrent attacks of severe ischemia, cyan skin, and open fingertip ulcers, intravenous infusion of the vasodilator prostaglandins can be used.",
+    "pseudocode": "if Raynaud's disease patients have recurrent attacks and severe symptoms but no fingertip atrophy：\n\tRaynaud's disease patients can use calcium channel blockers.\nelif Raynaud's disease patients have recurrent attacks of fingertip atrophy but no open ulcers：\n\tRaynaud's disease patients can use calcium channel blockers and drugs that affect sympathetic nerve activity.\nelif Raynaud's disease patients have recurrent attacks of severe ischemia, cyan skin, and open fingertip ulcers：\n\tRaynaud's disease patients can use intravenous infusion of the vasodilator prostaglandins."
+  },
+  {
+    "text": "CBP and CP/CPPS patients @ In patients with early‐stage CBP or CP/CPPS, use of opioids for pain management should be avoided, due to the risk of drug dependency.",
+    "pseudocode": "if patients have early-stage CBP or CP/CPPS：\n\tavoid using opioids for pain management."
+  },
+  {
+    "text": "Patients with gastroenteritis @ Mild dehydration can be treated with oral glucose electrolyte solutions and broth.. In cases of severe dehydration, isotonic intravenous fluids such as lactated Ringer's solution and normal saline should be administered.",
+    "pseudocode": "if Patients with gastroenteritis have mild dehydration：\n\tPatients with gastroenteritis can be treated with oral glucose electrolyte solutions and broth.\nelif Patients with gastroenteritis have severe dehydration：\n\tIsotonic intravenous fluids such as lactated Ringer's solution and normal saline should be administered for patients with gastroenteritis."
+  },
+  {
+    "text": "Patients with cholestatic hepatitis E @ For those with severe bile stasis, the consideration of using glucocorticoids might be beneficial.",
+    "pseudocode": "if Patients with cholestatic hepatitis E have severe bile stasis：\n\tThe consideration of using glucocorticoids might be beneficial for patients with cholestatic hepatitis E."
+  },
+  {
+    "text": "Patient with gastric cancer @ If the patient undergoes gastric cancer surgery with a type II incision, it is recommended to use prophylactic antibiotics.",
+    "pseudocode": "if Patient with gastric cancer undergoes gastric cancer surgery with a type II incision：\n\tPatient with gastric cancer is recommended to use prophylactic antibiotics."
+  },
+  {
+    "text": "Patients with adrenal accidental tumor @ Surgical intervention is recommended for adrenal incidentalomas with a nodule CT attenuation value >20 Hounsfield Units (HU) and evidence of malignant characteristics.",
+    "pseudocode": "if Patients with adrenal accidental tumor have a nodule CT attenuation value >20 Hounsfield Units (HU) and evidence of malignant characteristics：\n\tSurgical intervention is recommended for patients with adrenal accidental tumor."
+  },
+  {
+    "text": "Patients with MSAP/SAP @ For patients predicted to have MSAP/SAP with severe pain and concomitant cardiovascular or respiratory failure, epidural analgesia may be considered.",
+    "pseudocode": "if Patients with MSAP/SAP have severe pain and concomitant cardiovascular or respiratory failure：\n\tPatients with MSAP/SAP can consider epidural analgesia.\nelse：\n\tNo specific treatment is mentioned for patients with MSAP/SAP in the given text."
+  },
+  {
+    "text": "Patients with inflammatory bowel disease @ Oral 5-aminosalicylic acid (5-ASA) is the standard therapy for mild to moderately active IBD. ",
+    "pseudocode": "if Patients with inflammatory bowel disease have mild to moderately active IBD：\n\tPatients with inflammatory bowel disease can take oral 5-aminosalicylic acid (5-ASA) as the standard therapy."
+  },
+  {
+    "text": "CBP and CP/CPPS patients @ In patients describing typical neuropathic pain symptoms (e.g. ‘burning’, ‘shooting’ pain), or in any patient with persistent pain (>3 months), treat with appropriate anti‐neuropathic medication strategies.",
+    "pseudocode": "if CBP and CP/CPPS patients have typical neuropathic pain symptoms or persistent pain (>3 months)：\n\ttreat with appropriate anti-neuropathic medication strategies."
+  },
+  {
+    "text": "Patients with viral hepatitis @ For those with genotype 1 or 4 infection, options for therapy include  glecaprevir、pibrentasvir、sofosbuvir、ledipasvir",
+    "pseudocode": "if Patients with viral hepatitis have genotype 1 or 4 infection：\n\tPatients with viral hepatitis can choose glecaprevir, pibrentasvir, sofosbuvir, or ledipasvir for therapy."
+  },
+  {
+    "text": "Patients with keloid @ For patients with extremely large keloids who have contraindications such as diabetes, hypertension, endocrine disorders, or severe post-injection acne on the face (contraindications to corticosteroid injections), considering the use of isolated 5-FU injections along with laser therapy, silicone preparations, topical medications, and compression therapy may be an alternative treatment approach.",
+    "pseudocode": "if Patients with keloid have extremely large keloids and have contraindications such as diabetes, hypertension, endocrine disorders, or severe post-injection acne on the face：\n\tConsidering the use of isolated 5-FU injections along with laser therapy, silicone preparations, topical medications, and compression therapy may be an alternative treatment approach for patients with keloid."
+  },
+  {
+    "text": "Patients with allergic rhinitis @ For symptoms of nasal blockage or combined type, add nasal topical steroids with leukotriene receptor antagonists or prostaglandin D2/thromboxane A2 receptor antagonists.",
+    "pseudocode": "if Patients with allergic rhinitis have symptoms of nasal blockage or combined type：\n\tPatients with allergic rhinitis can add nasal topical steroids with leukotriene receptor antagonists or prostaglandin D2/thromboxane A2 receptor antagonists."
+  },
+  {
+    "text": "Patients with rheumatoid arthritis @ Follow-up evaluations and treatment adjustments are in order in patients who fail to improve within 3 months or to achieve their treatment target within 6 months.",
+    "pseudocode": "if Patients with rheumatoid arthritis fail to improve within 3 months：\n\tfollow-up evaluations and treatment adjustments are in order.\nelif Patients with rheumatoid arthritis fail to achieve their treatment target within 6 months：\n\tfollow-up evaluations and treatment adjustments are in order."
+  },
+  {
+    "text": "Patients with AI @ For patients determined to have bilateral secretion through AVS, surgery may be considered if they experience drug-related side effects or have difficulty maintaining long-term control of hypertension and hypokalemia with internal medicine treatment. In such cases, the option is to remove the adrenal gland with larger volume.",
+    "pseudocode": "if Patients with AI have bilateral secretion through AVS：\n\tif Patients with AI experience drug-related side effects or have difficulty maintaining long-term control of hypertension and hypokalemia with internal medicine treatment：\n\t\tSurgery may be considered for patients with AI.\n\telse：\n\t\tThe option is to remove the adrenal gland with larger volume for patients with AI."
+  },
+  {
+    "text": "Patients with rotavirus gastroenteritis @ In cases of severe dehydration, shock, altered mental status, or failure of oral rehydration therapy, or in the presence of intestinal obstruction, isotonic intravenous fluids such as lactated Ringer's solution and normal saline should be administered.",
+    "pseudocode": "if Patients with rotavirus gastroenteritis have severe dehydration, shock, altered mental status, or failure of oral rehydration therapy, or have intestinal obstruction：\n\tPatients with rotavirus gastroenteritis should be administered isotonic intravenous fluids such as lactated Ringer's solution and normal saline."
+  },
+  {
+    "text": "Patient with gastric cancer @ For patients with early detection of precancerous lesions, traditional Chinese medicine treatment can be selected, such as adjusting diet and adjusting lifestyle.",
+    "pseudocode": "if Patient with gastric cancer have early detection of precancerous lesions：\n\tPatients with gastric cancer can select traditional Chinese medicine treatment, such as adjusting diet and lifestyle.\nelse：\n\tNo specific decision-making process is mentioned for patients with gastric cancer in the given text."
+  },
+  {
+    "text": "Patients with MUTYH polyposis syndrome @ Surgery may be required for removal if there is cancer or if the burden of polyps is too significant.",
+    "pseudocode": "if Patients with MUTYH polyposis syndrome have cancer：\n\tSurgery may be required for removal.\nelif Patients with MUTYH polyposis syndrome have a significant burden of polyps：\n\tSurgery may be required for removal."
+  },
+  {
+    "text": "Patients with AAH @ In highly selected patients with severe AAH not responding to optimal medical therapy and supportive measures, LT may beconsidered",
+    "pseudocode": "if Patients with AAH are highly selected patients with severe AAH not responding to optimal medical therapy and supportive measures：\n\tLT may be considered for patients with AAH."
+  },
+  {
+    "text": "Patients with PVT @ For patients with non-cirrhotic, acute symptomatic PVT without contraindications, anticoagulant therapy is recommended as the first-line treatment.",
+    "pseudocode": "if Patients with PVT have non-cirrhotic, acute symptomatic PVT without contraindications：\n\tAnticoagulant therapy is recommended as the first-line treatment for patients with PVT."
+  },
+  {
+    "text": "Patients with liver cancer @ For 2-3 tumors located in different regions, or tumors situated deep within the liver or in a central location, a combination of ablation therapy and surgical resection can be considered.",
+    "pseudocode": "if Patients with liver cancer have 2-3 tumors located in different regions or tumors situated deep within the liver or in a central location：\n\tPatients with liver cancer can consider a combination of ablation therapy and surgical resection."
+  },
+  {
+    "text": "Patients with DILI @ For mild to moderate hepatocellular and mixed-type Drug-Induced Liver Injury (DILI), individuals with mild inflammation may consider using silymarin at a dose of 140 mg per administration, three times daily. For those with more severe inflammation, formulations containing glycyrrhizic acid could be considered.",
+    "pseudocode": "if Patients with DILI have mild to moderate hepatocellular and mixed-type Drug-Induced Liver Injury (DILI)：\n\tif Patients with DILI have mild inflammation：\n\t\tPatients with DILI can consider using silymarin at a dose of 140 mg per administration, three times daily.\n\telif Patients with DILI have more severe inflammation：\n\t\tPatients with DILI can consider using formulations containing glycyrrhizic acid."
+  },
+  {
+    "text": "Patient with gastric cancer @ For patients who develop respiratory infections after surgery, antibiotics can be used to treat them.",
+    "pseudocode": "if Patient with gastric cancer develop respiratory infections after surgery：\n\tPatients with gastric cancer can use antibiotics to treat respiratory infections."
+  },
+  {
+    "text": "Patients with gastroesophageal reflux disease @ For patients with mild GERD, medication can be reduced, but patients with severe reflux esophagitis will require long-term PPI therapy.",
+    "pseudocode": "if Patients with gastroesophageal reflux disease have mild GERD：\n\tPatients with gastroesophageal reflux disease can reduce medication.\nelif Patients with gastroesophageal reflux disease have severe reflux esophagitis：\n\tPatients with gastroesophageal reflux disease will require long-term PPI therapy."
+  },
+  {
+    "text": "Patients with Candida infection of the cardiovascular system @ Candida infections of the cardiovascular system @ For patients who cannot undergo valve replacement, long-term suppression with fluconazole at a dosage of 400-800 mg daily is recommended",
+    "pseudocode": "if Patients with Candida infection of the cardiovascular system cannot undergo valve replacement：\n\tPatients with Candida infection of the cardiovascular system can take fluconazole orally daily at a dosage of 400-800 mg."
+  },
+  {
+    "text": "Patient with gastric cancer @ Consider single-agent chemotherapy with oral fluorouracils or taxanes for patients with poor performance status and advanced age. For patients with gastric cancer with positive HER2 expression, the molecular targeted therapy drug trastuzumab combined with chemotherapy can be used. Apatinib alone may be considered for patients with advanced gastric cancer who have failed 2 previous chemotherapy regimens and are in good physical condition.",
+    "pseudocode": "if Patient with gastric cancer has poor performance status and advanced age：\n\tPatient with gastric cancer can consider single-agent chemotherapy with oral fluorouracils or taxanes.\nelif Patient with gastric cancer has positive HER2 expression：\n\tPatient with gastric cancer can use the molecular targeted therapy drug trastuzumab combined with chemotherapy.\nelif Patient with gastric cancer has failed 2 previous chemotherapy regimens and is in good physical condition：\n\tPatient with gastric cancer can consider apatinib alone."
+  },
+  {
+    "text": "Patients with DILI @ Liver transplantation should be included in the treatment options for cases judged to be severe in a severity assessment. Special treatments such as corticosteroid pulse therapy and liver supporting therapies may also be effective.",
+    "pseudocode": "if Patients with DILI are judged to be severe in a severity assessment：\n\tLiver transplantation should be included in the treatment options for patients with DILI.\nelse：\n\tSpecial treatments such as corticosteroid pulse therapy and liver supporting therapies may also be effective for patients with DILI."
+  },
+  {
+    "text": "Patients with HEV @ During the early stage of acute HEV infection, it's advisable for the patient to observe home isolation or be hospitalized. Bed rest is recommended during this period, and gradual increases in activity can be initiated during the recovery phase.",
+    "pseudocode": "if Patients with HEV have acute infection：\n\tif Patients with HEV have mild symptoms：\n\t\tPatients with HEV can observe home isolation.\n\telif Patients with HEV have moderate to severe symptoms：\n\t\tPatients with HEV can be hospitalized.\n\t\t\tif Patients with HEV are in the early stage of acute infection：\n\t\t\t\tBed rest is recommended.\n\t\t\telif Patients with HEV are in the recovery phase：\n\t\t\t\tGradual increases in activity can be initiated."
+  },
+  {
+    "text": "Patients with ascites @ For patients with refractory ascites where sodium excretion is less than 30 mmol/d despite diuretic therapy, discontinuation of diuretics is recommended. TIPS treatment is recommended for refractory ascites patients as it can improve the control of ascites.",
+    "pseudocode": "if Patients with ascites have refractory ascites where sodium excretion is less than 30 mmol/d despite diuretic therapy：\n\tdiscontinuation of diuretics is recommended for patients with ascites.\nelif Patients with ascites have refractory ascites：\n\tTIPS treatment is recommended for patients with ascites as it can improve the control of ascites."
+  },
+  {
+    "text": "Patients with NSCLC @ For NSCLC patients who undergo surgery, if the pathology of surgical margin is negative and the mediastinal lymph node is positive (pN2 stage), besides routine postoperative adjuvant chemotherapy, adjuvant radiotherapy can be used, and chemotherapy followed by sequential radiotherapy is recommended.",
+    "pseudocode": "if Patients with NSCLC undergo surgery：\n\tif the pathology of surgical margin is negative and the mediastinal lymph node is positive (pN2 stage)：\n\t\tAdjuvant radiotherapy can be used for patients with NSCLC.\n\telse：\n\t\tRoutine postoperative adjuvant chemotherapy is recommended for patients with NSCLC."
+  },
+  {
+    "text": "Patients with breast cancer @ Neoadjuvant therapy with taxanes alone plus platinum may be considered for patients with underlying cardiac disease. ",
+    "pseudocode": "if Patients with breast cancer have underlying cardiac disease：\n\tPatients with breast cancer can consider neoadjuvant therapy with taxanes alone plus platinum."
+  },
+  {
+    "text": "Patients with gastroenteritis @ If vomiting is severe and non-surgical acute abdomen (such as intestinal obstruction) has been ruled out, antiemetic drugs may be effective. Ondansetron can be administered orally or intravenously in adults and children. The oral and intravenous doses for adults are 4 or 8 mg, three or four times a day. The intravenous dose for children is 0.15 or 0.3 mg/kg. Additionally, adults can use prochlorperazine and promethazine medications.",
+    "pseudocode": "if Patients with gastroenteritis have severe vomiting and non-surgical acute abdomen has been ruled out：\n\tif Patients with gastroenteritis are adults：\n\t\tPatients with gastroenteritis can take ondansetron orally or intravenously, 4 or 8 mg, three or four times a day.\n\telif Patients with gastroenteritis are children：\n\t\tPatients with gastroenteritis can take ondansetron intravenously, 0.15 or 0.3 mg/kg.\nelse：\n\tAdults with gastroenteritis can use prochlorperazine and promethazine medications."
+  },
+  {
+    "text": "Patients with knee osteoarthritis @ Topical NSAIDs should be used to improve function and quality of life for treatment of osteoarthritis of the knee, when not contraindicated.",
+    "pseudocode": "if Patients with knee osteoarthritis have contraindications to topical NSAIDs：\n\tNo treatment is recommended for patients with knee osteoarthritis.\nelse：\n\tTopical NSAIDs should be used to improve function and quality of life for patients with knee osteoarthritis."
+  },
+  {
+    "text": "Patients with allergic rhinitis @ For cases of nasal blockage type, in which the effects of pharmacotherapy are insufficient, surgical treatment can also be chosen.",
+    "pseudocode": "if Patients with allergic rhinitis have nasal blockage type：\n\tif The effects of pharmacotherapy are insufficient：\n\t\tSurgical treatment can be chosen for patients with allergic rhinitis."
+  },
+  {
+    "text": "Patients with OMM @ Cryotherapy can be employed as a palliative measure for tumor reduction in patients at intermediate to advanced stages.",
+    "pseudocode": "if Patients with OMM are at intermediate to advanced stages：\n\tPatients with OMM can employ cryotherapy as a palliative measure for tumor reduction."
+  },
+  {
+    "text": "Patients with post-thrombotic syndrome @ For patients who are younger, have a longer life expectancy, and have mild Villalta scores or moderate Villalta scores, conservative treatment is mainly used. Patients with severe Villalta score or venous ulcers, common femoral vein stenosis or occlusion can be treated with endovascular intervention.",
+    "pseudocode": "if Patients with post-thrombotic syndrome are younger, have a longer life expectancy, and have mild Villalta scores or moderate Villalta scores：\n\tConservative treatment is mainly used for patients with post-thrombotic syndrome.\nelif Patients with post-thrombotic syndrome have severe Villalta score or venous ulcers, common femoral vein stenosis or occlusion：\n\tPatients with post-thrombotic syndrome can be treated with endovascular intervention."
+  },
+  {
+    "text": "Patients with ALF @ Liver transplantation can be considered for ALF with manifestations such as hepatic encephalopathy and severe coagulation disorders.",
+    "pseudocode": "if Patients with ALF have manifestations such as hepatic encephalopathy and severe coagulation disorders：\n\tLiver transplantation can be considered for patients with ALF."
+  },
+  {
+    "text": "Patients with acute bacterial sinusitis @ Intravenous antibiotics may be considered in children who cannot tolerate oral medications for ABRS or in those with orbital, subperiosteal, or epidural abscesses.",
+    "pseudocode": "if Patients with acute bacterial sinusitis have children who cannot tolerate oral medications for ABRS or have orbital, subperiosteal, or epidural abscesses：\n\tIntravenous antibiotics may be considered for patients with acute bacterial sinusitis."
+  },
+  {
+    "text": "heart failure patients @ Nitroprusside is suitable for patients with severe heart failure, increased afterload, and those with pulmonary congestion or pulmonary edema.",
+    "pseudocode": "if patient with heart failure has severe heart failure and increased afterload：\n\tif patient with heart failure has pulmonary congestion or pulmonary edema：\n\t\tNitroprusside is suitable for patients with heart failure.\n\telse：\n\t\tNo specific treatment is mentioned for this condition."
+  },
+  {
+    "text": "Patients with insulinoma @ For multiple adenomas in the body or tail of the pancreas, distal pancreatectomy can be performed. In the case of malignant insulinoma in the proximal pancreas amenable to resection, a pancreaticoduodenectomy (Whipple procedure) is indicated. In patients with incomplete prior distal pancreatectomy, complete pancreatectomy may be considered.",
+    "pseudocode": "if Patients with insulinoma have multiple adenomas in the body or tail of the pancreas：\n\tPatients with insulinoma can undergo distal pancreatectomy.\nelif Patients with insulinoma have malignant insulinoma in the proximal pancreas amenable to resection：\n\tPatients with insulinoma can undergo pancreaticoduodenectomy (Whipple procedure).\nelif Patients with insulinoma have incomplete prior distal pancreatectomy：\n\tPatients with insulinoma may consider complete pancreatectomy."
+  },
+  {
+    "text": "Hypertensive patients @ Recommend weight loss for overweight hypertensive patients. For patients with obesity, diabetes, or high cholesterol levels, consider dietary changes such as increased consumption of fruits, vegetables, and low-fat dairy products.",
+    "pseudocode": "if Hypertensive patients are overweight：\n\tRecommend weight loss for overweight hypertensive patients.\nelif Hypertensive patients have obesity, diabetes, or high cholesterol levels：\n\tConsider dietary changes such as increased consumption of fruits, vegetables, and low-fat dairy products."
+  },
+  {
+    "text": "Patients with NSCLC @ Immune checkpoint inhibitors can be considered for NSCLC patients who fail to respond to platinum-doublet chemotherapy or targeted therapy.",
+    "pseudocode": "if Patients with NSCLC fail to respond to platinum-doublet chemotherapy or targeted therapy：\n\tPatients with NSCLC can consider immune checkpoint inhibitors."
+  },
+  {
+    "text": "Patients with HEV @ Patients with unexplained ALT abnormalities or clinical symptoms of hepatitis should undergo testing for anti-HEV IgM and anti-HEV IgG. For immunocompromised patients, additional testing for HEV RNA or antigen is recommended.",
+    "pseudocode": "if Patients with HEV have unexplained ALT abnormalities or clinical symptoms of hepatitis：\n\tPatients with HEV should undergo testing for anti-HEV IgM and anti-HEV IgG.\n\tif Patients with HEV are immunocompromised：\n\t\tAdditional testing for HEV RNA or antigen is recommended."
+  },
+  {
+    "text": "Patient with gastric cancer @ For elderly patients with poor physical condition, severe illness, and inability to tolerate Western medicine treatment, traditional Chinese medicine treatment can be used as an auxiliary treatment.",
+    "pseudocode": "if Patient with gastric cancer has poor physical condition, severe illness, and inability to tolerate Western medicine treatment：\n\tPatient with gastric cancer can use traditional Chinese medicine treatment as an auxiliary treatment.\nelse：\n\tPatient with gastric cancer should receive Western medicine treatment."
+  },
+  {
+    "text": "Patients with cirrhosis and ascites @ For patients with moderate to large-volume ascites, recurrent ascites, and hyponatremia, when conventional diuretic therapy is ineffective, it is recommended to use the selective vasopressin V2 receptor antagonist tolvaptan as a treatment option.",
+    "pseudocode": "if Patients with cirrhosis and ascites have moderate to large-volume ascites, recurrent ascites, and hyponatremia：\n\tif Conventional diuretic therapy is ineffective for patients with cirrhosis and ascites：\n\t\tTolvaptan, a selective vasopressin V2 receptor antagonist, is recommended as a treatment option for patients with cirrhosis and ascites."
+  },
+  {
+    "text": "Patients with GSDIa @ For patients with renal impairment, combined liver and kidney transplantation can be performed.",
+    "pseudocode": "if Patients with GSDIa have renal impairment：\n\tPatients with GSDIa can undergo combined liver and kidney transplantation."
+  },
+  {
+    "text": "Patients with PSC @ For PSC patients with dominant bile duct strictures, endoscopic balloon dilation or short-term stent placement can be performed for biliary drainage treatment.",
+    "pseudocode": "if Patients with PSC have dominant bile duct strictures：\n\tPSC patients can perform endoscopic balloon dilation for biliary drainage treatment.\nelse：\n\tPSC patients can perform short-term stent placement for biliary drainage treatment."
+  },
+  {
+    "text": "Elderly patients with osteoporosis @ Adequate intake of calcium and vitamin D is crucial for the prevention and treatment of osteoporosis. For adults over 50 years old who are at moderate risk for vitamin D deficiency, the recommended daily intake of vitamin D is 800 to 1000 IU; consider those aged 60 and above The above-mentioned elderly people often suffer from vitamin D deficiency due to lack of sunshine and impaired intake and absorption. The recommended calcium intake for the elderly and elderly patients with osteoporosis is 1000-1200 mg/d, and the vitamin D3 intake is 800~1200 IU/d.",
+    "pseudocode": "if Elderly patients with osteoporosis are at moderate risk for vitamin D deficiency：\n\tElderly patients with osteoporosis should take 800 to 1000 IU of vitamin D orally daily.\nelif Elderly patients with osteoporosis are aged 60 and above：\n\tElderly patients with osteoporosis should take 800 to 1200 IU of vitamin D3 orally daily.\nElderly patients with osteoporosis should take 1000 to 1200 mg of calcium orally daily."
+  },
+  {
+    "text": "Patients with WD @ Sodium 2-mercaptoethanesulfonate is suitable for severe WD patients and those with neurological or psychiatric symptoms. The adult dose is 500 to 750 mg once daily, and the pediatric dose is 10 to 20 mg/(kg·d).",
+    "pseudocode": "if Patients with WD have severe WD or neurological or psychiatric symptoms：\n\tif Patients with WD are adults：\n\t\tPatients with WD can take 500 to 750 mg of sodium 2-mercaptoethanesulfonate once daily.\n\telif Patients with WD are pediatric：\n\t\tPatients with WD can take 10 to 20 mg/(kg·d) of sodium 2-mercaptoethanesulfonate."
+  },
+  {
+    "text": "Patients with sarcoidosis and tuberculosis @ For patients with mild symptoms, stable condition, no significant organ involvement, and no need for prioritized treatment of nodules, it is advisable to prioritize diagnostic anti-tuberculosis therapy.",
+    "pseudocode": "if Patients with sarcoidosis and tuberculosis have mild symptoms, stable condition, no significant organ involvement, and no need for prioritized treatment of nodules：\n\tPrioritize diagnostic anti-tuberculosis therapy for patients with sarcoidosis and tuberculosis."
+  },
+  {
+    "text": "Patients with COVID-19 @ For patients with lingering cough symptoms following the resolution of acute symptoms of COVID-19, short-term use of cough suppressants is recommended. The use of antibiotics or inhaled corticosteroids is not advised.",
+    "pseudocode": "if Patients with COVID-19 have lingering cough symptoms following the resolution of acute symptoms of COVID-19：\n\tshort-term use of cough suppressants is recommended for patients with COVID-19.\nelse：\n\tthe use of antibiotics or inhaled corticosteroids is not advised for patients with COVID-19."
+  },
+  {
+    "text": "Patients with liver cancer @ If HBsAg is positive, it is recommended to use potent and low-resistance drugs such as entecavir, tenofovir disoproxil fumarate, or tenofovir alafenamide.",
+    "pseudocode": "if Patients with liver cancer have positive HBsAg：\n\tPatients with liver cancer can use potent and low-resistance drugs such as entecavir, tenofovir disoproxil fumarate, or tenofovir alafenamide."
+  },
+  {
+    "text": "Streptococcus pneumoniae pneumonia patients @ Supportive therapy: For severe chest pain, a small amount of analgesics may be used. Do not use aspirin or other antipyretics to avoid excessive sweating, dehydration and interference with the true heat pattern, leading to incorrect clinical judgment. Moderately or severely ill patients should be given oxygen.",
+    "pseudocode": "if Patients with Streptococcus pneumoniae pneumonia have severe chest pain：\n\tPatients with Streptococcus pneumoniae pneumonia can use a small amount of analgesics for supportive therapy.\nelse if Patients with Streptococcus pneumoniae pneumonia are moderately or severely ill：\n\tPatients with Streptococcus pneumoniae pneumonia should be given oxygen for supportive therapy.\nelse：\n\tNo specific decision-making process is mentioned for Patients with Streptococcus pneumoniae pneumonia in the given text."
+  },
+  {
+    "text": "Patients with primary biliary cholangitis @ For those with portal hypertension, upper gastrointestinal endoscopy can be performed in the second trimester.",
+    "pseudocode": "if Patients with primary biliary cholangitis have portal hypertension：\n\tUpper gastrointestinal endoscopy can be performed in the second trimester."
+  },
+  {
+    "text": "Hypoparathyroidism patients @ For patients with recurrent and difficult-to-relieve symptoms, continuous intravenous infusion of calcium can be administered, supplementing approximately 500-1,000 mg of elemental calcium per day. In cases of severe attacks, short-term muscle injections of diazepam or phenytoin may be used.",
+    "pseudocode": "if Hypoparathyroidism patients have recurrent and difficult-to-relieve symptoms：\n\tif Hypoparathyroidism patients have severe attacks：\n\t\tHypoparathyroidism patients can use short-term muscle injections of diazepam or phenytoin.\n\telse：\n\t\tHypoparathyroidism patients can receive continuous intravenous infusion of calcium, supplementing approximately 500-1,000 mg of elemental calcium per day."
+  },
+  {
+    "text": "Patients with vaginal laxity syndrome @ If a patient lacks columnar folds and does not have specific defects in a particular area, for those with congenital vaginal wall prolapse into the boat-shaped fossa, performing distal vaginal excision and hymenorrhaphy reconstruction may be considered.",
+    "pseudocode": "if Patients with vaginal laxity syndrome lack columnar folds and do not have specific defects in a particular area：\n\tif Patients with vaginal laxity syndrome have congenital vaginal wall prolapse into the boat-shaped fossa：\n\t\tPerform distal vaginal excision and hymenorrhaphy reconstruction for patients with vaginal laxity syndrome."
+  }
+]
