@@ -8,7 +8,7 @@ class ChatLog:
 
     def log(self, record, logtype = None):
         try:
-            with open(self.file_path, 'r') as f:
+            with open(self.file_path, 'r',encoding="utf-8") as f:
                 history = json.load(f)
         except:
             history = []
