@@ -1,4 +1,6 @@
 import tiktoken
+import json
+import re
 
 def num_tokens_from_string(string: str) -> int:
 	"""Returns the number of tokens in a text string."""
@@ -331,6 +333,16 @@ def prompt_logical_pred() -> dict:
 	return prompt
 
 def prompt_find_triples() -> dict:
+	# instruction = """As an expert in medical knowledge and natural language processing, I need to select semantically similar triples for the provided sentences, and I am skilled at performing tasks based on rules and instructions. I will learn form the example and form my response to your question.
+	# Rules：
+	# - You should answer in the following procedure:1. Observation,2.Thought,3.Plan,4.Answer
+	# - You should understand and list the meaning of each triple first in your observation
+	# - Add all triples which meaning appeared in the given text into the answer
+	# - If a drug triple is add into the answer, you should consider all the dosage information about this drug
+	# - You should only answer in a list which indicates whether a certain triple appears in the given text.If the list is empty just answer a "[]".No thing more.
+	# - For example:To a certain triple list[triple1:(triple1), triple2(triple2),triple3:(triple3)],if triple1 and triple3 appeared in the text, then the final answer is [1,3]
+	# - """
+	
 	instruction = """作为医学知识和自然语言处理方面的专家，我需要为提供的句子选择语义相似的三元组，并且我擅长根据规则和指令执行任务。 我将从示例中学习并形成对您问题的回答。
 	规则：
 	- 你应该按照以下步骤回答：1.Observation；2.Thought；3.Plan；4.Answer
@@ -404,6 +416,104 @@ def prompt_find_triples() -> dict:
             }
 	return prompt
 
+def prompt_find_triples_xiaorong() -> dict:
+	instruction = """As an expert in medical knowledge and natural language processing, I am skilled at performing tasks based on rules and instructions. I will learn form the example and form my response to your question.
+	Rules：
+	- Add all triples which meaning appeared in the given text into the answer.
+	- You should only answer in a list which indicates whether a certain triple appears in the given text.If the list is empty just answer a "[]".No thing more.
+	- """
+	example = """
+	Example1#
+	"text":"肠道念珠菌病患儿可以每日口服200~400mg酮康唑"
+	"triples":[triple1:"[肠道念珠菌病患儿,治疗药物,酮康唑]", triple2:"[酮康唑,用法用量,口服]",triple3:"[酮康唑,用法用量，100mg]",triple4:"[酮康唑,用法用量，200~400mg]",triple5:"[酮康唑,用法用量，50mg]"，triple6:"[酮康唑,用法用量，100mg]]
+	Question:请使用一个list来表示哪些triple所代表的语义出现在了给定text中，list中仅回答triple的序号即可。
+	Answer：
+	[1,2,4]
+	#
+
+	Example2#
+	"text":"肠道念珠菌病患儿可以每日口服50mg酮康唑"
+	"triples":[triple1:"[肠道念珠菌病患儿,治疗药物,酮康唑]", triple2:"[酮康唑,用法用量,口服]",triple3:"[酮康唑,用法用量，100mg]",triple4:"[酮康唑,用法用量，200~400mg]",triple5:"[酮康唑,用法用量，50mg]"，triple6:"[酮康唑,用法用量，100mg]]
+	Question:
+	请使用一个list来表示哪些triple所代表的语义出现在了给定text中，list中仅回答triple的序号即可。
+	Answer：
+	[1,2,5]
+	#"""
+
+	en_example = """
+	Example1#
+	"text":"Children with intestinal candidiasis can take orally 200-400mg of ketoconazole daily."
+	"triples":[triple1:"[Children with intestinal candidiasis,drug therapy,ketoconazole]", triple2:"[ketoconazole,dosage and administration,orally]",triple3:"[ketoconazole,dosage and administration,100mg]",triple4:"[ketoconazole,dosage and administration,200~400mg]",triple5:"[ketoconazole,dosage and administration,50mg]",triple6:"[ketoconazole,dosage and administration,100mg]]
+	Question: Please use a list to indicate which semantics represented by triples appear in the given text. Only the sequence number of the triples can be answered in the list.
+	Answer:
+	[1,2,4]
+	#
+
+	Example2#
+	"text":"Children with intestinal candidiasis can take 50 mg of ketoconazole orally daily."
+	"triples":[triple1:"[Children with intestinal candidiasis,drug therapy,ketoconazole]", triple2:"[ketoconazole,dosage and administration,orally]",triple3:"[ketoconazole,dosage and administration,100mg]",triple4:"[ketoconazole,dosage and administration,200~400mg]",triple5:"[ketoconazole,dosage and administration,50mg]",triple6:"[ketoconazole,dosage and administration,100mg]]
+	Question: Please use a list to indicate which semantics represented by triples appear in the given text. Only the sequence number of the triples can be answered in the list.
+	Answer:
+	[1,2,5]
+	#"""
+	prompt = {
+                  "instruction" : instruction,
+                  "example" : example,
+				  "en_example" : en_example
+            }
+	return prompt
+
+def prompt_find_triples_xiaorong2() -> dict:
+	instruction = """As an expert in medical knowledge and natural language processing, I am skilled at performing tasks based on rules and instructions. I will learn form the example and form my response to your question.
+	Rules：
+	- Add all triples which meaning appeared in the given text into the answer.
+	- If a drug triple is add into the answer, you should consider all the dosage information about this drug.
+	- You should only answer in a list which indicates whether a certain triple appears in the given text.If the list is empty just answer a "[]".No thing more.
+	- For example:To a certain triple list[triple1:(triple1), triple2(triple2),triple3:(triple3)],if triple1 and triple3 appeared in the text, then the final answer is [1,3]
+	- """
+	example = """
+	Example1#
+	"text":"肠道念珠菌病患儿可以每日口服200~400mg酮康唑"
+	"triples":[triple1:"[肠道念珠菌病患儿,治疗药物,酮康唑]", triple2:"[酮康唑,用法用量,口服]",triple3:"[酮康唑,用法用量，100mg]",triple4:"[酮康唑,用法用量，200~400mg]",triple5:"[酮康唑,用法用量，50mg]"，triple6:"[酮康唑,用法用量，100mg]]
+	Question:
+	请使用一个list来表示哪些triple所代表的语义出现在了给定text中，list中仅回答triple的序号即可，如果没有找到任何一个对应的triple，则回答一个空list"[]"。
+	Thought：让我一步一步来分析，triple1代表的意思是肠道念珠菌病患儿的治疗药物是酮康唑，triple2代表的意思是酮康唑的用法用量是口服，triple3代表的意思是酮康唑的用法用量是用法用量100mg，triple4代表的意思是酮康唑的用法用量是用法用量200~400mg，triple5代表的意思是酮康唑的用法用量是用法用量100mg。因此triple1、triple2、triple4与本句子语义相关。
+	Answer：[1,2,4]
+	#
+
+	Example2#
+	"text":"肠道念珠菌病患儿可以每日口服50mg酮康唑"
+	"triples":[triple1:"[肠道念珠菌病患儿,治疗药物,酮康唑]", triple2:"[酮康唑,用法用量,口服]",triple3:"[酮康唑,用法用量，100mg]",triple4:"[酮康唑,用法用量，200~400mg]",triple5:"[酮康唑,用法用量，50mg]"，triple6:"[酮康唑,用法用量，100mg]]
+	Question:
+	请使用一个list来表示哪些triple所代表的语义出现在了给定text中，list中仅回答triple的序号即可，如果没有找到任何一个对应的triple，则回答一个空list"[]"，让我一步一步来分析吧。
+	Thought：让我一步一步来分析，triple1代表的意思是肠道念珠菌病患儿的治疗药物是酮康唑，triple2代表的意思是酮康唑的用法用量是口服，triple3代表的意思是酮康唑的用法用量是用法用量100mg，triple4代表的意思是酮康唑的用法用量是用法用量200~400mg，triple5代表的意思是酮康唑的用法用量是用法用量100mg。因此triple1、triple2、triple5与本句子语义相关。
+	Answer：[1,2,5]
+	#"""
+
+	en_example = """
+	Example1#
+	"text":"Children with intestinal candidiasis can take orally 200-400mg of ketoconazole daily."
+	"triples":[triple1:"[Children with intestinal candidiasis,drug therapy,ketoconazole]", triple2:"[ketoconazole,dosage and administration,orally]",triple3:"[ketoconazole,dosage and administration,100mg]",triple4:"[ketoconazole,dosage and administration,200~400mg]",triple5:"[ketoconazole,dosage and administration,50mg]",triple6:"[ketoconazole,dosage and administration,100mg]]
+	Question:
+	Please use a list to indicate which semantics represented by triples appear in the given text. Only the sequence number of the triples can be answered in the list. If no corresponding triple is found, answer an empty list "[]".
+	Thought: Let’s think step by step, Triple1 means that the treatment drug for children with intestinal candidiasis is ketoconazole. Triple2 means that the usage and dosage of ketoconazole is oral. Triple3 means that ketoconazole is used. The usage and dosage is 100mg. Triple4 means the usage and dosage of ketoconazole is 200~400mg. Triple5 means the usage and dosage of ketoconazole is 100mg. Therefore, triple1, triple2, and triple4 are semantically related to this sentence.
+	Answer: [1,2,4]
+	#
+
+	Example2#
+	"text":"Children with intestinal candidiasis can take 50 mg of ketoconazole orally daily."
+	"triples":[triple1:"[Children with intestinal candidiasis,drug therapy,ketoconazole]", triple2:"[ketoconazole,dosage and administration,orally]",triple3:"[ketoconazole,dosage and administration,100mg]",triple4:"[ketoconazole,dosage and administration,200~400mg]",triple5:"[ketoconazole,dosage and administration,50mg]",triple6:"[ketoconazole,dosage and administration,100mg]]
+	Question:
+	Please use a list to indicate which semantics represented by triples appear in the given text. Only the sequence number of the triples can be answered in the list. If no corresponding triple is found, answer an empty list "[]".
+	Thought: Let’s think step by step, Triple1 means that the treatment drug for children with intestinal candidiasis is ketoconazole. Triple2 means that the usage and dosage of ketoconazole is oral. Triple3 means that ketoconazole is used. The usage and dosage is 100mg. Triple4 means the usage and dosage of ketoconazole is 200~400mg. Triple5 means the usage and dosage of ketoconazole is 100mg. Therefore, triple1, triple2, and triple5 are semantically related to this sentence.
+	Answer: [1,2,5]
+	#"""
+	prompt = {
+                  "instruction" : instruction,
+                  "example" : example,
+				  "en_example" : en_example
+            }
+	return prompt
 
 def prompt_drug_type() -> dict:
 	instruction = """As an expert in medical knowledge and natural language processing, I am skilled at performing tasks based on rules and instructions. I will learn form the example and form my response to your question.

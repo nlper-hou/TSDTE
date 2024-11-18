@@ -1,5 +1,6 @@
 import os
-os.chdir("/TSDTE")
+current_dir = os.path.dirname(os.path.abspath(__file__))
+os.chdir(current_dir)
 import json
 import argparse
 from tqdm import tqdm
