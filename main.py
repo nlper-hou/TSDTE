@@ -23,12 +23,12 @@ if __name__ == "__main__":
         input_dataset_path = "Dataset/en/Text2DT_test.json"
     else:
         input_dataset_path = "Dataset/Text2DT_test.json"
-    with open(input_dataset_path, 'r') as f:
-        input_dataset = json.load(f,encoding="utf-8")
+    with open(input_dataset_path, 'r',encoding="utf-8") as f:
+        input_dataset = json.load(f)
     print(f"{len(input_dataset)} texts loaded!")
     try:
-        with open(f"Result/chatgpt/{input_dataset_path.split('.')[0].split('/')[1]}_DT并行实验第"+str(index+1)+"次_knn="+str(k_num)+".json", 'r') as f:
-            data_list = json.load(f,encoding="utf-8")
+        with open(f"Result/chatgpt/{input_dataset_path.split('.')[0].split('/')[1]}_DT并行实验第"+str(index+1)+"次_knn="+str(k_num)+".json", 'r',encoding="utf-8") as f:
+            data_list = json.load(f)
     except FileNotFoundError:
         data_list = []
     # Text2DT
@@ -44,8 +44,8 @@ if __name__ == "__main__":
         # 抽取决策伪代码结构
         pseudocode_path = f"Result/chatgpt/{input_dataset_path.split('.')[0].split('/')[1]}_pseudocode并行实验第"+str(index+1)+"次_knn="+str(k_num)+".json"
         try:
-            with open(pseudocode_path, 'r') as f:
-                pseudocode_history = json.load(f,encoding="utf-8")
+            with open(pseudocode_path, 'r',encoding="utf-8") as f:
+                pseudocode_history = json.load(f)
         except:
             pseudocode_history = []
 
@@ -68,8 +68,8 @@ if __name__ == "__main__":
 
         DT_path = f"Result/chatgpt/{input_dataset_path.split('.')[0].split('/')[1]}_DT并行实验第"+str(index+1)+"次_knn="+str(k_num)+".json"
         try:
-            with open(DT_path, 'r') as f:
-                DT_history = json.load(f,encoding="utf-8")
+            with open(DT_path, 'r',encoding="utf-8") as f:
+                DT_history = json.load(f)
         except:
             DT_history = []
         DT_history.append({

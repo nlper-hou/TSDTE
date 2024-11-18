@@ -496,11 +496,11 @@ def pseudocode_find_triples(language,text) -> list:
     sentence = sentence.strip()
     node = []
     if language=="en":
-        with open('/root/nas/llm-prompt/text2DT/Pseudocode_language/Res/先抽伪代码再抽三元组.json', 'r') as f1:
-            tree_list = json.load(f1,encoding="utf-8")
+        with open('/root/nas/llm-prompt/text2DT/Pseudocode_language/Res/先抽伪代码再抽三元组.json', 'r',encoding="utf-8") as f1:
+            tree_list = json.load(f1)
     else:
-        with open('/root/nas/llm-prompt/text2DT/Pseudocode_language/Res/先抽伪代码再抽三元组.json', 'r') as f1:
-            tree_list = json.load(f1,encoding="utf-8")
+        with open('/root/nas/llm-prompt/text2DT/Pseudocode_language/Res/先抽伪代码再抽三元组.json', 'r',encoding="utf-8") as f1:
+            tree_list = json.load(f1)
     for tree in tree_list:
         if tree['text'] == sentence:
             node = tree['triples']

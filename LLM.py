@@ -94,17 +94,17 @@ def LLM_logic_prediction(language,triples, text) -> str:
 def example_formation(language,example_text, k)-> str:
     if language=="en":
         #相似的英文样例，此处路径还未修改
-        with open("Res/en_train_decision_path.json", 'r') as f:
-            examples = json.load(f,encoding="utf-8")
+        with open("Res/en_train_decision_path.json", 'r',encoding="utf-8") as f:
+            examples = json.load(f)
         # 读取相似度的文本
-        with open("Dataset/en/en_sim_result.json", 'r') as f:
-            sim_examples = json.load(f,encoding="utf-8")
+        with open("Dataset/en/en_sim_result.json", 'r',encoding="utf-8") as f:
+            sim_examples = json.load(f)
     else:
-        with open("Res/text_pseudocode.json", 'r') as f:
-            examples = json.load(f,encoding="utf-8")
+        with open("Res/text_pseudocode.json", 'r',encoding="utf-8") as f:
+            examples = json.load(f)
         # 读取相似度的文本
-        with open("Res/sim_result.json", 'r') as f:
-            sim_examples = json.load(f,encoding="utf-8")
+        with open("Res/sim_result.json", 'r',encoding="utf-8") as f:
+            sim_examples = json.load(f)
     sample_texts = ""
     for sim in sim_examples:
         if example_text == sim['text']:
