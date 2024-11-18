@@ -5,8 +5,8 @@ import re
 from collections import Counter
 import json
 
-openai.api_base = "https://openkey.cloud/v1"
-openai.api_key = "sk-5pQBQtVqkhIWU9WvC5A9Ea6f14374737B171D04e1f2b68Dd"
+openai.api_base = "XXX"
+openai.api_key = "XXX"
 
 def LLM(instruction, example, input, note = None):
     completion = openai.ChatCompletion.create(
