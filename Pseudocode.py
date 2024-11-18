@@ -72,7 +72,6 @@ def same_statement(text1, text2):
         return False
 
 def extract_pseudocode(language,text, triplets,K) -> list:
-    # 抽取为伪代码没有使用三元组，主要目的是为了实现并行
     pseudocode = LLM_extract_pseudocode_without_triplet(language,text,K)
     return pseudocode
 
@@ -101,7 +100,6 @@ def find_triples(language,text : str, triplets, role, patient,k_num,error_triple
                     print(triplets)
     else:
         index = LLM_find_triples(language,text, triplets['decision triples'],k_num,error_triplet)
-        
         for ID, triple in enumerate(triplets['decision triples']):
             if (ID + 1) in index:
                 node.append(triple)

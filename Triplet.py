@@ -10,7 +10,6 @@ def extract_triplet(language,text, mode = "main"):
             path = "Res/test_627.json"  # 中文使用的
         with open(path, 'r') as f:
             triplets = json.load(f)
-        
         # 根据text在triplets中找到对应的字典，读取其中的“triples”
         for triplet in triplets:
             if triplet['text'] == text:

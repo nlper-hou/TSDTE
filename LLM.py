@@ -1,19 +1,16 @@
 from Prompt import num_tokens_from_string,prompt_logical_pred,prompt_ask_pseudocode_without_triplet,prompt_ask_pseudocode,prompt_drug_type,prompt_find_triples,prompt_find_triples_xiaorong,prompt_select_triplet_xiaorong,prompt_find_triples_xiaorong2
-import os
 import openai
 import tiktoken
-from Log import ChatLog
 import re
 from collections import Counter
 import json
 
-openai.api_base = "XXX"
-openai.api_key = "XXX"
-proxies = {'XXX'}
-openai.proxy = proxies
+openai.api_base = "https://openkey.cloud/v1"
+openai.api_key = "sk-5pQBQtVqkhIWU9WvC5A9Ea6f14374737B171D04e1f2b68Dd"
 
 def LLM(instruction, example, input, note = None):
     completion = openai.ChatCompletion.create(
+        # gpt-3.5-turbo-1106、gpt-3.5-turbo
         model="gpt-3.5-turbo-1106",
         top_p = 0.1,
         messages=[
@@ -116,6 +113,7 @@ def example_formation(language,example_text, k)-> str:
                 # 选择相似文本
                 example_text = examples[sim_list[index]]['text']
                 pseudocode = examples[sim_list[index]]['pseudocode']
+                # condition_triples = examples[sim_list[index]]['condition triples']
                 patient = re.match(r'(.*?)@', example_text)[0][:-1]
                 if language=="en":
                     sample_text = f"""Example{index+1}#
@@ -187,9 +185,6 @@ def LLM_extract_pseudocode(language,text, triplets,K) -> list:
         请根据这段text，使用一颗前序二叉树来归纳总结出决策流程
         tree：
         """
-    # if num_tokens_from_string(instruction+example+input)>=3400:
-    #     K = K-1
-    #     example = example_formation(language,text, k = K)
     answer = LLM(instruction, example, input, note="问取伪代码")
     answer = answer[0].split("\n")
 
@@ -198,6 +193,8 @@ def LLM_extract_pseudocode(language,text, triplets,K) -> list:
     return answer
 
 def LLM_extract_pseudocode_without_triplet(language,text,K) -> list:
+
+    # 对比实验：抽取为伪代码没有使用三元组，主要目的是为了实现并行抽取决策树
     prompt = prompt_ask_pseudocode_without_triplet()
     
     instruction = prompt['instruction']
@@ -231,9 +228,6 @@ def LLM_extract_pseudocode_without_triplet(language,text,K) -> list:
         请根据这段text，使用一颗前序二叉树来归纳总结出决策流程
         tree：
         """
-    # if num_tokens_from_string(instruction+example+input)>=3400:
-    #     K = K-1
-    #     example = example_formation(language,text, k = K)
     answer = LLM(instruction, example, input, note="问取伪代码")
     
     answer = answer[0].split("\n")

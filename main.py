@@ -1,5 +1,5 @@
 import os
-os.chdir("TSDTE")
+os.chdir("/root/nas/Text2DT")
 import json
 import argparse
 from tqdm import tqdm
@@ -16,6 +16,10 @@ if __name__ == "__main__":
     k_num = args.K
     language = args.language
     index = args.index
+    
+    # k_num = 4
+    # language = "zh"
+    # index = 2
 
     # 加载数据集
     if language=="en":
@@ -62,6 +66,8 @@ if __name__ == "__main__":
             })
             with open(pseudocode_path, 'w') as f:
                 json.dump(pseudocode_history, f, ensure_ascii=False, indent=2)
+        # 消融实验专用
+        # DT = find_triplet_xiaorong(language,pseudocode, triplets, text)
         
         # 将决策路径转化为决策树
         DT = convert_pseudocode2DT(language,pseudocode, triplets, text,k_num)
@@ -78,3 +84,5 @@ if __name__ == "__main__":
         })
         with open(DT_path, 'w') as f:
             json.dump(DT_history, f, ensure_ascii=False, indent=2)
+
+            
